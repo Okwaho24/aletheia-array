@@ -1,0 +1,30 @@
+name: Aletheia Listener Verification
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+    branches: [ "main", "master" ]
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - name: Run Production Factory Generation Test
+        run: python3 aletheia_production_factory.py
+      - name: Validate Package Count
+        run: |
+          PYTHON_COUNT=$(find dist_packages -maxdepth 1 -type d | wc -l)
+          echo "Generated packages directories: $PYTHON_COUNT"
+          if [ "$PYTHON_COUNT" -lt 1692 ]; then
+            exit 1
+          fi
