@@ -22,7 +22,7 @@ def get_canonical_evm_chains():
     return chain_map
 
 def main():
-    csv_path = sys.argv[1] if len(sys.argv) > 1 else "ALETHEIA_MASTER_MANIFEST_cleaned_1.csv"
+    csv_path = sys.argv[1] if len(sys.argv) > 1 else "identity_manifest.csv"
     manifest_file = Path(csv_path)
     
     if not manifest_file.exists():
@@ -33,20 +33,37 @@ def main():
     chain_map = get_canonical_evm_chains()
     failures = []
     
-    print(f"[*] Auditing positional manifest configurations...")
+    print(f"[*] Auditing manifest configurations from '{csv_path}'...")
     
     with open(manifest_file, mode='r', encoding='utf-8') as f:
         reader = csv.reader(f)
         for line_num, row in enumerate(reader, start=1):
-            if not row or len(row) < 9:
-                continue # Skip malformed or empty rows
+            if not row or len(row) < 4:
+                continue
                 
-            # Map positional columns based on your schema preview:
-            # Index 2: Chain Name, Index 3: Chain ID / Network, Index 8: Config Path
-            chain_name = row[2].strip() if len(row) > 2 and row[2] else "UNKNOWN"
-            chain_id_raw = row[3].strip() if len(row) > 3 and row[3] else ""
-            config_path_raw = row[8].strip() if len(row) > 8 and row[8] else ""
-            family = row[1].strip().lower() if len(row) > 1 and row[1] else ""
+            joined_row = "".join(row).lower()
+            if line_num == 1 or "chainname" in joined_row or "configpath" in joined_row:
+                continue
+
+            config_path_raw = ""
+            chain_name = "UNKNOWN"
+            chain_id_raw = ""
+            family = ""
+
+            for col in row:
+                col_str = col.strip()
+                if "mesh-nodes" in col_str or col_str.endswith(".json"):
+                    config_path_raw = col_str
+                elif col_str.isdigit() or (col_str.startswith("0x") and len(col_str) < 10):
+                    if not chain_id_raw:
+                        chain_id_raw = col_str
+
+            if not config_path_raw and len(row) > 8:
+                config_path_raw = row[8].strip()
+            if len(row) > 2:
+                chain_name = row[2].strip() if row[2].strip() else "UNKNOWN"
+            if len(row) > 1:
+                family = row[1].strip().lower()
 
             if not config_path_raw:
                 failures.append((line_num, chain_name, "Missing ConfigPath entry"))
