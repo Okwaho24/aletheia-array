@@ -1,0 +1,1696 @@
+DeviceID,Family,ChainName,ChainId,Network,Status,Priority,ConfigPath
+algorand__Algorand_Mainnet,algorand,Algorand Mainnet,mainnet-v1.0,mainnet,active,Medium,mesh-nodes/algorand/AlgorandMainnet/node-config.json
+algorand__Voi_Network,algorand,Voi Network,voi-mainnet,mainnet,active,Medium,mesh-nodes/algorand/VoiNetwork/node-config.json
+algorand_ecosystem__Algorand_Mainnet,algorand_ecosystem,Algorand Mainnet,mainnet-v1.0,mainnet,active,Medium,mesh-nodes/algorand_ecosystem/algorandmainnet/node-config.json
+algorand_ecosystem__Voi_Network_Mainnet,algorand_ecosystem,Voi Network Mainnet,voi-mainnet,mainnet,active,Medium,mesh-nodes/algorand_ecosystem/voinetworkmainnet/node-config.json
+aptos__Aptos_Mainnet,aptos,Aptos Mainnet,1,mainnet,active,Medium,mesh-nodes/aptos/AptosMainnet/node-config.json
+bitcoin__Bitcoin_Mainnet,bitcoin,Bitcoin Mainnet,mainnet,mainnet,active,Medium,mesh-nodes/bitcoin/BitcoinMainnet/node-config.json
+cardano__Cardano_Mainnet,cardano,Cardano Mainnet,mainnet,mainnet,active,Medium,mesh-nodes/cardano/CardanoMainnet/node-config.json
+cosmos__Cosmos_Hub,cosmos,Cosmos Hub,cosmoshub-4,mainnet,active,Medium,mesh-nodes/cosmos/CosmosHub/node-config.json
+cosmos_sdk__Akash_Network,cosmos_sdk,Akash Network,akashnet-2,mainnet,active,Medium,mesh-nodes/cosmos_sdk/akashnetwork/node-config.json
+cosmos_sdk__Axelar_Mainnet,cosmos_sdk,Axelar Mainnet,axelar-dojo-1,mainnet,active,Medium,mesh-nodes/cosmos_sdk/axelarmainnet/node-config.json
+cosmos_sdk__Celestia_Mainnet,cosmos_sdk,Celestia Mainnet,celestia,mainnet,active,Medium,mesh-nodes/cosmos_sdk/celestiamainnet/node-config.json
+cosmos_sdk__Cosmos_Hub,cosmos_sdk,Cosmos Hub,cosmoshub-4,mainnet,active,Medium,mesh-nodes/cosmos_sdk/cosmoshub/node-config.json
+cosmos_sdk__Fetch_ai_Mainnet,cosmos_sdk,Fetch.ai Mainnet,fetchhub-4,mainnet,active,Medium,mesh-nodes/cosmos_sdk/fetchaimainnet/node-config.json
+cosmos_sdk__Injective_Mainnet,cosmos_sdk,Injective Mainnet,injective-1,mainnet,active,Medium,mesh-nodes/cosmos_sdk/injectivemainnet/node-config.json
+cosmos_sdk__Kava_Mainnet,cosmos_sdk,Kava Mainnet,kava_2222-10,mainnet,active,Medium,mesh-nodes/cosmos_sdk/kavamainnet/node-config.json
+cosmos_sdk__Osmosis,cosmos_sdk,Osmosis,osmosis-1,mainnet,active,Medium,mesh-nodes/cosmos_sdk/osmosis/node-config.json
+cosmos_sdk__Secret_Network,cosmos_sdk,Secret Network,secret-4,mainnet,active,Medium,mesh-nodes/cosmos_sdk/secretnetwork/node-config.json
+cosmos_sdk__Sei_Network_Mainnet,cosmos_sdk,Sei Network Mainnet,pacific-1,mainnet,active,Medium,mesh-nodes/cosmos_sdk/seinetworkmainnet/node-config.json
+cosmos_sdk__Stargaze_Mainnet,cosmos_sdk,Stargaze Mainnet,stargaze-1,mainnet,active,Medium,mesh-nodes/cosmos_sdk/stargazemainnet/node-config.json
+cosmos_sdk__Thorchain_Mainnet,cosmos_sdk,Thorchain Mainnet,thorchain-1,mainnet,active,Medium,mesh-nodes/cosmos_sdk/thorchainmainnet/node-config.json
+directed_acyclic_graph__Fantom_Sonic_Mainnet,directed_acyclic_graph,Fantom Sonic Mainnet,sonic,mainnet,active,Medium,mesh-nodes/directed_acyclic_graph/fantomsonicmainnet/node-config.json
+directed_acyclic_graph__Hedera_Mainnet,directed_acyclic_graph,Hedera Mainnet,0.0.1,mainnet,active,Medium,mesh-nodes/directed_acyclic_graph/hederamainnet/node-config.json
+directed_acyclic_graph__Kaspa_Mainnet,directed_acyclic_graph,Kaspa Mainnet,kaspa,mainnet,active,Medium,mesh-nodes/directed_acyclic_graph/kaspamainnet/node-config.json
+elrond_multiversx__MultiversX_Mainnet,elrond_multiversx,MultiversX Mainnet,1,mainnet,active,Medium,mesh-nodes/elrond_multiversx/multiversxmainnet/node-config.json
+evm__,evm,,56,mainnet,active,Medium,mesh-nodes/evm/node-config.json
+evm__0G_Mainnet,evm,0G Mainnet,16661,mainnet,active,Medium,mesh-nodes/evm/0gmainnet/node-config.json
+evm__0XL3,evm,0XL3,7117,mainnet,active,Medium,mesh-nodes/evm/0xl3/node-config.json
+evm__0XTade,evm,0XTade,10248,mainnet,active,Medium,mesh-nodes/evm/0xtade/node-config.json
+evm__1Money_Network_Mainnet,evm,1Money Network Mainnet,21210,mainnet,active,Medium,mesh-nodes/evm/1moneynetworkmainnet/node-config.json
+evm__1Money_Sidechain_Mainnet,evm,1Money Sidechain Mainnet,21211,mainnet,active,Medium,mesh-nodes/evm/1moneysidechainmainnet/node-config.json
+evm__4GoodNetwork,evm,4GoodNetwork,846000,mainnet,active,Medium,mesh-nodes/evm/4goodnetwork/node-config.json
+evm__5ireChain_Mainnet,evm,5ireChain Mainnet,995,mainnet,active,Medium,mesh-nodes/evm/5irechainmainnet/node-config.json
+evm__6Degree_of_Outreach,evm,6Degree of Outreach,2477,mainnet,active,Medium,mesh-nodes/evm/6degreeofoutreach/node-config.json
+evm__AB_Core_Mainnet,evm,AB Core Mainnet,36888,mainnet,active,Medium,mesh-nodes/evm/abcoremainnet/node-config.json
+evm__ACME_Mainnet_Stealth,evm,ACME Mainnet Stealth,8224,mainnet,active,Medium,mesh-nodes/evm/acmemainnetstealth/node-config.json
+evm__ACiD,evm,ACiD,1714,mainnet,active,Medium,mesh-nodes/evm/acid/node-config.json
+evm__ADF_Chain,evm,ADF Chain,1215,mainnet,active,Medium,mesh-nodes/evm/adfchain/node-config.json
+evm__ADI_Chain,evm,ADI Chain,36900,mainnet,active,Medium,mesh-nodes/evm/adichain/node-config.json
+evm__AEON_Chain,evm,AEON Chain,10025,mainnet,active,Medium,mesh-nodes/evm/aeonchain/node-config.json
+evm__AERE_Network,evm,AERE Network,2800,mainnet,active,Medium,mesh-nodes/evm/aerenetwork/node-config.json
+evm__AEREDIUM,evm,AEREDIUM,237,mainnet,active,Medium,mesh-nodes/evm/aeredium/node-config.json
+evm__AIA_Mainnet,evm,AIA Mainnet,1319,mainnet,active,Medium,mesh-nodes/evm/aiamainnet/node-config.json
+evm__AILayer_Mainnet,evm,AILayer Mainnet,2649,mainnet,active,Medium,mesh-nodes/evm/ailayermainnet/node-config.json
+evm__AIOZ_Network,evm,AIOZ Network,168,mainnet,active,Medium,mesh-nodes/evm/aioznetwork/node-config.json
+evm__AIW3_Mainnet,evm,AIW3 Mainnet,2045,mainnet,active,Medium,mesh-nodes/evm/aiw3mainnet/node-config.json
+evm__ALL_Mainnet,evm,ALL Mainnet,651940,mainnet,active,Medium,mesh-nodes/evm/allmainnet/node-config.json
+evm__AMA_Mainnet,evm,AMA Mainnet,36969,mainnet,active,Medium,mesh-nodes/evm/amamainnet/node-config.json
+evm__AME_Chain_Mainnet,evm,AME Chain Mainnet,180,mainnet,active,Medium,mesh-nodes/evm/amechainmainnet/node-config.json
+evm__APEX,evm,APEX,2662,mainnet,active,Medium,mesh-nodes/evm/apex/node-config.json
+evm__ARC_Mainnet,evm,ARC Mainnet,1243,mainnet,active,Medium,mesh-nodes/evm/arcmainnet/node-config.json
+evm__ARDENIUM_Athena,evm,ARDENIUM Athena,7895,mainnet,active,Medium,mesh-nodes/evm/ardeniumathena/node-config.json
+evm__ARK_Mainnet,evm,ARK Mainnet,11811,mainnet,active,Medium,mesh-nodes/evm/arkmainnet/node-config.json
+evm__ARZIO_Chain,evm,ARZIO Chain,456,mainnet,active,Medium,mesh-nodes/evm/arziochain/node-config.json
+evm__ASHCHAIN,evm,ASHCHAIN,50366,mainnet,active,Medium,mesh-nodes/evm/ashchain/node-config.json
+evm__AVI_Coin,evm,AVI Coin,963369,mainnet,active,Medium,mesh-nodes/evm/avicoin/node-config.json
+evm__Aarma_Mainnet,evm,Aarma Mainnet,2889,mainnet,active,Medium,mesh-nodes/evm/aarmamainnet/node-config.json
+evm__Abey_Mainnet,evm,Abey Mainnet,179,mainnet,active,Medium,mesh-nodes/evm/abeymainnet/node-config.json
+evm__Abstract,evm,Abstract,2741,mainnet,active,Medium,mesh-nodes/evm/abstract/node-config.json
+evm__Abyss_Protocol,evm,Abyss Protocol,229772,mainnet,active,Medium,mesh-nodes/evm/abyssprotocol/node-config.json
+evm__Acala_Network,evm,Acala Network,787,mainnet,active,Medium,mesh-nodes/evm/acalanetwork/node-config.json
+evm__Access_Network,evm,Access Network,22888,mainnet,active,Medium,mesh-nodes/evm/accessnetwork/node-config.json
+evm__Accumulate_Kermit,evm,Accumulate Kermit,2478899481,mainnet,active,Medium,mesh-nodes/evm/accumulatekermit/node-config.json
+evm__Acria_IntelliChain,evm,Acria IntelliChain,47,mainnet,active,Medium,mesh-nodes/evm/acriaintellichain/node-config.json
+evm__Action_Mainnet,evm,Action Mainnet,21000,mainnet,active,Medium,mesh-nodes/evm/actionmainnet/node-config.json
+evm__Adil_Chain_V2_Mainnet,evm,Adil Chain V2 Mainnet,7576,mainnet,active,Medium,mesh-nodes/evm/adilchainv2mainnet/node-config.json
+evm__Adiri,evm,Adiri,2017,mainnet,active,Medium,mesh-nodes/evm/adiri/node-config.json
+evm__Aerie_Network,evm,Aerie Network,84886,mainnet,active,Medium,mesh-nodes/evm/aerienetwork/node-config.json
+evm__Agung_Network,evm,Agung Network,9990,mainnet,active,Medium,mesh-nodes/evm/agungnetwork/node-config.json
+evm__AirDAO_Mainnet,evm,AirDAO Mainnet,16718,mainnet,active,Medium,mesh-nodes/evm/airdaomainnet/node-config.json
+evm__Akroma,evm,Akroma,200625,mainnet,active,Medium,mesh-nodes/evm/akroma/node-config.json
+evm__Alaya_Mainnet,evm,Alaya Mainnet,201018,mainnet,active,Medium,mesh-nodes/evm/alayamainnet/node-config.json
+evm__Aleph_Zero,evm,Aleph Zero,2039,mainnet,active,Medium,mesh-nodes/evm/alephzero/node-config.json
+evm__Aleph_Zero_EVM,evm,Aleph Zero EVM,41455,mainnet,active,Medium,mesh-nodes/evm/alephzeroevm/node-config.json
+evm__Algen,evm,Algen,8911,mainnet,active,Medium,mesh-nodes/evm/algen/node-config.json
+evm__Algen_Layer2,evm,Algen Layer2,8921,mainnet,active,Medium,mesh-nodes/evm/algenlayer2/node-config.json
+evm__Algol,evm,Algol,2089,mainnet,active,Medium,mesh-nodes/evm/algol/node-config.json
+evm__Algorand,evm,Algorand,4160,mainnet,active,Medium,mesh-nodes/evm/algorand/node-config.json
+evm__AlienX_Mainnet,evm,AlienX Mainnet,10241024,mainnet,active,Medium,mesh-nodes/evm/alienxmainnet/node-config.json
+evm__All_About_Health,evm,All About Health,21133,mainnet,active,Medium,mesh-nodes/evm/allabouthealth/node-config.json
+evm__Alph_Network,evm,Alph Network,8738,mainnet,active,Medium,mesh-nodes/evm/alphnetwork/node-config.json
+evm__Alpha_Chain_Mainnet,evm,Alpha Chain Mainnet,3111,mainnet,active,Medium,mesh-nodes/evm/alphachainmainnet/node-config.json
+evm__Alphabet_Mainnet,evm,Alphabet Mainnet,111222333444,mainnet,active,Medium,mesh-nodes/evm/alphabetmainnet/node-config.json
+evm__AltLayer_Zero_Gas_Network,evm,AltLayer Zero Gas Network,4000003,mainnet,active,Medium,mesh-nodes/evm/altlayerzerogasnetwork/node-config.json
+evm__Altair,evm,Altair,2088,mainnet,active,Medium,mesh-nodes/evm/altair/node-config.json
+evm__Altblockscan_Mainnet,evm,Altblockscan Mainnet,191919,mainnet,active,Medium,mesh-nodes/evm/altblockscanmainnet/node-config.json
+evm__Altcoinchain,evm,Altcoinchain,2330,mainnet,active,Medium,mesh-nodes/evm/altcoinchain/node-config.json
+evm__Alterscope,evm,Alterscope,202209,mainnet,active,Medium,mesh-nodes/evm/alterscope/node-config.json
+evm__Althea_L1_Mainnet,evm,Althea L1 Mainnet,258432,mainnet,active,Medium,mesh-nodes/evm/altheal1mainnet/node-config.json
+evm__AlveyChain_Mainnet,evm,AlveyChain Mainnet,3797,mainnet,active,Medium,mesh-nodes/evm/alveychainmainnet/node-config.json
+evm__Alyx_Mainnet,evm,Alyx Mainnet,1314,mainnet,active,Medium,mesh-nodes/evm/alyxmainnet/node-config.json
+evm__AmChain,evm,AmChain,999999,mainnet,active,Medium,mesh-nodes/evm/amchain/node-config.json
+evm__AmStar_Mainnet,evm,AmStar Mainnet,1388,mainnet,active,Medium,mesh-nodes/evm/amstarmainnet/node-config.json
+evm__Amana,evm,Amana,8134,mainnet,active,Medium,mesh-nodes/evm/amana/node-config.json
+evm__Amana_Mixnet,evm,Amana Mixnet,81342,mainnet,active,Medium,mesh-nodes/evm/amanamixnet/node-config.json
+evm__Amana_Privnet,evm,Amana Privnet,81343,mainnet,active,Medium,mesh-nodes/evm/amanaprivnet/node-config.json
+evm__Amauti,evm,Amauti,24116,mainnet,active,Medium,mesh-nodes/evm/amauti/node-config.json
+evm__AmaxSmartchain,evm,AmaxSmartchain,662,mainnet,active,Medium,mesh-nodes/evm/amaxsmartchain/node-config.json
+evm__Ambros_Chain_Mainnet,evm,Ambros Chain Mainnet,880,mainnet,active,Medium,mesh-nodes/evm/ambroschainmainnet/node-config.json
+evm__Amplify_Subnet,evm,Amplify Subnet,78430,mainnet,active,Medium,mesh-nodes/evm/amplifysubnet/node-config.json
+evm__Ancient8,evm,Ancient8,888888888,mainnet,active,Medium,mesh-nodes/evm/ancient8/node-config.json
+evm__Anduschain_Mainnet,evm,Anduschain Mainnet,14288640,mainnet,active,Medium,mesh-nodes/evm/anduschainmainnet/node-config.json
+evm__Animechain_Mainnet,evm,Animechain Mainnet,69000,mainnet,active,Medium,mesh-nodes/evm/animechainmainnet/node-config.json
+evm__Antofy_Mainnet,evm,Antofy Mainnet,2202,mainnet,active,Medium,mesh-nodes/evm/antofymainnet/node-config.json
+evm__Anytype_EVM_Chain,evm,Anytype EVM Chain,1701,mainnet,active,Medium,mesh-nodes/evm/anytypeevmchain/node-config.json
+evm__ApeChain,evm,ApeChain,33139,mainnet,active,Medium,mesh-nodes/evm/apechain/node-config.json
+evm__Apertum,evm,Apertum,2786,mainnet,active,Medium,mesh-nodes/evm/apertum/node-config.json
+evm__Apex_Fusion_-_Nexus_Mainnet,evm,Apex Fusion - Nexus Mainnet,9069,mainnet,active,Medium,mesh-nodes/evm/apexfusion-nexusmainnet/node-config.json
+evm__Apollo_Mainnet,evm,Apollo Mainnet,62606,mainnet,active,Medium,mesh-nodes/evm/apollomainnet/node-config.json
+evm__AppChain,evm,AppChain,466,mainnet,active,Medium,mesh-nodes/evm/appchain/node-config.json
+evm__Aquachain,evm,Aquachain,61717561,mainnet,active,Medium,mesh-nodes/evm/aquachain/node-config.json
+evm__Arbitrum_Blueberry,evm,Arbitrum Blueberry,88153591557,mainnet,active,Medium,mesh-nodes/evm/arbitrumblueberry/node-config.json
+evm__Arbitrum_Nova,evm,Arbitrum Nova,42170,mainnet,active,Medium,mesh-nodes/evm/arbitrumnova/node-config.json
+evm__Arbitrum_One,evm,Arbitrum One,42161,mainnet,active,Medium,mesh-nodes/evm/arbitrumone/node-config.json
+evm__Arbitrum_on_xDai,evm,Arbitrum on xDai,200,mainnet,active,Medium,mesh-nodes/evm/arbitrumonxdai/node-config.json
+evm__Arc,evm,Arc,5042,mainnet,active,Medium,mesh-nodes/evm/arc/node-config.json
+evm__Arcadia_Mainnet,evm,Arcadia Mainnet,4278608,mainnet,active,Medium,mesh-nodes/evm/arcadiamainnet/node-config.json
+evm__Areum_Network_Mainnet,evm,Areum Network Mainnet,463,mainnet,active,Medium,mesh-nodes/evm/areumnetworkmainnet/node-config.json
+evm__Arevia,evm,Arevia,2309,mainnet,active,Medium,mesh-nodes/evm/arevia/node-config.json
+evm__Argochain,evm,Argochain,1299,mainnet,active,Medium,mesh-nodes/evm/argochain/node-config.json
+evm__Armonia_Eva_Chain_Mainnet,evm,Armonia Eva Chain Mainnet,160,mainnet,active,Medium,mesh-nodes/evm/armoniaevachainmainnet/node-config.json
+evm__Artela_Mainnet,evm,Artela Mainnet,11820,mainnet,active,Medium,mesh-nodes/evm/artelamainnet/node-config.json
+evm__Arthera_Mainnet,evm,Arthera Mainnet,10242,mainnet,active,Medium,mesh-nodes/evm/artheramainnet/node-config.json
+evm__Asset_Chain_Mainnet,evm,Asset Chain Mainnet,42420,mainnet,active,Medium,mesh-nodes/evm/assetchainmainnet/node-config.json
+evm__Astar,evm,Astar,592,mainnet,active,Medium,mesh-nodes/evm/astar/node-config.json
+evm__Astar_zKyoto,evm,Astar zKyoto,6038361,mainnet,active,Medium,mesh-nodes/evm/astarzkyoto/node-config.json
+evm__Astar_zkEVM,evm,Astar zkEVM,3776,mainnet,active,Medium,mesh-nodes/evm/astarzkevm/node-config.json
+evm__Astra,evm,Astra,11110,mainnet,active,Medium,mesh-nodes/evm/astra/node-config.json
+evm__Astria_EVM_Dusknet,evm,Astria EVM Dusknet,912559,mainnet,active,Medium,mesh-nodes/evm/astriaevmdusknet/node-config.json
+evm__Atelier,evm,Atelier,1971,mainnet,active,Medium,mesh-nodes/evm/atelier/node-config.json
+evm__Aternos,evm,Aternos,12020,mainnet,active,Medium,mesh-nodes/evm/aternos/node-config.json
+evm__Atheios,evm,Atheios,1620,mainnet,active,Medium,mesh-nodes/evm/atheios/node-config.json
+evm__Athene_Parthenon,evm,Athene Parthenon,281123,mainnet,active,Medium,mesh-nodes/evm/atheneparthenon/node-config.json
+evm__Athereum,evm,Athereum,43110,mainnet,active,Medium,mesh-nodes/evm/athereum/node-config.json
+evm__Atlas,evm,Atlas,622463,mainnet,active,Medium,mesh-nodes/evm/atlas/node-config.json
+evm__Atleta_Network,evm,Atleta Network,2440,mainnet,active,Medium,mesh-nodes/evm/atletanetwork/node-config.json
+evm__Atleta_Olympia,evm,Atleta Olympia,2340,mainnet,active,Medium,mesh-nodes/evm/atletaolympia/node-config.json
+evm__Ault_Blockchain_Mainnet,evm,Ault Blockchain Mainnet,904,mainnet,active,Medium,mesh-nodes/evm/aultblockchainmainnet/node-config.json
+evm__Aura_Mainnet,evm,Aura Mainnet,6322,mainnet,active,Medium,mesh-nodes/evm/auramainnet/node-config.json
+evm__Aurora_Mainnet,evm,Aurora Mainnet,1313161554,mainnet,active,Medium,mesh-nodes/evm/auroramainnet/node-config.json
+evm__Autobahn_Network,evm,Autobahn Network,45000,mainnet,active,Medium,mesh-nodes/evm/autobahnnetwork/node-config.json
+evm__Automata_Mainnet,evm,Automata Mainnet,65536,mainnet,active,Medium,mesh-nodes/evm/automatamainnet/node-config.json
+evm__Autonity_Mainnet,evm,Autonity Mainnet,65000000,mainnet,active,Medium,mesh-nodes/evm/autonitymainnet/node-config.json
+evm__Auxilium_Network_Mainnet,evm,Auxilium Network Mainnet,28945486,mainnet,active,Medium,mesh-nodes/evm/auxiliumnetworkmainnet/node-config.json
+evm__Avalanche_C-Chain,evm,Avalanche C-Chain,43114,mainnet,active,Medium,mesh-nodes/evm/avalanchec-chain/node-config.json
+evm__Aves_Mainnet,evm,Aves Mainnet,33333,mainnet,active,Medium,mesh-nodes/evm/avesmainnet/node-config.json
+evm__Avocado,evm,Avocado,634,mainnet,active,Medium,mesh-nodes/evm/avocado/node-config.json
+evm__B2_Hub_Mainnet,evm,B2 Hub Mainnet,213,mainnet,active,Medium,mesh-nodes/evm/b2hubmainnet/node-config.json
+evm__B2_Mainnet,evm,B2 Mainnet,223,mainnet,active,Medium,mesh-nodes/evm/b2mainnet/node-config.json
+evm__B3,evm,B3,8333,mainnet,active,Medium,mesh-nodes/evm/b3/node-config.json
+evm__BC_Hyper_Chain_Mainnet,evm,BC Hyper Chain Mainnet,3030,mainnet,active,Medium,mesh-nodes/evm/bchyperchainmainnet/node-config.json
+evm__BEXChain,evm,BEXChain,140586,mainnet,active,Medium,mesh-nodes/evm/bexchain/node-config.json
+evm__BIE,evm,BIE,1342,mainnet,active,Medium,mesh-nodes/evm/bie/node-config.json
+evm__BLXq_Mainnet,evm,BLXq Mainnet,1108,mainnet,active,Medium,mesh-nodes/evm/blxqmainnet/node-config.json
+evm__BM_Chain,evm,BM Chain,6800,mainnet,active,Medium,mesh-nodes/evm/bmchain/node-config.json
+evm__BMC_Mainnet,evm,BMC Mainnet,188,mainnet,active,Medium,mesh-nodes/evm/bmcmainnet/node-config.json
+evm__BNB_Smart_Chain_Mainnet,evm,BNB Smart Chain Mainnet,56,mainnet,active,Medium,mesh-nodes/evm/BNBSmartChainMainnet/node-config.json
+evm__BOAT_Mainnet,evm,BOAT Mainnet,8047,mainnet,active,Medium,mesh-nodes/evm/boatmainnet/node-config.json
+evm__BOB,evm,BOB,60808,mainnet,active,Medium,mesh-nodes/evm/bob/node-config.json
+evm__BOMB_Chain,evm,BOMB Chain,2300,mainnet,active,Medium,mesh-nodes/evm/bombchain/node-config.json
+evm__BON_Network,evm,BON Network,1898,mainnet,active,Medium,mesh-nodes/evm/bonnetwork/node-config.json
+evm__BORAchain_mainnet,evm,BORAchain mainnet,77001,mainnet,active,Medium,mesh-nodes/evm/borachainmainnet/node-config.json
+evm__BOSagora_Mainnet,evm,BOSagora Mainnet,2151,mainnet,active,Medium,mesh-nodes/evm/bosagoramainnet/node-config.json
+evm__BPX_Chain,evm,BPX Chain,279,mainnet,active,Medium,mesh-nodes/evm/bpxchain/node-config.json
+evm__BRC_Chain_Mainnet,evm,BRC Chain Mainnet,12123,mainnet,active,Medium,mesh-nodes/evm/brcchainmainnet/node-config.json
+evm__BROChain_Mainnet,evm,BROChain Mainnet,108801,mainnet,active,Medium,mesh-nodes/evm/brochainmainnet/node-config.json
+evm__BSL_Mainnet,evm,BSL Mainnet,21912,mainnet,active,Medium,mesh-nodes/evm/bslmainnet/node-config.json
+evm__BST_Chain,evm,BST Chain,7007,mainnet,active,Medium,mesh-nodes/evm/bstchain/node-config.json
+evm__BTC20_Smart_Chain,evm,BTC20 Smart Chain,963,mainnet,active,Medium,mesh-nodes/evm/btc20smartchain/node-config.json
+evm__BTCIX_Network,evm,BTCIX Network,19845,mainnet,active,Medium,mesh-nodes/evm/btcixnetwork/node-config.json
+evm__Bahamut,evm,Bahamut,5165,mainnet,active,Medium,mesh-nodes/evm/bahamut/node-config.json
+evm__Bahamut_horizon,evm,Bahamut horizon,2552,mainnet,active,Medium,mesh-nodes/evm/bahamuthorizon/node-config.json
+evm__Bahamut_ocean,evm,Bahamut ocean,4058,mainnet,active,Medium,mesh-nodes/evm/bahamutocean/node-config.json
+evm__Bandai_Namco_Research_Verse_Mainnet,evm,Bandai Namco Research Verse Mainnet,876,mainnet,active,Medium,mesh-nodes/evm/bandainamcoresearchversemainnet/node-config.json
+evm__Base,evm,Base,8453,mainnet,active,Medium,mesh-nodes/evm/base/node-config.json
+evm__Basecamp,evm,Basecamp,123420001114,mainnet,active,Medium,mesh-nodes/evm/basecamp/node-config.json
+evm__BasedAI,evm,BasedAI,32323,mainnet,active,Medium,mesh-nodes/evm/basedai/node-config.json
+evm__BattleChain_Mainnet,evm,BattleChain Mainnet,626,mainnet,active,Medium,mesh-nodes/evm/battlechainmainnet/node-config.json
+evm__BeOne_Chain_Mainnet,evm,BeOne Chain Mainnet,818,mainnet,active,Medium,mesh-nodes/evm/beonechainmainnet/node-config.json
+evm__Beagle_Messaging_Chain,evm,Beagle Messaging Chain,1515,mainnet,active,Medium,mesh-nodes/evm/beaglemessagingchain/node-config.json
+evm__Beam,evm,Beam,4337,mainnet,active,Medium,mesh-nodes/evm/beam/node-config.json
+evm__BeanEco_SmartChain,evm,BeanEco SmartChain,535037,mainnet,active,Medium,mesh-nodes/evm/beanecosmartchain/node-config.json
+evm__Bear_Network_Chain_Mainnet,evm,Bear Network Chain Mainnet,641230,mainnet,active,Medium,mesh-nodes/evm/bearnetworkchainmainnet/node-config.json
+evm__Berachain,evm,Berachain,80094,mainnet,active,Medium,mesh-nodes/evm/berachain/node-config.json
+evm__Berachain_Artio,evm,Berachain Artio,80085,mainnet,active,Medium,mesh-nodes/evm/berachainartio/node-config.json
+evm__Berachain_Bepolia,evm,Berachain Bepolia,80069,mainnet,active,Medium,mesh-nodes/evm/berachainbepolia/node-config.json
+evm__Berachain_bArtio,evm,Berachain bArtio,80084,mainnet,active,Medium,mesh-nodes/evm/berachainbartio/node-config.json
+evm__BerylBit_Mainnet,evm,BerylBit Mainnet,9012,mainnet,active,Medium,mesh-nodes/evm/berylbitmainnet/node-config.json
+evm__Bethel_Sydney,evm,Bethel Sydney,202202,mainnet,active,Medium,mesh-nodes/evm/bethelsydney/node-config.json
+evm__Betherance,evm,Betherance,1605,mainnet,active,Medium,mesh-nodes/evm/betherance/node-config.json
+evm__Beverly_Hills,evm,Beverly Hills,90210,mainnet,active,Medium,mesh-nodes/evm/beverlyhills/node-config.json
+evm__Bharat_Blockchain_Network,evm,Bharat Blockchain Network,7099,mainnet,active,Medium,mesh-nodes/evm/bharatblockchainnetwork/node-config.json
+evm__Bharat_Blockchain_Network_Mainnet,evm,Bharat Blockchain Network Mainnet,8099,mainnet,active,Medium,mesh-nodes/evm/bharatblockchainnetworkmainnet/node-config.json
+evm__Bifrost_Mainnet,evm,Bifrost Mainnet,3068,mainnet,active,Medium,mesh-nodes/evm/bifrostmainnet/node-config.json
+evm__Bifrost_Polkadot_Mainnet,evm,Bifrost Polkadot Mainnet,996,mainnet,active,Medium,mesh-nodes/evm/bifrostpolkadotmainnet/node-config.json
+evm__BigShortBets,evm,BigShortBets,2137,mainnet,active,Medium,mesh-nodes/evm/bigshortbets/node-config.json
+evm__Billions,evm,Billions,45056,mainnet,active,Medium,mesh-nodes/evm/billions/node-config.json
+evm__Binary_Mainnet,evm,Binary Mainnet,624,mainnet,active,Medium,mesh-nodes/evm/binarymainnet/node-config.json
+evm__BinaryChain_Mainnet,evm,BinaryChain Mainnet,987,mainnet,active,Medium,mesh-nodes/evm/binarychainmainnet/node-config.json
+evm__BirdLayer,evm,BirdLayer,53456,mainnet,active,Medium,mesh-nodes/evm/birdlayer/node-config.json
+evm__Birdee-2,evm,Birdee-2,712,mainnet,active,Medium,mesh-nodes/evm/birdee-2/node-config.json
+evm__BitTorrent_Chain_Donau,evm,BitTorrent Chain Donau,1029,mainnet,active,Medium,mesh-nodes/evm/bittorrentchaindonau/node-config.json
+evm__BitTorrent_Chain_Mainnet,evm,BitTorrent Chain Mainnet,199,mainnet,active,Medium,mesh-nodes/evm/bittorrentchainmainnet/node-config.json
+evm__BitYuan_Mainnet,evm,BitYuan Mainnet,2999,mainnet,active,Medium,mesh-nodes/evm/bityuanmainnet/node-config.json
+evm__Bitasset_Chain_Mainnet,evm,Bitasset Chain Mainnet,723,mainnet,active,Medium,mesh-nodes/evm/bitassetchainmainnet/node-config.json
+evm__Bitchain_Mainnet,evm,Bitchain Mainnet,198,mainnet,active,Medium,mesh-nodes/evm/bitchainmainnet/node-config.json
+evm__Bitcichain_Mainnet,evm,Bitcichain Mainnet,1907,mainnet,active,Medium,mesh-nodes/evm/bitcichainmainnet/node-config.json
+evm__Bitcoin_Chain,evm,Bitcoin Chain,8086,mainnet,active,Medium,mesh-nodes/evm/bitcoinchain/node-config.json
+evm__Bitcoin_EVM,evm,Bitcoin EVM,2203,mainnet,active,Medium,mesh-nodes/evm/bitcoinevm/node-config.json
+evm__Bitfinity_Network_Mainnet,evm,Bitfinity Network Mainnet,355110,mainnet,active,Medium,mesh-nodes/evm/bitfinitynetworkmainnet/node-config.json
+evm__Bitgert_Mainnet,evm,Bitgert Mainnet,32520,mainnet,active,Medium,mesh-nodes/evm/bitgertmainnet/node-config.json
+evm__Bitharvest_Chain_Mainnet,evm,Bitharvest Chain Mainnet,14149,mainnet,active,Medium,mesh-nodes/evm/bitharvestchainmainnet/node-config.json
+evm__Bitica_Chain_Mainnet,evm,Bitica Chain Mainnet,188710,mainnet,active,Medium,mesh-nodes/evm/biticachainmainnet/node-config.json
+evm__Bitindi_Mainnet,evm,Bitindi Mainnet,4099,mainnet,active,Medium,mesh-nodes/evm/bitindimainnet/node-config.json
+evm__Bitlayer_Mainnet,evm,Bitlayer Mainnet,200901,mainnet,active,Medium,mesh-nodes/evm/bitlayermainnet/node-config.json
+evm__Bitlazer,evm,Bitlazer,14235,mainnet,active,Medium,mesh-nodes/evm/bitlazer/node-config.json
+evm__Bitnet,evm,Bitnet,210,mainnet,active,Medium,mesh-nodes/evm/bitnet/node-config.json
+evm__Bitrock_Mainnet,evm,Bitrock Mainnet,7171,mainnet,active,Medium,mesh-nodes/evm/bitrockmainnet/node-config.json
+evm__Bitroot,evm,Bitroot,15888,mainnet,active,Medium,mesh-nodes/evm/bitroot/node-config.json
+evm__Bittex_Mainnet,evm,Bittex Mainnet,3690,mainnet,active,Medium,mesh-nodes/evm/bittexmainnet/node-config.json
+evm__BlackFort_Exchange_Network,evm,BlackFort Exchange Network,488,mainnet,active,Medium,mesh-nodes/evm/blackfortexchangenetwork/node-config.json
+evm__Blast,evm,Blast,81457,mainnet,active,Medium,mesh-nodes/evm/blast/node-config.json
+evm__Blast_Mainnet,evm,Blast Mainnet,238,mainnet,active,Medium,mesh-nodes/evm/blastmainnet/node-config.json
+evm__Blessnet,evm,Blessnet,45513,mainnet,active,Medium,mesh-nodes/evm/blessnet/node-config.json
+evm__Blitz_Subnet,evm,Blitz Subnet,1343,mainnet,active,Medium,mesh-nodes/evm/blitzsubnet/node-config.json
+evm__BlocX_Mainnet,evm,BlocX Mainnet,879151,mainnet,active,Medium,mesh-nodes/evm/blocxmainnet/node-config.json
+evm__BlockChain_Station_Mainnet,evm,BlockChain Station Mainnet,707,mainnet,active,Medium,mesh-nodes/evm/blockchainstationmainnet/node-config.json
+evm__BlockEx_Mainnet,evm,BlockEx Mainnet,221,mainnet,active,Medium,mesh-nodes/evm/blockexmainnet/node-config.json
+evm__BlockX_Mainnet,evm,BlockX Mainnet,19191,mainnet,active,Medium,mesh-nodes/evm/blockxmainnet/node-config.json
+evm__Blockchain_Genesis_Mainnet,evm,Blockchain Genesis Mainnet,10101,mainnet,active,Medium,mesh-nodes/evm/blockchaingenesismainnet/node-config.json
+evm__Blockfit,evm,Blockfit,202424,mainnet,active,Medium,mesh-nodes/evm/blockfit/node-config.json
+evm__Blockton_Blockchain,evm,Blockton Blockchain,8272,mainnet,active,Medium,mesh-nodes/evm/blocktonblockchain/node-config.json
+evm__Bloom_Genesis_Mainnet,evm,Bloom Genesis Mainnet,333313,mainnet,active,Medium,mesh-nodes/evm/bloomgenesismainnet/node-config.json
+evm__Blucrates,evm,Blucrates,727,mainnet,active,Medium,mesh-nodes/evm/blucrates/node-config.json
+evm__Boba_Avax,evm,Boba Avax,43288,mainnet,active,Medium,mesh-nodes/evm/bobaavax/node-config.json
+evm__Boba_BNB_Mainnet,evm,Boba BNB Mainnet,56288,mainnet,active,Medium,mesh-nodes/evm/bobabnbmainnet/node-config.json
+evm__Boba_BNB_Mainnet_Old,evm,Boba BNB Mainnet Old,97288,mainnet,active,Medium,mesh-nodes/evm/bobabnbmainnetold/node-config.json
+evm__Boba_Network,evm,Boba Network,288,mainnet,active,Medium,mesh-nodes/evm/bobanetwork/node-config.json
+evm__Bobabeam,evm,Bobabeam,1294,mainnet,active,Medium,mesh-nodes/evm/bobabeam/node-config.json
+evm__Bobaopera,evm,Bobaopera,301,mainnet,active,Medium,mesh-nodes/evm/bobaopera/node-config.json
+evm__Bool_Network_Beta_Mainnet,evm,Bool Network Beta Mainnet,11100,mainnet,active,Medium,mesh-nodes/evm/boolnetworkbetamainnet/node-config.json
+evm__Botanix_Mainnet,evm,Botanix Mainnet,3637,mainnet,active,Medium,mesh-nodes/evm/botanixmainnet/node-config.json
+evm__BounceBit_Mainnet,evm,BounceBit Mainnet,6001,mainnet,active,Medium,mesh-nodes/evm/bouncebitmainnet/node-config.json
+evm__Boyaa,evm,Boyaa,434,mainnet,active,Medium,mesh-nodes/evm/boyaa/node-config.json
+evm__BrainArk,evm,BrainArk,1236,mainnet,active,Medium,mesh-nodes/evm/brainark/node-config.json
+evm__Bronos_Mainnet,evm,Bronos Mainnet,1039,mainnet,active,Medium,mesh-nodes/evm/bronosmainnet/node-config.json
+evm__Btachain,evm,Btachain,1657,mainnet,active,Medium,mesh-nodes/evm/btachain/node-config.json
+evm__Bulletin_Subnet,evm,Bulletin Subnet,78431,mainnet,active,Medium,mesh-nodes/evm/bulletinsubnet/node-config.json
+evm__Bullions_Smart_Chain,evm,Bullions Smart Chain,8732,mainnet,active,Medium,mesh-nodes/evm/bullionssmartchain/node-config.json
+evm__BuyCex_Infinity_Chain,evm,BuyCex Infinity Chain,323,mainnet,active,Medium,mesh-nodes/evm/buycexinfinitychain/node-config.json
+evm__C4EI,evm,C4EI,21004,mainnet,active,Medium,mesh-nodes/evm/c4ei/node-config.json
+evm__C9XChain,evm,C9XChain,3230,mainnet,active,Medium,mesh-nodes/evm/c9xchain/node-config.json
+evm__CAGA_mainnet,evm,CAGA mainnet,72888,mainnet,active,Medium,mesh-nodes/evm/cagamainnet/node-config.json
+evm__CENNZnet_Azalea,evm,CENNZnet Azalea,21337,mainnet,active,Medium,mesh-nodes/evm/cennznetazalea/node-config.json
+evm__CENNZnet_Nikau,evm,CENNZnet Nikau,3001,mainnet,active,Medium,mesh-nodes/evm/cennznetnikau/node-config.json
+evm__CENNZnet_Rata,evm,CENNZnet Rata,3000,mainnet,active,Medium,mesh-nodes/evm/cennznetrata/node-config.json
+evm__CHEESE_Blockchain,evm,CHEESE Blockchain,69420,mainnet,active,Medium,mesh-nodes/evm/cheeseblockchain/node-config.json
+evm__CIC_Chain_Mainnet,evm,CIC Chain Mainnet,1353,mainnet,active,Medium,mesh-nodes/evm/cicchainmainnet/node-config.json
+evm__CLV_Parachain,evm,CLV Parachain,1024,mainnet,active,Medium,mesh-nodes/evm/clvparachain/node-config.json
+evm__CMDAO_BBQ_Chain,evm,CMDAO BBQ Chain,190,mainnet,active,Medium,mesh-nodes/evm/cmdaobbqchain/node-config.json
+evm__CMP-Mainnet,evm,CMP-Mainnet,256256,mainnet,active,Medium,mesh-nodes/evm/cmp-mainnet/node-config.json
+evm__CO2e_Chain,evm,CO2e Chain,171,mainnet,active,Medium,mesh-nodes/evm/co2echain/node-config.json
+evm__COINSEC_Network,evm,COINSEC Network,57451,mainnet,active,Medium,mesh-nodes/evm/coinsecnetwork/node-config.json
+evm__COINZAX,evm,COINZAX,1310,mainnet,active,Medium,mesh-nodes/evm/coinzax/node-config.json
+evm__CONET_Cancun,evm,CONET Cancun,224433,mainnet,active,Medium,mesh-nodes/evm/conetcancun/node-config.json
+evm__CONET_Mainnet,evm,CONET Mainnet,224400,mainnet,active,Medium,mesh-nodes/evm/conetmainnet/node-config.json
+evm__CONX_Chain,evm,CONX Chain,37,mainnet,active,Medium,mesh-nodes/evm/conxchain/node-config.json
+evm__COTI,evm,COTI,2632500,mainnet,active,Medium,mesh-nodes/evm/coti/node-config.json
+evm__CURVE_Mainnet,evm,CURVE Mainnet,827431,mainnet,active,Medium,mesh-nodes/evm/curvemainnet/node-config.json
+evm__CXM,evm,CXM,890,mainnet,active,Medium,mesh-nodes/evm/cxm/node-config.json
+evm__CYBERTRUST,evm,CYBERTRUST,85449,mainnet,active,Medium,mesh-nodes/evm/cybertrust/node-config.json
+evm__Callisto_Mainnet,evm,Callisto Mainnet,820,mainnet,active,Medium,mesh-nodes/evm/callistomainnet/node-config.json
+evm__CamDL_Mainnet,evm,CamDL Mainnet,95,mainnet,active,Medium,mesh-nodes/evm/camdlmainnet/node-config.json
+evm__Camelark_Mainnet,evm,Camelark Mainnet,20001,mainnet,active,Medium,mesh-nodes/evm/camelarkmainnet/node-config.json
+evm__Camino_C-Chain,evm,Camino C-Chain,500,mainnet,active,Medium,mesh-nodes/evm/caminoc-chain/node-config.json
+evm__Camp_Network_Mainnet,evm,Camp Network Mainnet,484,mainnet,active,Medium,mesh-nodes/evm/campnetworkmainnet/node-config.json
+evm__Candle,evm,Candle,534,mainnet,active,Medium,mesh-nodes/evm/candle/node-config.json
+evm__CandyChain,evm,CandyChain,2828,mainnet,active,Medium,mesh-nodes/evm/candychain/node-config.json
+evm__Canto,evm,Canto,7700,mainnet,active,Medium,mesh-nodes/evm/canto/node-config.json
+evm__Canto_Tesnet,evm,Canto Tesnet,7701,mainnet,active,Medium,mesh-nodes/evm/cantotesnet/node-config.json
+evm__Canxium_Mainnet,evm,Canxium Mainnet,3003,mainnet,active,Medium,mesh-nodes/evm/canxiummainnet/node-config.json
+evm__Capital_Exchange,evm,Capital Exchange,343,mainnet,active,Medium,mesh-nodes/evm/capitalexchange/node-config.json
+evm__Carbon_EVM,evm,Carbon EVM,9790,mainnet,active,Medium,mesh-nodes/evm/carbonevm/node-config.json
+evm__CarrChain_Mainnet,evm,CarrChain Mainnet,7667,mainnet,active,Medium,mesh-nodes/evm/carrchainmainnet/node-config.json
+evm__Catalyst,evm,Catalyst,2032,mainnet,active,Medium,mesh-nodes/evm/catalyst/node-config.json
+evm__Catecoin_Chain_Mainnet,evm,Catecoin Chain Mainnet,1618,mainnet,active,Medium,mesh-nodes/evm/catecoinchainmainnet/node-config.json
+evm__Catena_Mainnet,evm,Catena Mainnet,2121,mainnet,active,Medium,mesh-nodes/evm/catenamainnet/node-config.json
+evm__Celo_Mainnet,evm,Celo Mainnet,42220,mainnet,active,Medium,mesh-nodes/evm/celomainnet/node-config.json
+evm__Centrifuge,evm,Centrifuge,2031,mainnet,active,Medium,mesh-nodes/evm/centrifuge/node-config.json
+evm__ChadChain,evm,ChadChain,97912060,mainnet,active,Medium,mesh-nodes/evm/chadchain/node-config.json
+evm__Chain_Verse_Mainnet,evm,Chain Verse Mainnet,5555,mainnet,active,Medium,mesh-nodes/evm/chainversemainnet/node-config.json
+evm__Chang_Chain_Foundation_Mainnet,evm,Chang Chain Foundation Mainnet,5858,mainnet,active,Medium,mesh-nodes/evm/changchainfoundationmainnet/node-config.json
+evm__CheeseChain,evm,CheeseChain,383353,mainnet,active,Medium,mesh-nodes/evm/cheesechain/node-config.json
+evm__Chiliz_Chain_Mainnet,evm,Chiliz Chain Mainnet,88888,mainnet,active,Medium,mesh-nodes/evm/chilizchainmainnet/node-config.json
+evm__Chips_Network,evm,Chips Network,2882,mainnet,active,Medium,mesh-nodes/evm/chipsnetwork/node-config.json
+evm__ChooChain,evm,ChooChain,247,mainnet,active,Medium,mesh-nodes/evm/choochain/node-config.json
+evm__Citrate,evm,Citrate,40204,mainnet,active,Medium,mesh-nodes/evm/citrate/node-config.json
+evm__Citrea_Mainnet,evm,Citrea Mainnet,4114,mainnet,active,Medium,mesh-nodes/evm/citreamainnet/node-config.json
+evm__Citronus,evm,Citronus,50000,mainnet,active,Medium,mesh-nodes/evm/citronus/node-config.json
+evm__ClawCoin,evm,ClawCoin,11111111,mainnet,active,Medium,mesh-nodes/evm/clawcoin/node-config.json
+evm__CloudTx_Mainnet,evm,CloudTx Mainnet,31223,mainnet,active,Medium,mesh-nodes/evm/cloudtxmainnet/node-config.json
+evm__CloudWalk_Mainnet,evm,CloudWalk Mainnet,2009,mainnet,active,Medium,mesh-nodes/evm/cloudwalkmainnet/node-config.json
+evm__Cloudverse_Subnet,evm,Cloudverse Subnet,33210,mainnet,active,Medium,mesh-nodes/evm/cloudversesubnet/node-config.json
+evm__ClubMOS,evm,ClubMOS,2255,mainnet,active,Medium,mesh-nodes/evm/clubmos/node-config.json
+evm__ClubMos_Mainnet,evm,ClubMos Mainnet,1188,mainnet,active,Medium,mesh-nodes/evm/clubmosmainnet/node-config.json
+evm__Codefin_Mainnet,evm,Codefin Mainnet,9223,mainnet,active,Medium,mesh-nodes/evm/codefinmainnet/node-config.json
+evm__Codex,evm,Codex,81224,mainnet,active,Medium,mesh-nodes/evm/codex/node-config.json
+evm__CoinAfrica,evm,CoinAfrica,35147,mainnet,active,Medium,mesh-nodes/evm/coinafrica/node-config.json
+evm__CoinEx_Smart_Chain_Mainnet,evm,CoinEx Smart Chain Mainnet,52,mainnet,active,Medium,mesh-nodes/evm/coinexsmartchainmainnet/node-config.json
+evm__Coinbit_Mainnet,evm,Coinbit Mainnet,112,mainnet,active,Medium,mesh-nodes/evm/coinbitmainnet/node-config.json
+evm__Coinweb_BNB_shard,evm,Coinweb BNB shard,2222222,mainnet,active,Medium,mesh-nodes/evm/coinwebbnbshard/node-config.json
+evm__Combo_Mainnet,evm,Combo Mainnet,9980,mainnet,active,Medium,mesh-nodes/evm/combomainnet/node-config.json
+evm__Compverse_Mainnet,evm,Compverse Mainnet,6779,mainnet,active,Medium,mesh-nodes/evm/compversemainnet/node-config.json
+evm__Conduit_Subnet,evm,Conduit Subnet,78432,mainnet,active,Medium,mesh-nodes/evm/conduitsubnet/node-config.json
+evm__Conflux_eSpace,evm,Conflux eSpace,1030,mainnet,active,Medium,mesh-nodes/evm/confluxespace/node-config.json
+evm__ConnectorManager,evm,ConnectorManager,38400,mainnet,active,Medium,mesh-nodes/evm/connectormanager/node-config.json
+evm__ConnectorManager_Robin,evm,ConnectorManager Robin,38401,mainnet,active,Medium,mesh-nodes/evm/connectormanagerrobin/node-config.json
+evm__Conwai_Mainnet,evm,Conwai Mainnet,668668,mainnet,active,Medium,mesh-nodes/evm/conwaimainnet/node-config.json
+evm__Core_Blockchain_Mainnet,evm,Core Blockchain Mainnet,1116,mainnet,active,Medium,mesh-nodes/evm/coreblockchainmainnet/node-config.json
+evm__Corn,evm,Corn,21000000,mainnet,active,Medium,mesh-nodes/evm/corn/node-config.json
+evm__Cosmic_Chain,evm,Cosmic Chain,67588,mainnet,active,Medium,mesh-nodes/evm/cosmicchain/node-config.json
+evm__CpChain_Mainnet,evm,CpChain Mainnet,86608,mainnet,active,Medium,mesh-nodes/evm/cpchainmainnet/node-config.json
+evm__Crab_Network,evm,Crab Network,44,mainnet,active,Medium,mesh-nodes/evm/crabnetwork/node-config.json
+evm__CratD2C,evm,CratD2C,2310,mainnet,active,Medium,mesh-nodes/evm/cratd2c/node-config.json
+evm__Credit_Smart_Chain,evm,Credit Smart Chain,13308,mainnet,active,Medium,mesh-nodes/evm/creditsmartchain/node-config.json
+evm__Credit_Smart_Chain_Mainnet,evm,Credit Smart Chain Mainnet,4400,mainnet,active,Medium,mesh-nodes/evm/creditsmartchainmainnet/node-config.json
+evm__Creditcoin,evm,Creditcoin,102030,mainnet,active,Medium,mesh-nodes/evm/creditcoin/node-config.json
+evm__Cronos_Mainnet,evm,Cronos Mainnet,25,mainnet,active,Medium,mesh-nodes/evm/cronosmainnet/node-config.json
+evm__Cronos_zkEVM_Mainnet,evm,Cronos zkEVM Mainnet,388,mainnet,active,Medium,mesh-nodes/evm/cronoszkevmmainnet/node-config.json
+evm__CrossFi_Mainnet,evm,CrossFi Mainnet,4158,mainnet,active,Medium,mesh-nodes/evm/crossfimainnet/node-config.json
+evm__Crossbell,evm,Crossbell,3737,mainnet,active,Medium,mesh-nodes/evm/crossbell/node-config.json
+evm__Crynux_on_Base,evm,Crynux on Base,18896214,mainnet,active,Medium,mesh-nodes/evm/crynuxonbase/node-config.json
+evm__Crypto_Emergency,evm,Crypto Emergency,193,mainnet,active,Medium,mesh-nodes/evm/cryptoemergency/node-config.json
+evm__CryptoChain,evm,CryptoChain,900190,mainnet,active,Medium,mesh-nodes/evm/cryptochain/node-config.json
+evm__CryptoCoinPay,evm,CryptoCoinPay,10823,mainnet,active,Medium,mesh-nodes/evm/cryptocoinpay/node-config.json
+evm__CryptoX,evm,CryptoX,158245,mainnet,active,Medium,mesh-nodes/evm/cryptox/node-config.json
+evm__Crystaleum,evm,Crystaleum,103090,mainnet,active,Medium,mesh-nodes/evm/crystaleum/node-config.json
+evm__Ctex_Scan_Blockchain,evm,Ctex Scan Blockchain,1455,mainnet,active,Medium,mesh-nodes/evm/ctexscanblockchain/node-config.json
+evm__Cube_Chain_Mainnet,evm,Cube Chain Mainnet,1818,mainnet,active,Medium,mesh-nodes/evm/cubechainmainnet/node-config.json
+evm__Cuckoo_Chain,evm,Cuckoo Chain,1200,mainnet,active,Medium,mesh-nodes/evm/cuckoochain/node-config.json
+evm__Curtis,evm,Curtis,33111,mainnet,active,Medium,mesh-nodes/evm/curtis/node-config.json
+evm__Cyber_Mainnet,evm,Cyber Mainnet,7560,mainnet,active,Medium,mesh-nodes/evm/cybermainnet/node-config.json
+evm__CyberChain_Mainnet,evm,CyberChain Mainnet,65535,mainnet,active,Medium,mesh-nodes/evm/cyberchainmainnet/node-config.json
+evm__CyberdeckNet,evm,CyberdeckNet,1146703430,mainnet,active,Medium,mesh-nodes/evm/cyberdecknet/node-config.json
+evm__Cybria_Mainnet,evm,Cybria Mainnet,6661,mainnet,active,Medium,mesh-nodes/evm/cybriamainnet/node-config.json
+evm__Cycle_Network_Mainnet_Frigate,evm,Cycle Network Mainnet Frigate,88688,mainnet,active,Medium,mesh-nodes/evm/cyclenetworkmainnetfrigate/node-config.json
+evm__Cycle_Network_Mainnet_Sailboat,evm,Cycle Network Mainnet Sailboat,77677,mainnet,active,Medium,mesh-nodes/evm/cyclenetworkmainnetsailboat/node-config.json
+evm__Cypherium_Mainnet,evm,Cypherium Mainnet,16166,mainnet,active,Medium,mesh-nodes/evm/cypheriummainnet/node-config.json
+evm__D-Chain_Mainnet,evm,D-Chain Mainnet,1951,mainnet,active,Medium,mesh-nodes/evm/d-chainmainnet/node-config.json
+evm__DAX_CHAIN,evm,DAX CHAIN,142,mainnet,active,Medium,mesh-nodes/evm/daxchain/node-config.json
+evm__DBK_Chain,evm,DBK Chain,20240603,mainnet,active,Medium,mesh-nodes/evm/dbkchain/node-config.json
+evm__DC_Mainnet,evm,DC Mainnet,176,mainnet,active,Medium,mesh-nodes/evm/dcmainnet/node-config.json
+evm__DCHAIN,evm,DCHAIN,2716446429837000,mainnet,active,Medium,mesh-nodes/evm/dchain/node-config.json
+evm__DCpay_Mainnet,evm,DCpay Mainnet,21223,mainnet,active,Medium,mesh-nodes/evm/dcpaymainnet/node-config.json
+evm__DFK_Chain,evm,DFK Chain,53935,mainnet,active,Medium,mesh-nodes/evm/dfkchain/node-config.json
+evm__DIV_Chain,evm,DIV Chain,40000,mainnet,active,Medium,mesh-nodes/evm/divchain/node-config.json
+evm__DM2_Verse_Mainnet,evm,DM2 Verse Mainnet,68770,mainnet,active,Medium,mesh-nodes/evm/dm2versemainnet/node-config.json
+evm__DMD_Diamond,evm,DMD Diamond,17771,mainnet,active,Medium,mesh-nodes/evm/dmddiamond/node-config.json
+evm__DOID,evm,DOID,53277,mainnet,active,Medium,mesh-nodes/evm/doid/node-config.json
+evm__DOS_Chain,evm,DOS Chain,7979,mainnet,active,Medium,mesh-nodes/evm/doschain/node-config.json
+evm__DPU_Chain,evm,DPU Chain,2611555,mainnet,active,Medium,mesh-nodes/evm/dpuchain/node-config.json
+evm__DRAC_Network,evm,DRAC Network,3912,mainnet,active,Medium,mesh-nodes/evm/dracnetwork/node-config.json
+evm__DUST_Mainnet,evm,DUST Mainnet,55378,mainnet,active,Medium,mesh-nodes/evm/dustmainnet/node-config.json
+evm__DYNO_Mainnet,evm,DYNO Mainnet,3966,mainnet,active,Medium,mesh-nodes/evm/dynomainnet/node-config.json
+evm__DaVinci,evm,DaVinci,293,mainnet,active,Medium,mesh-nodes/evm/davinci/node-config.json
+evm__Daily_Network_Mainnet,evm,Daily Network Mainnet,824,mainnet,active,Medium,mesh-nodes/evm/dailynetworkmainnet/node-config.json
+evm__Danny,evm,Danny,5069,mainnet,active,Medium,mesh-nodes/evm/danny/node-config.json
+evm__Darwinia_Network,evm,Darwinia Network,46,mainnet,active,Medium,mesh-nodes/evm/darwinianetwork/node-config.json
+evm__DataHaven_Mainnet,evm,DataHaven Mainnet,55930,mainnet,active,Medium,mesh-nodes/evm/datahavenmainnet/node-config.json
+evm__DataHopper,evm,DataHopper,2021121117,mainnet,active,Medium,mesh-nodes/evm/datahopper/node-config.json
+evm__Datachain_Rope,evm,Datachain Rope,271828,mainnet,active,Medium,mesh-nodes/evm/datachainrope/node-config.json
+evm__Datacore_Smart_Chain,evm,Datacore Smart Chain,1555,mainnet,active,Medium,mesh-nodes/evm/datacoresmartchain/node-config.json
+evm__Datagram,evm,Datagram,968,mainnet,active,Medium,mesh-nodes/evm/datagram/node-config.json
+evm__DeBank_Mainnet,evm,DeBank Mainnet,116,mainnet,active,Medium,mesh-nodes/evm/debankmainnet/node-config.json
+evm__DeFiChain_EVM_Network_Mainnet,evm,DeFiChain EVM Network Mainnet,1130,mainnet,active,Medium,mesh-nodes/evm/defichainevmnetworkmainnet/node-config.json
+evm__DeFiVerse_Mainnet,evm,DeFiVerse Mainnet,16116,mainnet,active,Medium,mesh-nodes/evm/defiversemainnet/node-config.json
+evm__DeInfra_Mainnet,evm,DeInfra Mainnet,100501,mainnet,active,Medium,mesh-nodes/evm/deinframainnet/node-config.json
+evm__Deamchain_Mainnet,evm,Deamchain Mainnet,136,mainnet,active,Medium,mesh-nodes/evm/deamchainmainnet/node-config.json
+evm__Decentraconnect_Social,evm,Decentraconnect Social,19224,mainnet,active,Medium,mesh-nodes/evm/decentraconnectsocial/node-config.json
+evm__Decentralized_Web_Mainnet,evm,Decentralized Web Mainnet,124,mainnet,active,Medium,mesh-nodes/evm/decentralizedwebmainnet/node-config.json
+evm__Decimal_Smart_Chain_Mainnet,evm,Decimal Smart Chain Mainnet,75,mainnet,active,Medium,mesh-nodes/evm/decimalsmartchainmainnet/node-config.json
+evm__Deelance_Mainnet,evm,Deelance Mainnet,45510,mainnet,active,Medium,mesh-nodes/evm/deelancemainnet/node-config.json
+evm__DeepBrainChain_Mainnet,evm,DeepBrainChain Mainnet,19880818,mainnet,active,Medium,mesh-nodes/evm/deepbrainchainmainnet/node-config.json
+evm__DeepL_Mainnet,evm,DeepL Mainnet,222555,mainnet,active,Medium,mesh-nodes/evm/deeplmainnet/node-config.json
+evm__DeepSafe_Beta_Mainnet,evm,DeepSafe Beta Mainnet,10011,mainnet,active,Medium,mesh-nodes/evm/deepsafebetamainnet/node-config.json
+evm__Defi_Oracle_Meta_Mainnet,evm,Defi Oracle Meta Mainnet,138,mainnet,active,Medium,mesh-nodes/evm/defioraclemetamainnet/node-config.json
+evm__Degen_Chain,evm,Degen Chain,666666666,mainnet,active,Medium,mesh-nodes/evm/degenchain/node-config.json
+evm__Dehvo,evm,Dehvo,113,mainnet,active,Medium,mesh-nodes/evm/dehvo/node-config.json
+evm__Denergy_Network,evm,Denergy Network,369369,mainnet,active,Medium,mesh-nodes/evm/denergynetwork/node-config.json
+evm__Deviant_Token_Blockchain,evm,Deviant Token Blockchain,52027071,mainnet,active,Medium,mesh-nodes/evm/devianttokenblockchain/node-config.json
+evm__Dexalot_Subnet,evm,Dexalot Subnet,432204,mainnet,active,Medium,mesh-nodes/evm/dexalotsubnet/node-config.json
+evm__Dexit_Network,evm,Dexit Network,877,mainnet,active,Medium,mesh-nodes/evm/dexitnetwork/node-config.json
+evm__DiamondzChain,evm,DiamondzChain,7791,mainnet,active,Medium,mesh-nodes/evm/diamondzchain/node-config.json
+evm__Digit_Soul_Smart_Chain,evm,Digit Soul Smart Chain,6363,mainnet,active,Medium,mesh-nodes/evm/digitsoulsmartchain/node-config.json
+evm__Digit_Soul_Smart_Chain_2,evm,Digit Soul Smart Chain 2,363636,mainnet,active,Medium,mesh-nodes/evm/digitsoulsmartchain2/node-config.json
+evm__Diode_Prenet,evm,Diode Prenet,15,mainnet,active,Medium,mesh-nodes/evm/diodeprenet/node-config.json
+evm__DoCoin_Community_Chain,evm,DoCoin Community Chain,526916,mainnet,active,Medium,mesh-nodes/evm/docoincommunitychain/node-config.json
+evm__DoKEN_Super_Chain_Mainnet,evm,DoKEN Super Chain Mainnet,61916,mainnet,active,Medium,mesh-nodes/evm/dokensuperchainmainnet/node-config.json
+evm__Dodao,evm,Dodao,855456,mainnet,active,Medium,mesh-nodes/evm/dodao/node-config.json
+evm__Dogcoin_Mainnet,evm,Dogcoin Mainnet,1117,mainnet,active,Medium,mesh-nodes/evm/dogcoinmainnet/node-config.json
+evm__Dogechain_Mainnet,evm,Dogechain Mainnet,2000,mainnet,active,Medium,mesh-nodes/evm/dogechainmainnet/node-config.json
+evm__Dogelayer_Mainnet,evm,Dogelayer Mainnet,9888,mainnet,active,Medium,mesh-nodes/evm/dogelayermainnet/node-config.json
+evm__Dogether_Mainnet,evm,Dogether Mainnet,1248,mainnet,active,Medium,mesh-nodes/evm/dogethermainnet/node-config.json
+evm__Dojima,evm,Dojima,187,mainnet,active,Medium,mesh-nodes/evm/dojima/node-config.json
+evm__Doma,evm,Doma,97477,mainnet,active,Medium,mesh-nodes/evm/doma/node-config.json
+evm__Donatuz,evm,Donatuz,42026,mainnet,active,Medium,mesh-nodes/evm/donatuz/node-config.json
+evm__Doric_Network,evm,Doric Network,1717,mainnet,active,Medium,mesh-nodes/evm/doricnetwork/node-config.json
+evm__Dorsen_Chain,evm,Dorsen Chain,99110,mainnet,active,Medium,mesh-nodes/evm/dorsenchain/node-config.json
+evm__Dot_Blox,evm,Dot Blox,7923,mainnet,active,Medium,mesh-nodes/evm/dotblox/node-config.json
+evm__DotOne_Smart_Chain,evm,DotOne Smart Chain,505,mainnet,active,Medium,mesh-nodes/evm/dotonesmartchain/node-config.json
+evm__Double-A_Chain_Mainnet,evm,Double-A Chain Mainnet,512,mainnet,active,Medium,mesh-nodes/evm/double-achainmainnet/node-config.json
+evm__Dracones_Financial_Services,evm,Dracones Financial Services,8387,mainnet,active,Medium,mesh-nodes/evm/draconesfinancialservices/node-config.json
+evm__Dragonfly_Mainnet__Hexapod_,evm,Dragonfly Mainnet (Hexapod),78281,mainnet,active,Medium,mesh-nodes/evm/dragonflymainnethexapod/node-config.json
+evm__Draw_Coin,evm,Draw Coin,7788,mainnet,active,Medium,mesh-nodes/evm/drawcoin/node-config.json
+evm__DreyerX_Mainnet,evm,DreyerX Mainnet,23451,mainnet,active,Medium,mesh-nodes/evm/dreyerxmainnet/node-config.json
+evm__Dubxcoin_network,evm,Dubxcoin network,3269,mainnet,active,Medium,mesh-nodes/evm/dubxcoinnetwork/node-config.json
+evm__DucatusX,evm,DucatusX,26483,mainnet,active,Medium,mesh-nodes/evm/ducatusx/node-config.json
+evm__DuckChain_Mainnet,evm,DuckChain Mainnet,5545,mainnet,active,Medium,mesh-nodes/evm/duckchainmainnet/node-config.json
+evm__DustBoy_IoT,evm,DustBoy IoT,555888,mainnet,active,Medium,mesh-nodes/evm/dustboyiot/node-config.json
+evm__Dxchain_Mainnet,evm,Dxchain Mainnet,36,mainnet,active,Medium,mesh-nodes/evm/dxchainmainnet/node-config.json
+evm__Dymension,evm,Dymension,1100,mainnet,active,Medium,mesh-nodes/evm/dymension/node-config.json
+evm__E-Dollar,evm,E-Dollar,8087,mainnet,active,Medium,mesh-nodes/evm/e-dollar/node-config.json
+evm__EB-Chain,evm,EB-Chain,8721,mainnet,active,Medium,mesh-nodes/evm/eb-chain/node-config.json
+evm__EBLA_Mainnet,evm,EBLA Mainnet,60186,mainnet,active,Medium,mesh-nodes/evm/eblamainnet/node-config.json
+evm__EDU_Chain,evm,EDU Chain,41923,mainnet,active,Medium,mesh-nodes/evm/educhain/node-config.json
+evm__EIOB_Mainnet,evm,EIOB Mainnet,612,mainnet,active,Medium,mesh-nodes/evm/eiobmainnet/node-config.json
+evm__EKAASH,evm,EKAASH,205,mainnet,active,Medium,mesh-nodes/evm/ekaash/node-config.json
+evm__ELA-DID-Sidechain_Mainnet,evm,ELA-DID-Sidechain Mainnet,22,mainnet,active,Medium,mesh-nodes/evm/ela-did-sidechainmainnet/node-config.json
+evm__ENI_Mainnet,evm,ENI Mainnet,173,mainnet,active,Medium,mesh-nodes/evm/enimainnet/node-config.json
+evm__ENULS_Mainnet,evm,ENULS Mainnet,119,mainnet,active,Medium,mesh-nodes/evm/enulsmainnet/node-config.json
+evm__EOS_EVM_Legacy,evm,EOS EVM Legacy,59,mainnet,active,Medium,mesh-nodes/evm/eosevmlegacy/node-config.json
+evm__EOS_EVM_Network,evm,EOS EVM Network,17777,mainnet,active,Medium,mesh-nodes/evm/eosevmnetwork/node-config.json
+evm__ERAM_Mainnet,evm,ERAM Mainnet,721529,mainnet,active,Medium,mesh-nodes/evm/erammainnet/node-config.json
+evm__ETND_Chain_Mainnets,evm,ETND Chain Mainnets,131419,mainnet,active,Medium,mesh-nodes/evm/etndchainmainnets/node-config.json
+evm__ETP_Mainnet,evm,ETP Mainnet,20256789,mainnet,active,Medium,mesh-nodes/evm/etpmainnet/node-config.json
+evm__EVOLVE_Mainnet,evm,EVOLVE Mainnet,3424,mainnet,active,Medium,mesh-nodes/evm/evolvemainnet/node-config.json
+evm__EZChain_C-Chain_Mainnet,evm,EZChain C-Chain Mainnet,2612,mainnet,active,Medium,mesh-nodes/evm/ezchainc-chainmainnet/node-config.json
+evm__Ebi_Chain,evm,Ebi Chain,98881,mainnet,active,Medium,mesh-nodes/evm/ebichain/node-config.json
+evm__Ebro_Network,evm,Ebro Network,2306,mainnet,active,Medium,mesh-nodes/evm/ebronetwork/node-config.json
+evm__Echos_Chain,evm,Echos Chain,4321,mainnet,active,Medium,mesh-nodes/evm/echoschain/node-config.json
+evm__Eclat_Mainnet,evm,Eclat Mainnet,165279,mainnet,active,Medium,mesh-nodes/evm/eclatmainnet/node-config.json
+evm__Eclipse_Subnet,evm,Eclipse Subnet,17172,mainnet,active,Medium,mesh-nodes/evm/eclipsesubnet/node-config.json
+evm__Ecoball_Mainnet,evm,Ecoball Mainnet,2100,mainnet,active,Medium,mesh-nodes/evm/ecoballmainnet/node-config.json
+evm__Ecrox_Chain_Mainnet,evm,Ecrox Chain Mainnet,988207,mainnet,active,Medium,mesh-nodes/evm/ecroxchainmainnet/node-config.json
+evm__Eden,evm,Eden,714,mainnet,active,Medium,mesh-nodes/evm/eden/node-config.json
+evm__Edge,evm,Edge,3343,mainnet,active,Medium,mesh-nodes/evm/edge/node-config.json
+evm__Edge_Matrix_Chain,evm,Edge Matrix Chain,6678,mainnet,active,Medium,mesh-nodes/evm/edgematrixchain/node-config.json
+evm__Edgeless_Network,evm,Edgeless Network,2026,mainnet,active,Medium,mesh-nodes/evm/edgelessnetwork/node-config.json
+evm__Edgeware_EdgeEVM_Mainnet,evm,Edgeware EdgeEVM Mainnet,2021,mainnet,active,Medium,mesh-nodes/evm/edgewareedgeevmmainnet/node-config.json
+evm__Egochain,evm,Egochain,5439,mainnet,active,Medium,mesh-nodes/evm/egochain/node-config.json
+evm__EgonCoin_Mainnet,evm,EgonCoin Mainnet,271,mainnet,active,Medium,mesh-nodes/evm/egoncoinmainnet/node-config.json
+evm__Ekta,evm,Ekta,1994,mainnet,active,Medium,mesh-nodes/evm/ekta/node-config.json
+evm__Elastos_Smart_Chain,evm,Elastos Smart Chain,20,mainnet,active,Medium,mesh-nodes/evm/elastossmartchain/node-config.json
+evm__Eleanor,evm,Eleanor,1967,mainnet,active,Medium,mesh-nodes/evm/eleanor/node-config.json
+evm__Electra_Network,evm,Electra Network,861,mainnet,active,Medium,mesh-nodes/evm/electranetwork/node-config.json
+evm__Electroneum_Mainnet,evm,Electroneum Mainnet,52014,mainnet,active,Medium,mesh-nodes/evm/electroneummainnet/node-config.json
+evm__Ella_the_heart,evm,Ella the heart,7027,mainnet,active,Medium,mesh-nodes/evm/ellatheheart/node-config.json
+evm__Ellaism,evm,Ellaism,64,mainnet,active,Medium,mesh-nodes/evm/ellaism/node-config.json
+evm__Eluvio_Content_Fabric,evm,Eluvio Content Fabric,955305,mainnet,active,Medium,mesh-nodes/evm/eluviocontentfabric/node-config.json
+evm__Elux_Chain,evm,Elux Chain,2907,mainnet,active,Medium,mesh-nodes/evm/eluxchain/node-config.json
+evm__Elysium_Mainnet,evm,Elysium Mainnet,1339,mainnet,active,Medium,mesh-nodes/evm/elysiummainnet/node-config.json
+evm__Emeraldz,evm,Emeraldz,789789,mainnet,active,Medium,mesh-nodes/evm/emeraldz/node-config.json
+evm__Emoney_Network_Mainnet,evm,Emoney Network Mainnet,4545,mainnet,active,Medium,mesh-nodes/evm/emoneynetworkmainnet/node-config.json
+evm__Empire_Network,evm,Empire Network,3693,mainnet,active,Medium,mesh-nodes/evm/empirenetwork/node-config.json
+evm__Endurance_Smart_Chain_Mainnet,evm,Endurance Smart Chain Mainnet,648,mainnet,active,Medium,mesh-nodes/evm/endurancesmartchainmainnet/node-config.json
+evm__Energi_Mainnet,evm,Energi Mainnet,39797,mainnet,active,Medium,mesh-nodes/evm/energimainnet/node-config.json
+evm__Energy_Web_Chain,evm,Energy Web Chain,246,mainnet,active,Medium,mesh-nodes/evm/energywebchain/node-config.json
+evm__Ennothem_Mainnet_Proterozoic,evm,Ennothem Mainnet Proterozoic,48,mainnet,active,Medium,mesh-nodes/evm/ennothemmainnetproterozoic/node-config.json
+evm__Entangle_Mainnet,evm,Entangle Mainnet,33033,mainnet,active,Medium,mesh-nodes/evm/entanglemainnet/node-config.json
+evm__EnterChain_Mainnet,evm,EnterChain Mainnet,1214,mainnet,active,Medium,mesh-nodes/evm/enterchainmainnet/node-config.json
+evm__EraSwap_Mainnet,evm,EraSwap Mainnet,5197,mainnet,active,Medium,mesh-nodes/evm/eraswapmainnet/node-config.json
+evm__Erbie_Mainnet,evm,Erbie Mainnet,50888,mainnet,active,Medium,mesh-nodes/evm/erbiemainnet/node-config.json
+evm__Esa,evm,Esa,83278,mainnet,active,Medium,mesh-nodes/evm/esa/node-config.json
+evm__Espento_Mainnet,evm,Espento Mainnet,9911,mainnet,active,Medium,mesh-nodes/evm/espentomainnet/node-config.json
+evm__Esports_Chain,evm,Esports Chain,17735,mainnet,active,Medium,mesh-nodes/evm/esportschain/node-config.json
+evm__Eteria_Mainnet,evm,Eteria Mainnet,140,mainnet,active,Medium,mesh-nodes/evm/eteriamainnet/node-config.json
+evm__EthStorage_L2_Mainnet,evm,EthStorage L2 Mainnet,3332,mainnet,active,Medium,mesh-nodes/evm/ethstoragel2mainnet/node-config.json
+evm__EthStorage_Mainnet,evm,EthStorage Mainnet,333,mainnet,active,Medium,mesh-nodes/evm/ethstoragemainnet/node-config.json
+evm__EthXY,evm,EthXY,969,mainnet,active,Medium,mesh-nodes/evm/ethxy/node-config.json
+evm__EtherGem,evm,EtherGem,1987,mainnet,active,Medium,mesh-nodes/evm/ethergem/node-config.json
+evm__EtherInc,evm,EtherInc,101,mainnet,active,Medium,mesh-nodes/evm/etherinc/node-config.json
+evm__EtherLite_Chain,evm,EtherLite Chain,111,mainnet,active,Medium,mesh-nodes/evm/etherlitechain/node-config.json
+evm__Ethereum_Classic,evm,Ethereum Classic,61,mainnet,active,Medium,mesh-nodes/evm/ethereumclassic/node-config.json
+evm__Ethereum_Inscription_Mainnet,evm,Ethereum Inscription Mainnet,1617,mainnet,active,Medium,mesh-nodes/evm/ethereuminscriptionmainnet/node-config.json
+evm__Ethereum_Mainnet,evm,Ethereum Mainnet,1,mainnet,active,Medium,mesh-nodes/evm/EthereumMainnet/node-config.json
+evm__EthereumFair,evm,EthereumFair,513100,mainnet,active,Medium,mesh-nodes/evm/ethereumfair/node-config.json
+evm__Etherlink_Mainnet,evm,Etherlink Mainnet,42793,mainnet,active,Medium,mesh-nodes/evm/etherlinkmainnet/node-config.json
+evm__Ethernity,evm,Ethernity,183,mainnet,active,Medium,mesh-nodes/evm/ethernity/node-config.json
+evm__Ethernova_Mainnet,evm,Ethernova Mainnet,121525,mainnet,active,Medium,mesh-nodes/evm/ethernovamainnet/node-config.json
+evm__Ethersocial_Network,evm,Ethersocial Network,31102,mainnet,active,Medium,mesh-nodes/evm/ethersocialnetwork/node-config.json
+evm__Ethiq,evm,Ethiq,30303,mainnet,active,Medium,mesh-nodes/evm/ethiq/node-config.json
+evm__Etho_Protocol,evm,Etho Protocol,1313114,mainnet,active,Medium,mesh-nodes/evm/ethoprotocol/node-config.json
+evm__Ethos,evm,Ethos,100000000,mainnet,active,Medium,mesh-nodes/evm/ethos/node-config.json
+evm__Ethpar_Mainnet,evm,Ethpar Mainnet,1727,mainnet,active,Medium,mesh-nodes/evm/ethparmainnet/node-config.json
+evm__Etica_Mainnet,evm,Etica Mainnet,61803,mainnet,active,Medium,mesh-nodes/evm/eticamainnet/node-config.json
+evm__Eurus_Mainnet,evm,Eurus Mainnet,1008,mainnet,active,Medium,mesh-nodes/evm/eurusmainnet/node-config.json
+evm__Evanesco_Mainnet,evm,Evanesco Mainnet,2213,mainnet,active,Medium,mesh-nodes/evm/evanescomainnet/node-config.json
+evm__Eventum_Mainnet,evm,Eventum Mainnet,161803,mainnet,active,Medium,mesh-nodes/evm/eventummainnet/node-config.json
+evm__Everclear_Mainnet,evm,Everclear Mainnet,25327,mainnet,active,Medium,mesh-nodes/evm/everclearmainnet/node-config.json
+evm__Evmos,evm,Evmos,9001,mainnet,active,Medium,mesh-nodes/evm/evmos/node-config.json
+evm__Evoke_Mainnet,evm,Evoke Mainnet,9395,mainnet,active,Medium,mesh-nodes/evm/evokemainnet/node-config.json
+evm__Evoz_Mainnet,evm,Evoz Mainnet,805,mainnet,active,Medium,mesh-nodes/evm/evozmainnet/node-config.json
+evm__Evrice_Network,evm,Evrice Network,1010,mainnet,active,Medium,mesh-nodes/evm/evricenetwork/node-config.json
+evm__Excelon_Mainnet,evm,Excelon Mainnet,22052002,mainnet,active,Medium,mesh-nodes/evm/excelonmainnet/node-config.json
+evm__Excoincial_Chain_Mainnet,evm,Excoincial Chain Mainnet,27082022,mainnet,active,Medium,mesh-nodes/evm/excoincialchainmainnet/node-config.json
+evm__Exosama_Network,evm,Exosama Network,2109,mainnet,active,Medium,mesh-nodes/evm/exosamanetwork/node-config.json
+evm__Expanse_Network,evm,Expanse Network,2,mainnet,active,Medium,mesh-nodes/evm/expansenetwork/node-config.json
+evm__Exzo_Network_Mainnet,evm,Exzo Network Mainnet,1229,mainnet,active,Medium,mesh-nodes/evm/exzonetworkmainnet/node-config.json
+evm__FAVO_Mainnet,evm,FAVO Mainnet,3838,mainnet,active,Medium,mesh-nodes/evm/favomainnet/node-config.json
+evm__FNCY,evm,FNCY,73,mainnet,active,Medium,mesh-nodes/evm/fncy/node-config.json
+evm__Factory_127_Mainnet,evm,Factory 127 Mainnet,127,mainnet,active,Medium,mesh-nodes/evm/factory127mainnet/node-config.json
+evm__Fantasia_Chain_Mainnet,evm,Fantasia Chain Mainnet,868,mainnet,active,Medium,mesh-nodes/evm/fantasiachainmainnet/node-config.json
+evm__Fantom_Opera,evm,Fantom Opera,250,mainnet,active,Medium,mesh-nodes/evm/fantomopera/node-config.json
+evm__Ferrum_Quantum_Portal_Network,evm,Ferrum Quantum Portal Network,26100,mainnet,active,Medium,mesh-nodes/evm/ferrumquantumportalnetwork/node-config.json
+evm__Fhenix_Helium,evm,Fhenix Helium,8008135,mainnet,active,Medium,mesh-nodes/evm/fhenixhelium/node-config.json
+evm__Fibonacci_Mainnet,evm,Fibonacci Mainnet,12306,mainnet,active,Medium,mesh-nodes/evm/fibonaccimainnet/node-config.json
+evm__Fidesinnova,evm,Fidesinnova,706883,mainnet,active,Medium,mesh-nodes/evm/fidesinnova/node-config.json
+evm__FileFileGo,evm,FileFileGo,191,mainnet,active,Medium,mesh-nodes/evm/filefilego/node-config.json
+evm__Filecoin_-_Mainnet,evm,Filecoin - Mainnet,314,mainnet,active,Medium,mesh-nodes/evm/filecoin-mainnet/node-config.json
+evm__Filenova_Mainnet,evm,Filenova Mainnet,579,mainnet,active,Medium,mesh-nodes/evm/filenovamainnet/node-config.json
+evm__Findora_Forge,evm,Findora Forge,2154,mainnet,active,Medium,mesh-nodes/evm/findoraforge/node-config.json
+evm__Findora_Mainnet,evm,Findora Mainnet,2152,mainnet,active,Medium,mesh-nodes/evm/findoramainnet/node-config.json
+evm__Firechain_Mainnet,evm,Firechain Mainnet,529,mainnet,active,Medium,mesh-nodes/evm/firechainmainnet/node-config.json
+evm__Firechain_Mainnet_Old,evm,Firechain Mainnet Old,5290,mainnet,active,Medium,mesh-nodes/evm/firechainmainnetold/node-config.json
+evm__Firechain_zkEVM,evm,Firechain zkEVM,814,mainnet,active,Medium,mesh-nodes/evm/firechainzkevm/node-config.json
+evm__Firechain_zkEVM_Ghostrider,evm,Firechain zkEVM Ghostrider,3885,mainnet,active,Medium,mesh-nodes/evm/firechainzkevmghostrider/node-config.json
+evm__Flachain_Mainnet,evm,Flachain Mainnet,29032022,mainnet,active,Medium,mesh-nodes/evm/flachainmainnet/node-config.json
+evm__Flag_Mainnet,evm,Flag Mainnet,147,mainnet,active,Medium,mesh-nodes/evm/flagmainnet/node-config.json
+evm__Flame,evm,Flame,253368190,mainnet,active,Medium,mesh-nodes/evm/flame/node-config.json
+evm__Flamma_Mainnet,evm,Flamma Mainnet,55614,mainnet,active,Medium,mesh-nodes/evm/flammamainnet/node-config.json
+evm__Flana,evm,Flana,8135,mainnet,active,Medium,mesh-nodes/evm/flana/node-config.json
+evm__Flana_Mixnet,evm,Flana Mixnet,81352,mainnet,active,Medium,mesh-nodes/evm/flanamixnet/node-config.json
+evm__Flana_Privnet,evm,Flana Privnet,81353,mainnet,active,Medium,mesh-nodes/evm/flanaprivnet/node-config.json
+evm__Flare_Mainnet,evm,Flare Mainnet,14,mainnet,active,Medium,mesh-nodes/evm/flaremainnet/node-config.json
+evm__Flow_EVM_Mainnet,evm,Flow EVM Mainnet,747,mainnet,active,Medium,mesh-nodes/evm/flowevmmainnet/node-config.json
+evm__Fluence,evm,Fluence,9999999,mainnet,active,Medium,mesh-nodes/evm/fluence/node-config.json
+evm__Fluence_Stage,evm,Fluence Stage,123420000220,mainnet,active,Medium,mesh-nodes/evm/fluencestage/node-config.json
+evm__Fluent,evm,Fluent,25363,mainnet,active,Medium,mesh-nodes/evm/fluent/node-config.json
+evm__Form_Network,evm,Form Network,478,mainnet,active,Medium,mesh-nodes/evm/formnetwork/node-config.json
+evm__Forma,evm,Forma,984122,mainnet,active,Medium,mesh-nodes/evm/forma/node-config.json
+evm__Forma_Sketchpad,evm,Forma Sketchpad,984123,mainnet,active,Medium,mesh-nodes/evm/formasketchpad/node-config.json
+evm__Formicarium,evm,Formicarium,43521,mainnet,active,Medium,mesh-nodes/evm/formicarium/node-config.json
+evm__Forta_Chain,evm,Forta Chain,80931,mainnet,active,Medium,mesh-nodes/evm/fortachain/node-config.json
+evm__Fraxtal,evm,Fraxtal,252,mainnet,active,Medium,mesh-nodes/evm/fraxtal/node-config.json
+evm__Freight_Trust_Network,evm,Freight Trust Network,211,mainnet,active,Medium,mesh-nodes/evm/freighttrustnetwork/node-config.json
+evm__Frenchain,evm,Frenchain,44444,mainnet,active,Medium,mesh-nodes/evm/frenchain/node-config.json
+evm__Fuga_Develop,evm,Fuga Develop,1734,mainnet,active,Medium,mesh-nodes/evm/fugadevelop/node-config.json
+evm__Fuga_Mainnet,evm,Fuga Mainnet,1732,mainnet,active,Medium,mesh-nodes/evm/fugamainnet/node-config.json
+evm__Funki,evm,Funki,33979,mainnet,active,Medium,mesh-nodes/evm/funki/node-config.json
+evm__Furtheon,evm,Furtheon,308,mainnet,active,Medium,mesh-nodes/evm/furtheon/node-config.json
+evm__Fuse_Mainnet,evm,Fuse Mainnet,122,mainnet,active,Medium,mesh-nodes/evm/fusemainnet/node-config.json
+evm__Fuse_Sparknet,evm,Fuse Sparknet,123,mainnet,active,Medium,mesh-nodes/evm/fusesparknet/node-config.json
+evm__Fushuma,evm,Fushuma,121224,mainnet,active,Medium,mesh-nodes/evm/fushuma/node-config.json
+evm__Fusion_Mainnet,evm,Fusion Mainnet,32659,mainnet,active,Medium,mesh-nodes/evm/fusionmainnet/node-config.json
+evm__G8Chain_Mainnet,evm,G8Chain Mainnet,17171,mainnet,active,Medium,mesh-nodes/evm/g8chainmainnet/node-config.json
+evm__GANchain_L1,evm,GANchain L1,4048,mainnet,active,Medium,mesh-nodes/evm/ganchainl1/node-config.json
+evm__GDCC_MAINNET,evm,GDCC MAINNET,7774,mainnet,active,Medium,mesh-nodes/evm/gdccmainnet/node-config.json
+evm__GDPR_Mainnet,evm,GDPR Mainnet,12358,mainnet,active,Medium,mesh-nodes/evm/gdprmainnet/node-config.json
+evm__GEB_Mainnet,evm,GEB Mainnet,11501,mainnet,active,Medium,mesh-nodes/evm/gebmainnet/node-config.json
+evm__GEEK_Verse_Mainnet,evm,GEEK Verse Mainnet,75512,mainnet,active,Medium,mesh-nodes/evm/geekversemainnet/node-config.json
+evm__GIWA,evm,GIWA,9134,mainnet,active,Medium,mesh-nodes/evm/giwa/node-config.json
+evm__GLScan,evm,GLScan,10222,mainnet,active,Medium,mesh-nodes/evm/glscan/node-config.json
+evm__GM_Network_Mainnet,evm,GM Network Mainnet,2777,mainnet,active,Medium,mesh-nodes/evm/gmnetworkmainnet/node-config.json
+evm__GOAT_Network,evm,GOAT Network,2345,mainnet,active,Medium,mesh-nodes/evm/goatnetwork/node-config.json
+evm__GPT_Mainnet,evm,GPT Mainnet,1511670449,mainnet,active,Medium,mesh-nodes/evm/gptmainnet/node-config.json
+evm__GRVT_Exchange,evm,GRVT Exchange,325,mainnet,active,Medium,mesh-nodes/evm/grvtexchange/node-config.json
+evm__GTCSCAN,evm,GTCSCAN,3490,mainnet,active,Medium,mesh-nodes/evm/gtcscan/node-config.json
+evm__GTON_Mainnet,evm,GTON Mainnet,1000,mainnet,active,Medium,mesh-nodes/evm/gtonmainnet/node-config.json
+evm__GUNZ,evm,GUNZ,43419,mainnet,active,Medium,mesh-nodes/evm/gunz/node-config.json
+evm__Galactica-Reticulum,evm,Galactica-Reticulum,9302,mainnet,active,Medium,mesh-nodes/evm/galactica-reticulum/node-config.json
+evm__Game7,evm,Game7,2187,mainnet,active,Medium,mesh-nodes/evm/game7/node-config.json
+evm__Ganache,evm,Ganache,5777,mainnet,active,Medium,mesh-nodes/evm/ganache/node-config.json
+evm__Garizon_Stage0,evm,Garizon Stage0,90,mainnet,active,Medium,mesh-nodes/evm/garizonstage0/node-config.json
+evm__Garizon_Stage1,evm,Garizon Stage1,91,mainnet,active,Medium,mesh-nodes/evm/garizonstage1/node-config.json
+evm__Garizon_Stage2,evm,Garizon Stage2,92,mainnet,active,Medium,mesh-nodes/evm/garizonstage2/node-config.json
+evm__Garizon_Stage3,evm,Garizon Stage3,93,mainnet,active,Medium,mesh-nodes/evm/garizonstage3/node-config.json
+evm__GateChain_Mainnet,evm,GateChain Mainnet,86,mainnet,active,Medium,mesh-nodes/evm/gatechainmainnet/node-config.json
+evm__Gather_Mainnet_Network,evm,Gather Mainnet Network,192837465,mainnet,active,Medium,mesh-nodes/evm/gathermainnetnetwork/node-config.json
+evm__Gauss_Mainnet,evm,Gauss Mainnet,1777,mainnet,active,Medium,mesh-nodes/evm/gaussmainnet/node-config.json
+evm__Gear_Zero_Network_Mainnet,evm,Gear Zero Network Mainnet,516,mainnet,active,Medium,mesh-nodes/evm/gearzeronetworkmainnet/node-config.json
+evm__Geist_Mainnet,evm,Geist Mainnet,63157,mainnet,active,Medium,mesh-nodes/evm/geistmainnet/node-config.json
+evm__Gelatine_Network,evm,Gelatine Network,61564,mainnet,active,Medium,mesh-nodes/evm/gelatinenetwork/node-config.json
+evm__Gemchain,evm,Gemchain,123321,mainnet,active,Medium,mesh-nodes/evm/gemchain/node-config.json
+evm__GeneChain,evm,GeneChain,80,mainnet,active,Medium,mesh-nodes/evm/genechain/node-config.json
+evm__Genesis_Coin,evm,Genesis Coin,9100,mainnet,active,Medium,mesh-nodes/evm/genesiscoin/node-config.json
+evm__Genesis_L1,evm,Genesis L1,29,mainnet,active,Medium,mesh-nodes/evm/genesisl1/node-config.json
+evm__Genesys_Code_Mainnet,evm,Genesys Code Mainnet,59971,mainnet,active,Medium,mesh-nodes/evm/genesyscodemainnet/node-config.json
+evm__Genesys_Mainnet,evm,Genesys Mainnet,16507,mainnet,active,Medium,mesh-nodes/evm/genesysmainnet/node-config.json
+evm__Gensyn_Mainnet,evm,Gensyn Mainnet,685689,mainnet,active,Medium,mesh-nodes/evm/gensynmainnet/node-config.json
+evm__Geo_Genesis,evm,Geo Genesis,80451,mainnet,active,Medium,mesh-nodes/evm/geogenesis/node-config.json
+evm__Geso_Verse,evm,Geso Verse,428,mainnet,active,Medium,mesh-nodes/evm/gesoverse/node-config.json
+evm__Giant_Mammoth_Mainnet,evm,Giant Mammoth Mainnet,8989,mainnet,active,Medium,mesh-nodes/evm/giantmammothmainnet/node-config.json
+evm__Glide_L1_Protocol_XP,evm,Glide L1 Protocol XP,251,mainnet,active,Medium,mesh-nodes/evm/glidel1protocolxp/node-config.json
+evm__Glide_L2_Protocol_XP,evm,Glide L2 Protocol XP,253,mainnet,active,Medium,mesh-nodes/evm/glidel2protocolxp/node-config.json
+evm__Global_Trust_Network,evm,Global Trust Network,101010,mainnet,active,Medium,mesh-nodes/evm/globaltrustnetwork/node-config.json
+evm__Globel_Chain,evm,Globel Chain,4893,mainnet,active,Medium,mesh-nodes/evm/globelchain/node-config.json
+evm__Glue_Mainnet,evm,Glue Mainnet,1300,mainnet,active,Medium,mesh-nodes/evm/gluemainnet/node-config.json
+evm__Gnodi_Mainnet,evm,Gnodi Mainnet,46634,mainnet,active,Medium,mesh-nodes/evm/gnodimainnet/node-config.json
+evm__Gnosis,evm,Gnosis,100,mainnet,active,Medium,mesh-nodes/evm/gnosis/node-config.json
+evm__GoChain,evm,GoChain,60,mainnet,active,Medium,mesh-nodes/evm/gochain/node-config.json
+evm__Godwoken_Mainnet,evm,Godwoken Mainnet,71402,mainnet,active,Medium,mesh-nodes/evm/godwokenmainnet/node-config.json
+evm__Gold_Chain,evm,Gold Chain,4653,mainnet,active,Medium,mesh-nodes/evm/goldchain/node-config.json
+evm__Gold_Smart_Chain_Mainnet,evm,Gold Smart Chain Mainnet,6789,mainnet,active,Medium,mesh-nodes/evm/goldsmartchainmainnet/node-config.json
+evm__GoldXChain_Mainnet,evm,GoldXChain Mainnet,42355,mainnet,active,Medium,mesh-nodes/evm/goldxchainmainnet/node-config.json
+evm__Gon_Chain,evm,Gon Chain,10024,mainnet,active,Medium,mesh-nodes/evm/gonchain/node-config.json
+evm__GoodData_Mainnet,evm,GoodData Mainnet,33,mainnet,active,Medium,mesh-nodes/evm/gooddatamainnet/node-config.json
+evm__Gotas_Social,evm,Gotas Social,23232,mainnet,active,Medium,mesh-nodes/evm/gotassocial/node-config.json
+evm__Graphite_Mainnet,evm,Graphite Mainnet,440017,mainnet,active,Medium,mesh-nodes/evm/graphitemainnet/node-config.json
+evm__Graphlinq_Blockchain_Mainnet,evm,Graphlinq Blockchain Mainnet,614,mainnet,active,Medium,mesh-nodes/evm/graphlinqblockchainmainnet/node-config.json
+evm__Gravity,evm,Gravity,127001,mainnet,active,Medium,mesh-nodes/evm/gravity/node-config.json
+evm__Gravity_Alpha_Mainnet,evm,Gravity Alpha Mainnet,1625,mainnet,active,Medium,mesh-nodes/evm/gravityalphamainnet/node-config.json
+evm__Grok_Chain_Mainnet,evm,Grok Chain Mainnet,72992,mainnet,active,Medium,mesh-nodes/evm/grokchainmainnet/node-config.json
+evm__GuapcoinX,evm,GuapcoinX,71111,mainnet,active,Medium,mesh-nodes/evm/guapcoinx/node-config.json
+evm__Guru_Network,evm,Guru Network,260,mainnet,active,Medium,mesh-nodes/evm/gurunetwork/node-config.json
+evm__H2_Chain_Mainnet,evm,H2 Chain Mainnet,2582,mainnet,active,Medium,mesh-nodes/evm/h2chainmainnet/node-config.json
+evm__HALO_Mainnet,evm,HALO Mainnet,1280,mainnet,active,Medium,mesh-nodes/evm/halomainnet/node-config.json
+evm__HAPchain,evm,HAPchain,8794598,mainnet,active,Medium,mesh-nodes/evm/hapchain/node-config.json
+evm__HIPERCAPITAL_FINANCE_Chain,evm,HIPERCAPITAL FINANCE Chain,240884,mainnet,active,Medium,mesh-nodes/evm/hipercapitalfinancechain/node-config.json
+evm__HOME_Verse_Mainnet,evm,HOME Verse Mainnet,19011,mainnet,active,Medium,mesh-nodes/evm/homeversemainnet/node-config.json
+evm__HPP_Mainnet,evm,HPP Mainnet,190415,mainnet,active,Medium,mesh-nodes/evm/hppmainnet/node-config.json
+evm__HUMAN_Protocol,evm,HUMAN Protocol,1273227453,mainnet,active,Medium,mesh-nodes/evm/humanprotocol/node-config.json
+evm__HYCHAIN,evm,HYCHAIN,2911,mainnet,active,Medium,mesh-nodes/evm/hychain/node-config.json
+evm__Haic,evm,Haic,803,mainnet,active,Medium,mesh-nodes/evm/haic/node-config.json
+evm__Ham,evm,Ham,5112,mainnet,active,Medium,mesh-nodes/evm/ham/node-config.json
+evm__Hammer_Chain_Mainnet,evm,Hammer Chain Mainnet,25888,mainnet,active,Medium,mesh-nodes/evm/hammerchainmainnet/node-config.json
+evm__Haqq_Network,evm,Haqq Network,11235,mainnet,active,Medium,mesh-nodes/evm/haqqnetwork/node-config.json
+evm__Harmony_Mainnet_Shard_0,evm,Harmony Mainnet Shard 0,1666600000,mainnet,active,Medium,mesh-nodes/evm/harmonymainnetshard0/node-config.json
+evm__Harmony_Mainnet_Shard_1,evm,Harmony Mainnet Shard 1,1666600001,mainnet,active,Medium,mesh-nodes/evm/harmonymainnetshard1/node-config.json
+evm__Harmony_Mainnet_Shard_2,evm,Harmony Mainnet Shard 2,1666600002,mainnet,active,Medium,mesh-nodes/evm/harmonymainnetshard2/node-config.json
+evm__Harmony_Mainnet_Shard_3,evm,Harmony Mainnet Shard 3,1666600003,mainnet,active,Medium,mesh-nodes/evm/harmonymainnetshard3/node-config.json
+evm__HashBit_Mainnet,evm,HashBit Mainnet,11119,mainnet,active,Medium,mesh-nodes/evm/hashbitmainnet/node-config.json
+evm__HashKey_Chain,evm,HashKey Chain,177,mainnet,active,Medium,mesh-nodes/evm/hashkeychain/node-config.json
+evm__Haust_Mainnet,evm,Haust Mainnet,938,mainnet,active,Medium,mesh-nodes/evm/haustmainnet/node-config.json
+evm__Haven1,evm,Haven1,8811,mainnet,active,Medium,mesh-nodes/evm/haven1/node-config.json
+evm__Hedera_Mainnet,evm,Hedera Mainnet,295,mainnet,active,Medium,mesh-nodes/evm/hederamainnet/node-config.json
+evm__Heima,evm,Heima,212013,mainnet,active,Medium,mesh-nodes/evm/heima/node-config.json
+evm__Hela_Official_Runtime_Mainnet,evm,Hela Official Runtime Mainnet,8668,mainnet,active,Medium,mesh-nodes/evm/helaofficialruntimemainnet/node-config.json
+evm__Helix_Chain,evm,Helix Chain,8088,mainnet,active,Medium,mesh-nodes/evm/helixchain/node-config.json
+evm__Help_The_Homeless,evm,Help The Homeless,7118,mainnet,active,Medium,mesh-nodes/evm/helpthehomeless/node-config.json
+evm__Hemi,evm,Hemi,43111,mainnet,active,Medium,mesh-nodes/evm/hemi/node-config.json
+evm__Henesys,evm,Henesys,68414,mainnet,active,Medium,mesh-nodes/evm/henesys/node-config.json
+evm__Henez_Chain_Mainnet,evm,Henez Chain Mainnet,91111,mainnet,active,Medium,mesh-nodes/evm/henezchainmainnet/node-config.json
+evm__Hertz_Network_Mainnet,evm,Hertz Network Mainnet,26600,mainnet,active,Medium,mesh-nodes/evm/hertznetworkmainnet/node-config.json
+evm__Hetu_Mainnet,evm,Hetu Mainnet,560000,mainnet,active,Medium,mesh-nodes/evm/hetumainnet/node-config.json
+evm__High_Performance_Blockchain,evm,High Performance Blockchain,269,mainnet,active,Medium,mesh-nodes/evm/highperformanceblockchain/node-config.json
+evm__HighOctane_Subnet,evm,HighOctane Subnet,1853,mainnet,active,Medium,mesh-nodes/evm/highoctanesubnet/node-config.json
+evm__Highbury,evm,Highbury,710,mainnet,active,Medium,mesh-nodes/evm/highbury/node-config.json
+evm__Hizoco_mainnet,evm,Hizoco mainnet,80096,mainnet,active,Medium,mesh-nodes/evm/hizocomainnet/node-config.json
+evm__Hokum,evm,Hokum,8080808,mainnet,active,Medium,mesh-nodes/evm/hokum/node-config.json
+evm__HongKong_Mainnet,evm,HongKong Mainnet,852,mainnet,active,Medium,mesh-nodes/evm/hongkongmainnet/node-config.json
+evm__Hoo_Smart_Chain,evm,Hoo Smart Chain,70,mainnet,active,Medium,mesh-nodes/evm/hoosmartchain/node-config.json
+evm__Horizen_EON_Mainnet,evm,Horizen EON Mainnet,7332,mainnet,active,Medium,mesh-nodes/evm/horizeneonmainnet/node-config.json
+evm__Horizen_Mainnet,evm,Horizen Mainnet,26514,mainnet,active,Medium,mesh-nodes/evm/horizenmainnet/node-config.json
+evm__Htmlcoin_Mainnet,evm,Htmlcoin Mainnet,4444,mainnet,active,Medium,mesh-nodes/evm/htmlcoinmainnet/node-config.json
+evm__Hubble_Exchange,evm,Hubble Exchange,1992,mainnet,active,Medium,mesh-nodes/evm/hubbleexchange/node-config.json
+evm__Huddle01_dRTC_Chain,evm,Huddle01 dRTC Chain,12323,mainnet,active,Medium,mesh-nodes/evm/huddle01drtcchain/node-config.json
+evm__Humanity_Protocol,evm,Humanity Protocol,6985385,mainnet,active,Medium,mesh-nodes/evm/humanityprotocol/node-config.json
+evm__Humanode_Mainnet,evm,Humanode Mainnet,5234,mainnet,active,Medium,mesh-nodes/evm/humanodemainnet/node-config.json
+evm__Humans_ai_Mainnet,evm,Humans.ai Mainnet,1089,mainnet,active,Medium,mesh-nodes/evm/humansaimainnet/node-config.json
+evm__Huobi_ECO_Chain_Mainnet,evm,Huobi ECO Chain Mainnet,128,mainnet,active,Medium,mesh-nodes/evm/huobiecochainmainnet/node-config.json
+evm__Hybrid_Chain_Network_Mainnet,evm,Hybrid Chain Network Mainnet,2468,mainnet,active,Medium,mesh-nodes/evm/hybridchainnetworkmainnet/node-config.json
+evm__Hydra_Chain,evm,Hydra Chain,4488,mainnet,active,Medium,mesh-nodes/evm/hydrachain/node-config.json
+evm__Hydration,evm,Hydration,222222,mainnet,active,Medium,mesh-nodes/evm/hydration/node-config.json
+evm__HyperAGI_Mainnet,evm,HyperAGI Mainnet,2868,mainnet,active,Medium,mesh-nodes/evm/hyperagimainnet/node-config.json
+evm__HyperCluster,evm,HyperCluster,838838,mainnet,active,Medium,mesh-nodes/evm/hypercluster/node-config.json
+evm__HyperX,evm,HyperX,80808,mainnet,active,Medium,mesh-nodes/evm/hyperx/node-config.json
+evm__Hypra_Mainnet,evm,Hypra Mainnet,622277,mainnet,active,Medium,mesh-nodes/evm/hypramainnet/node-config.json
+evm__ICB_Network,evm,ICB Network,73115,mainnet,active,Medium,mesh-nodes/evm/icbnetwork/node-config.json
+evm__ICPlaza_Mainnet,evm,ICPlaza Mainnet,142857,mainnet,active,Medium,mesh-nodes/evm/icplazamainnet/node-config.json
+evm__IDChain_Mainnet,evm,IDChain Mainnet,74,mainnet,active,Medium,mesh-nodes/evm/idchainmainnet/node-config.json
+evm__IDN_Mainnet,evm,IDN Mainnet,215,mainnet,active,Medium,mesh-nodes/evm/idnmainnet/node-config.json
+evm__ILITY_Mainnet,evm,ILITY Mainnet,4370,mainnet,active,Medium,mesh-nodes/evm/ilitymainnet/node-config.json
+evm__IMPERIUM_MAINNET,evm,IMPERIUM MAINNET,9819,mainnet,active,Medium,mesh-nodes/evm/imperiummainnet/node-config.json
+evm__INSAN,evm,INSAN,89001,mainnet,active,Medium,mesh-nodes/evm/insan/node-config.json
+evm__IOLite,evm,IOLite,18289463,mainnet,active,Medium,mesh-nodes/evm/iolite/node-config.json
+evm__IOST_Mainnet,evm,IOST Mainnet,182,mainnet,active,Medium,mesh-nodes/evm/iostmainnet/node-config.json
+evm__IOTA_EVM,evm,IOTA EVM,8822,mainnet,active,Medium,mesh-nodes/evm/iotaevm/node-config.json
+evm__IPOS_Network,evm,IPOS Network,1122334455,mainnet,active,Medium,mesh-nodes/evm/iposnetwork/node-config.json
+evm__IRIShub,evm,IRIShub,6688,mainnet,active,Medium,mesh-nodes/evm/irishub/node-config.json
+evm__ITX_Mainnet,evm,ITX Mainnet,1235,mainnet,active,Medium,mesh-nodes/evm/itxmainnet/node-config.json
+evm__Igra_Network,evm,Igra Network,38833,mainnet,active,Medium,mesh-nodes/evm/igranetwork/node-config.json
+evm__Immu3_EVM,evm,Immu3 EVM,3100,mainnet,active,Medium,mesh-nodes/evm/immu3evm/node-config.json
+evm__Immutable_zkEVM,evm,Immutable zkEVM,13371,mainnet,active,Medium,mesh-nodes/evm/immutablezkevm/node-config.json
+evm__Imversed_Mainnet,evm,Imversed Mainnet,5555555,mainnet,active,Medium,mesh-nodes/evm/imversedmainnet/node-config.json
+evm__Inertia_Scan,evm,Inertia Scan,5433,mainnet,active,Medium,mesh-nodes/evm/inertiascan/node-config.json
+evm__Infinaeon,evm,Infinaeon,420000,mainnet,active,Medium,mesh-nodes/evm/infinaeon/node-config.json
+evm__InitVerse_Mainnet,evm,InitVerse Mainnet,7233,mainnet,active,Medium,mesh-nodes/evm/initversemainnet/node-config.json
+evm__Injective,evm,Injective,1776,mainnet,active,Medium,mesh-nodes/evm/injective/node-config.json
+evm__Ink,evm,Ink,57073,mainnet,active,Medium,mesh-nodes/evm/ink/node-config.json
+evm__Innovator_Chain,evm,Innovator Chain,129,mainnet,active,Medium,mesh-nodes/evm/innovatorchain/node-config.json
+evm__InoAi,evm,InoAi,88559,mainnet,active,Medium,mesh-nodes/evm/inoai/node-config.json
+evm__Integra,evm,Integra,26217,mainnet,active,Medium,mesh-nodes/evm/integra/node-config.json
+evm__Intuition_Mainnet,evm,Intuition Mainnet,1155,mainnet,active,Medium,mesh-nodes/evm/intuitionmainnet/node-config.json
+evm__IoTeX_Network_Mainnet,evm,IoTeX Network Mainnet,4689,mainnet,active,Medium,mesh-nodes/evm/iotexnetworkmainnet/node-config.json
+evm__Iora_Chain,evm,Iora Chain,1197,mainnet,active,Medium,mesh-nodes/evm/iorachain/node-config.json
+evm__Irys_Mainnet_Beta,evm,Irys Mainnet Beta,3282,mainnet,active,Medium,mesh-nodes/evm/irysmainnetbeta/node-config.json
+evm__J2O_Taro,evm,J2O Taro,35011,mainnet,active,Medium,mesh-nodes/evm/j2otaro/node-config.json
+evm__JFIN_Chain,evm,JFIN Chain,3501,mainnet,active,Medium,mesh-nodes/evm/jfinchain/node-config.json
+evm__JFINPOS,evm,JFINPOS,3502,mainnet,active,Medium,mesh-nodes/evm/jfinpos/node-config.json
+evm__JIBCHAIN_L1,evm,JIBCHAIN L1,8899,mainnet,active,Medium,mesh-nodes/evm/jibchainl1/node-config.json
+evm__JMDT_Mainnet,evm,JMDT Mainnet,7000700,mainnet,active,Medium,mesh-nodes/evm/jmdtmainnet/node-config.json
+evm__JaiHo_Chain,evm,JaiHo Chain,1313,mainnet,active,Medium,mesh-nodes/evm/jaihochain/node-config.json
+evm__Jamton,evm,Jamton,5589,mainnet,active,Medium,mesh-nodes/evm/jamton/node-config.json
+evm__Janction,evm,Janction,678,mainnet,active,Medium,mesh-nodes/evm/janction/node-config.json
+evm__Japan_Open_Chain_Mainnet,evm,Japan Open Chain Mainnet,81,mainnet,active,Medium,mesh-nodes/evm/japanopenchainmainnet/node-config.json
+evm__JasmyChain,evm,JasmyChain,680,mainnet,active,Medium,mesh-nodes/evm/jasmychain/node-config.json
+evm__Jellie,evm,Jellie,202624,mainnet,active,Medium,mesh-nodes/evm/jellie/node-config.json
+evm__JingleX_L2,evm,JingleX L2,9922,mainnet,active,Medium,mesh-nodes/evm/jinglexl2/node-config.json
+evm__Jono11_Subnet,evm,Jono11 Subnet,20765,mainnet,active,Medium,mesh-nodes/evm/jono11subnet/node-config.json
+evm__Jono12_Subnet,evm,Jono12 Subnet,955081,mainnet,active,Medium,mesh-nodes/evm/jono12subnet/node-config.json
+evm__Joseon_Mainnet,evm,Joseon Mainnet,1392,mainnet,active,Medium,mesh-nodes/evm/joseonmainnet/node-config.json
+evm__Jouleverse_Mainnet,evm,Jouleverse Mainnet,3666,mainnet,active,Medium,mesh-nodes/evm/jouleversemainnet/node-config.json
+evm__Jovay_Mainnet,evm,Jovay Mainnet,5734951,mainnet,active,Medium,mesh-nodes/evm/jovaymainnet/node-config.json
+evm__Joys_Digital_Mainnet,evm,Joys Digital Mainnet,35855456,mainnet,active,Medium,mesh-nodes/evm/joysdigitalmainnet/node-config.json
+evm__JuChain_Mainnet,evm,JuChain Mainnet,210000,mainnet,active,Medium,mesh-nodes/evm/juchainmainnet/node-config.json
+evm__Jumbochain_Mainnet,evm,Jumbochain Mainnet,1009,mainnet,active,Medium,mesh-nodes/evm/jumbochainmainnet/node-config.json
+evm__JuncaChain,evm,JuncaChain,668,mainnet,active,Medium,mesh-nodes/evm/juncachain/node-config.json
+evm__Juneo_BCH1-Chain,evm,Juneo BCH1-Chain,45013,mainnet,active,Medium,mesh-nodes/evm/juneobch1-chain/node-config.json
+evm__Juneo_DAI1-Chain,evm,Juneo DAI1-Chain,45004,mainnet,active,Medium,mesh-nodes/evm/juneodai1-chain/node-config.json
+evm__Juneo_DOGE1-Chain,evm,Juneo DOGE1-Chain,45010,mainnet,active,Medium,mesh-nodes/evm/juneodoge1-chain/node-config.json
+evm__Juneo_EUR1-Chain,evm,Juneo EUR1-Chain,45011,mainnet,active,Medium,mesh-nodes/evm/juneoeur1-chain/node-config.json
+evm__Juneo_GLD1-Chain,evm,Juneo GLD1-Chain,45008,mainnet,active,Medium,mesh-nodes/evm/juneogld1-chain/node-config.json
+evm__Juneo_JUNE-Chain,evm,Juneo JUNE-Chain,45003,mainnet,active,Medium,mesh-nodes/evm/juneojune-chain/node-config.json
+evm__Juneo_LINK1-Chain,evm,Juneo LINK1-Chain,45014,mainnet,active,Medium,mesh-nodes/evm/juneolink1-chain/node-config.json
+evm__Juneo_LTC1-Chain,evm,Juneo LTC1-Chain,45009,mainnet,active,Medium,mesh-nodes/evm/juneoltc1-chain/node-config.json
+evm__Juneo_SGD1-Chain,evm,Juneo SGD1-Chain,45012,mainnet,active,Medium,mesh-nodes/evm/juneosgd1-chain/node-config.json
+evm__Juneo_USD1-Chain,evm,Juneo USD1-Chain,45006,mainnet,active,Medium,mesh-nodes/evm/juneousd1-chain/node-config.json
+evm__Juneo_USDT1-Chain,evm,Juneo USDT1-Chain,45005,mainnet,active,Medium,mesh-nodes/evm/juneousdt1-chain/node-config.json
+evm__Juneo_mBTC1-Chain,evm,Juneo mBTC1-Chain,45007,mainnet,active,Medium,mesh-nodes/evm/juneombtc1-chain/node-config.json
+evm__K-LAOS,evm,K-LAOS,2718,mainnet,active,Medium,mesh-nodes/evm/k-laos/node-config.json
+evm__K2_Mainnet,evm,K2 Mainnet,2410,mainnet,active,Medium,mesh-nodes/evm/k2mainnet/node-config.json
+evm__KB_Chain,evm,KB Chain,11000,mainnet,active,Medium,mesh-nodes/evm/kbchain/node-config.json
+evm__KCC_Mainnet,evm,KCC Mainnet,321,mainnet,active,Medium,mesh-nodes/evm/kccmainnet/node-config.json
+evm__KLAOS_Nova,evm,KLAOS Nova,27181,mainnet,active,Medium,mesh-nodes/evm/klaosnova/node-config.json
+evm__KLYNTAR,evm,KLYNTAR,7331,mainnet,active,Medium,mesh-nodes/evm/klyntar/node-config.json
+evm__KONET_Mainnet,evm,KONET Mainnet,17217,mainnet,active,Medium,mesh-nodes/evm/konetmainnet/node-config.json
+evm__KUB_Mainnet,evm,KUB Mainnet,96,mainnet,active,Medium,mesh-nodes/evm/kubmainnet/node-config.json
+evm__KWALA,evm,KWALA,1905,mainnet,active,Medium,mesh-nodes/evm/kwala/node-config.json
+evm__KWALA_Stagenet,evm,KWALA Stagenet,1906,mainnet,active,Medium,mesh-nodes/evm/kwalastagenet/node-config.json
+evm__KYMTC_Mainnet,evm,KYMTC Mainnet,15430,mainnet,active,Medium,mesh-nodes/evm/kymtcmainnet/node-config.json
+evm__KaiChain,evm,KaiChain,61406,mainnet,active,Medium,mesh-nodes/evm/kaichain/node-config.json
+evm__Kaia_Mainnet,evm,Kaia Mainnet,8217,mainnet,active,Medium,mesh-nodes/evm/kaiamainnet/node-config.json
+evm__Kalar_Chain,evm,Kalar Chain,1379,mainnet,active,Medium,mesh-nodes/evm/kalarchain/node-config.json
+evm__Kalichain,evm,Kalichain,654,mainnet,active,Medium,mesh-nodes/evm/kalichain/node-config.json
+evm__KalyChain_Mainnet,evm,KalyChain Mainnet,3888,mainnet,active,Medium,mesh-nodes/evm/kalychainmainnet/node-config.json
+evm__Kanazawa,evm,Kanazawa,222000222,mainnet,active,Medium,mesh-nodes/evm/kanazawa/node-config.json
+evm__KardiaChain_Mainnet,evm,KardiaChain Mainnet,24,mainnet,active,Medium,mesh-nodes/evm/kardiachainmainnet/node-config.json
+evm__Karura_Network,evm,Karura Network,686,mainnet,active,Medium,mesh-nodes/evm/karuranetwork/node-config.json
+evm__KaspaClassic_Mainnet,evm,KaspaClassic Mainnet,104566,mainnet,active,Medium,mesh-nodes/evm/kaspaclassicmainnet/node-config.json
+evm__Katron_AI_Mainnet,evm,Katron AI Mainnet,83592,mainnet,active,Medium,mesh-nodes/evm/katronaimainnet/node-config.json
+evm__Kava,evm,Kava,2222,mainnet,active,Medium,mesh-nodes/evm/kava/node-config.json
+evm__Kekchain,evm,Kekchain,420420,mainnet,active,Medium,mesh-nodes/evm/kekchain/node-config.json
+evm__Kerleano,evm,Kerleano,1804,mainnet,active,Medium,mesh-nodes/evm/kerleano/node-config.json
+evm__KiiChain,evm,KiiChain,1783,mainnet,active,Medium,mesh-nodes/evm/kiichain/node-config.json
+evm__Kiln,evm,Kiln,1337802,mainnet,active,Medium,mesh-nodes/evm/kiln/node-config.json
+evm__King_Of_Legends_Mainnet,evm,King Of Legends Mainnet,2425,mainnet,active,Medium,mesh-nodes/evm/kingoflegendsmainnet/node-config.json
+evm__Kingdom_Chain,evm,Kingdom Chain,39916801,mainnet,active,Medium,mesh-nodes/evm/kingdomchain/node-config.json
+evm__Kinto_Mainnet,evm,Kinto Mainnet,7887,mainnet,active,Medium,mesh-nodes/evm/kintomainnet/node-config.json
+evm__Kintsugi,evm,Kintsugi,1337702,mainnet,active,Medium,mesh-nodes/evm/kintsugi/node-config.json
+evm__KiteAI,evm,KiteAI,2366,mainnet,active,Medium,mesh-nodes/evm/kiteai/node-config.json
+evm__Kiwi_Subnet,evm,Kiwi Subnet,2037,mainnet,active,Medium,mesh-nodes/evm/kiwisubnet/node-config.json
+evm__Kortho_Mainnet,evm,Kortho Mainnet,2559,mainnet,active,Medium,mesh-nodes/evm/korthomainnet/node-config.json
+evm__Krest_Network,evm,Krest Network,2241,mainnet,active,Medium,mesh-nodes/evm/krestnetwork/node-config.json
+evm__Kroma,evm,Kroma,255,mainnet,active,Medium,mesh-nodes/evm/kroma/node-config.json
+evm__Kronobit_Mainnet,evm,Kronobit Mainnet,13600,mainnet,active,Medium,mesh-nodes/evm/kronobitmainnet/node-config.json
+evm__Krown_Mainnet,evm,Krown Mainnet,1983,mainnet,active,Medium,mesh-nodes/evm/krownmainnet/node-config.json
+evm__Kusama,evm,Kusama,420420418,mainnet,active,Medium,mesh-nodes/evm/kusama/node-config.json
+evm__Kyoto,evm,Kyoto,1997,mainnet,active,Medium,mesh-nodes/evm/kyoto/node-config.json
+evm__L2_Protocol_Mainnet,evm,L2 Protocol Mainnet,12216,mainnet,active,Medium,mesh-nodes/evm/l2protocolmainnet/node-config.json
+evm__L3X_Protocol,evm,L3X Protocol,12324,mainnet,active,Medium,mesh-nodes/evm/l3xprotocol/node-config.json
+evm__LACHAIN_Mainnet,evm,LACHAIN Mainnet,225,mainnet,active,Medium,mesh-nodes/evm/lachainmainnet/node-config.json
+evm__LAGOM_Mainnet,evm,LAGOM Mainnet,986,mainnet,active,Medium,mesh-nodes/evm/lagommainnet/node-config.json
+evm__LAOS,evm,LAOS,6283,mainnet,active,Medium,mesh-nodes/evm/laos/node-config.json
+evm__LAOS_Arrakis,evm,LAOS Arrakis,667,mainnet,active,Medium,mesh-nodes/evm/laosarrakis/node-config.json
+evm__LAVITA_Mainnet,evm,LAVITA Mainnet,360890,mainnet,active,Medium,mesh-nodes/evm/lavitamainnet/node-config.json
+evm__LBRY_Mainnet,evm,LBRY Mainnet,19600,mainnet,active,Medium,mesh-nodes/evm/lbrymainnet/node-config.json
+evm__LUDAN_Mainnet,evm,LUDAN Mainnet,1688,mainnet,active,Medium,mesh-nodes/evm/ludanmainnet/node-config.json
+evm__LUKSO_Mainnet,evm,LUKSO Mainnet,42,mainnet,active,Medium,mesh-nodes/evm/luksomainnet/node-config.json
+evm__LaChain,evm,LaChain,274,mainnet,active,Medium,mesh-nodes/evm/lachain/node-config.json
+evm__LadyChain,evm,LadyChain,589,mainnet,active,Medium,mesh-nodes/evm/ladychain/node-config.json
+evm__Laika_Mainnet,evm,Laika Mainnet,6942,mainnet,active,Medium,mesh-nodes/evm/laikamainnet/node-config.json
+evm__Lambda_Chain_Mainnet,evm,Lambda Chain Mainnet,56026,mainnet,active,Medium,mesh-nodes/evm/lambdachainmainnet/node-config.json
+evm__Lamina1,evm,Lamina1,10849,mainnet,active,Medium,mesh-nodes/evm/lamina1/node-config.json
+evm__Lamina1_Identity,evm,Lamina1 Identity,10850,mainnet,active,Medium,mesh-nodes/evm/lamina1identity/node-config.json
+evm__Landstars,evm,Landstars,495,mainnet,active,Medium,mesh-nodes/evm/landstars/node-config.json
+evm__Larissa_Chain,evm,Larissa Chain,9898,mainnet,active,Medium,mesh-nodes/evm/larissachain/node-config.json
+evm__Layer_Edge_Mainnet,evm,Layer Edge Mainnet,4207,mainnet,active,Medium,mesh-nodes/evm/layeredgemainnet/node-config.json
+evm__LemonChain,evm,LemonChain,1006,mainnet,active,Medium,mesh-nodes/evm/lemonchain/node-config.json
+evm__Lens,evm,Lens,232,mainnet,active,Medium,mesh-nodes/evm/lens/node-config.json
+evm__Lestnet,evm,Lestnet,21363,mainnet,active,Medium,mesh-nodes/evm/lestnet/node-config.json
+evm__Lif3_Chain,evm,Lif3 Chain,8869,mainnet,active,Medium,mesh-nodes/evm/lif3chain/node-config.json
+evm__Lightlink_Phoenix_Mainnet,evm,Lightlink Phoenix Mainnet,1890,mainnet,active,Medium,mesh-nodes/evm/lightlinkphoenixmainnet/node-config.json
+evm__Lightstreams_Mainnet,evm,Lightstreams Mainnet,163,mainnet,active,Medium,mesh-nodes/evm/lightstreamsmainnet/node-config.json
+evm__Linea,evm,Linea,59144,mainnet,active,Medium,mesh-nodes/evm/linea/node-config.json
+evm__Liquichain,evm,Liquichain,1662,mainnet,active,Medium,mesh-nodes/evm/liquichain/node-config.json
+evm__LiquidLayer_Mainnet,evm,LiquidLayer Mainnet,25186,mainnet,active,Medium,mesh-nodes/evm/liquidlayermainnet/node-config.json
+evm__Lisinski,evm,Lisinski,385,mainnet,active,Medium,mesh-nodes/evm/lisinski/node-config.json
+evm__Lisk,evm,Lisk,1135,mainnet,active,Medium,mesh-nodes/evm/lisk/node-config.json
+evm__Lit_Chain_Mainnet,evm,Lit Chain Mainnet,175200,mainnet,active,Medium,mesh-nodes/evm/litchainmainnet/node-config.json
+evm__LiterMark_Chain,evm,LiterMark Chain,5232,mainnet,active,Medium,mesh-nodes/evm/litermarkchain/node-config.json
+evm__Liveplex_OracleEVM,evm,Liveplex OracleEVM,50001,mainnet,active,Medium,mesh-nodes/evm/liveplexoracleevm/node-config.json
+evm__Living_Assets_Mainnet,evm,Living Assets Mainnet,1440,mainnet,active,Medium,mesh-nodes/evm/livingassetsmainnet/node-config.json
+evm__LocaChain_Mainnet,evm,LocaChain Mainnet,19180,mainnet,active,Medium,mesh-nodes/evm/locachainmainnet/node-config.json
+evm__LoopNetwork_Mainnet,evm,LoopNetwork Mainnet,15551,mainnet,active,Medium,mesh-nodes/evm/loopnetworkmainnet/node-config.json
+evm__Lorenzo,evm,Lorenzo,8329,mainnet,active,Medium,mesh-nodes/evm/lorenzo/node-config.json
+evm__Lovely_Network_Mainnet,evm,Lovely Network Mainnet,730,mainnet,active,Medium,mesh-nodes/evm/lovelynetworkmainnet/node-config.json
+evm__Lucid_Blockchain,evm,Lucid Blockchain,800,mainnet,active,Medium,mesh-nodes/evm/lucidblockchain/node-config.json
+evm__Lumia_Mainnet,evm,Lumia Mainnet,994873017,mainnet,active,Medium,mesh-nodes/evm/lumiamainnet/node-config.json
+evm__Lummio_Network,evm,Lummio Network,12020498,mainnet,active,Medium,mesh-nodes/evm/lummionetwork/node-config.json
+evm__Lumoz_Chain_Mainnet,evm,Lumoz Chain Mainnet,96370,mainnet,active,Medium,mesh-nodes/evm/lumozchainmainnet/node-config.json
+evm__LunaroChain_Mainnet,evm,LunaroChain Mainnet,389,mainnet,active,Medium,mesh-nodes/evm/lunarochainmainnet/node-config.json
+evm__Lux_Mainnet,evm,Lux Mainnet,96369,mainnet,active,Medium,mesh-nodes/evm/luxmainnet/node-config.json
+evm__LuxePorts,evm,LuxePorts,1122,mainnet,active,Medium,mesh-nodes/evm/luxeports/node-config.json
+evm__Lycan_Chain,evm,Lycan Chain,721,mainnet,active,Medium,mesh-nodes/evm/lycanchain/node-config.json
+evm__Lydia_Coin,evm,Lydia Coin,1989,mainnet,active,Medium,mesh-nodes/evm/lydiacoin/node-config.json
+evm__Lyra_Chain,evm,Lyra Chain,957,mainnet,active,Medium,mesh-nodes/evm/lyrachain/node-config.json
+evm__MAAL_Chain,evm,MAAL Chain,786,mainnet,active,Medium,mesh-nodes/evm/maalchain/node-config.json
+evm__MACos_Chain,evm,MACos Chain,20261,mainnet,active,Medium,mesh-nodes/evm/macoschain/node-config.json
+evm__MAI_Chain_Mainnet,evm,MAI Chain Mainnet,1019,mainnet,active,Medium,mesh-nodes/evm/maichainmainnet/node-config.json
+evm__MAKI_Chain,evm,MAKI Chain,8000008,mainnet,active,Medium,mesh-nodes/evm/makichain/node-config.json
+evm__MANTRA_Chain,evm,MANTRA Chain,5888,mainnet,active,Medium,mesh-nodes/evm/mantrachain/node-config.json
+evm__MAP_Protocol,evm,MAP Protocol,22776,mainnet,active,Medium,mesh-nodes/evm/mapprotocol/node-config.json
+evm__MAPO_Makalu,evm,MAPO Makalu,212,mainnet,active,Medium,mesh-nodes/evm/mapomakalu/node-config.json
+evm__MARO_Blockchain_Mainnet,evm,MARO Blockchain Mainnet,8848,mainnet,active,Medium,mesh-nodes/evm/maroblockchainmainnet/node-config.json
+evm__MAXI_Chain_Mainnet,evm,MAXI Chain Mainnet,899,mainnet,active,Medium,mesh-nodes/evm/maxichainmainnet/node-config.json
+evm__MCH_Verse_Mainnet,evm,MCH Verse Mainnet,29548,mainnet,active,Medium,mesh-nodes/evm/mchversemainnet/node-config.json
+evm__MEVerse_Chain_Mainnet,evm,MEVerse Chain Mainnet,7518,mainnet,active,Medium,mesh-nodes/evm/meversechainmainnet/node-config.json
+evm__MFEV_CHAIN_MAINNET,evm,MFEV CHAIN MAINNET,9982,mainnet,active,Medium,mesh-nodes/evm/mfevchainmainnet/node-config.json
+evm__MFX_Network,evm,MFX Network,2064,mainnet,active,Medium,mesh-nodes/evm/mfxnetwork/node-config.json
+evm__MO_Mainnet,evm,MO Mainnet,7924,mainnet,active,Medium,mesh-nodes/evm/momainnet/node-config.json
+evm__MOAC_mainnet,evm,MOAC mainnet,1099,mainnet,active,Medium,mesh-nodes/evm/moacmainnet/node-config.json
+evm__MPCQ_Mainnet,evm,MPCQ Mainnet,262144,mainnet,active,Medium,mesh-nodes/evm/mpcqmainnet/node-config.json
+evm__MST_Mainnet,evm,MST Mainnet,4646,mainnet,active,Medium,mesh-nodes/evm/mstmainnet/node-config.json
+evm__MTT_Network,evm,MTT Network,6880,mainnet,active,Medium,mesh-nodes/evm/mttnetwork/node-config.json
+evm__MUD_Chain,evm,MUD Chain,168169,mainnet,active,Medium,mesh-nodes/evm/mudchain/node-config.json
+evm__MXC_zkEVM_Moonchain,evm,MXC zkEVM Moonchain,18686,mainnet,active,Medium,mesh-nodes/evm/mxczkevmmoonchain/node-config.json
+evm__MaalChain_V2,evm,MaalChain V2,7862,mainnet,active,Medium,mesh-nodes/evm/maalchainv2/node-config.json
+evm__Magnet_Network,evm,Magnet Network,19527,mainnet,active,Medium,mesh-nodes/evm/magnetnetwork/node-config.json
+evm__MainnetZ_Mainnet,evm,MainnetZ Mainnet,2016,mainnet,active,Medium,mesh-nodes/evm/mainnetzmainnet/node-config.json
+evm__Mammoth_Mainnet,evm,Mammoth Mainnet,8898,mainnet,active,Medium,mesh-nodes/evm/mammothmainnet/node-config.json
+evm__Mandala_Chain,evm,Mandala Chain,20010,mainnet,active,Medium,mesh-nodes/evm/mandalachain/node-config.json
+evm__Mande_Network_Mainnet,evm,Mande Network Mainnet,18071918,mainnet,active,Medium,mesh-nodes/evm/mandenetworkmainnet/node-config.json
+evm__Manta_Pacific_Mainnet,evm,Manta Pacific Mainnet,169,mainnet,active,Medium,mesh-nodes/evm/mantapacificmainnet/node-config.json
+evm__Mantle,evm,Mantle,5000,mainnet,active,Medium,mesh-nodes/evm/mantle/node-config.json
+evm__Markr_Go,evm,Markr Go,431140,mainnet,active,Medium,mesh-nodes/evm/markrgo/node-config.json
+evm__Mars_Credit,evm,Mars Credit,110110,mainnet,active,Medium,mesh-nodes/evm/marscredit/node-config.json
+evm__Mas_Mainnet,evm,Mas Mainnet,220315,mainnet,active,Medium,mesh-nodes/evm/masmainnet/node-config.json
+evm__Masa,evm,Masa,13396,mainnet,active,Medium,mesh-nodes/evm/masa/node-config.json
+evm__Matchain,evm,Matchain,698,mainnet,active,Medium,mesh-nodes/evm/matchain/node-config.json
+evm__MathChain,evm,MathChain,1139,mainnet,active,Medium,mesh-nodes/evm/mathchain/node-config.json
+evm__MaxxChain_Mainnet,evm,MaxxChain Mainnet,10201,mainnet,active,Medium,mesh-nodes/evm/maxxchainmainnet/node-config.json
+evm__MegaETH_Mainnet,evm,MegaETH Mainnet,4326,mainnet,active,Medium,mesh-nodes/evm/megaethmainnet/node-config.json
+evm__Mekong,evm,Mekong,7078815900,mainnet,active,Medium,mesh-nodes/evm/mekong/node-config.json
+evm__Meld,evm,Meld,333000333,mainnet,active,Medium,mesh-nodes/evm/meld/node-config.json
+evm__MemeCore,evm,MemeCore,4352,mainnet,active,Medium,mesh-nodes/evm/memecore/node-config.json
+evm__Memento_Mainnet,evm,Memento Mainnet,51888,mainnet,active,Medium,mesh-nodes/evm/mementomainnet/node-config.json
+evm__Memo_Smart_Chain_Mainnet,evm,Memo Smart Chain Mainnet,985,mainnet,active,Medium,mesh-nodes/evm/memosmartchainmainnet/node-config.json
+evm__Merkle_Scan,evm,Merkle Scan,1909,mainnet,active,Medium,mesh-nodes/evm/merklescan/node-config.json
+evm__Merlin_Mainnet,evm,Merlin Mainnet,4200,mainnet,active,Medium,mesh-nodes/evm/merlinmainnet/node-config.json
+evm__Meroneum,evm,Meroneum,3366,mainnet,active,Medium,mesh-nodes/evm/meroneum/node-config.json
+evm__Meta_Assets_Chain,evm,Meta Assets Chain,20260131,mainnet,active,Medium,mesh-nodes/evm/metaassetschain/node-config.json
+evm__MetaBenz_CHAIN,evm,MetaBenz CHAIN,97766,mainnet,active,Medium,mesh-nodes/evm/metabenzchain/node-config.json
+evm__MetaChain_Istanbul,evm,MetaChain Istanbul,1453,mainnet,active,Medium,mesh-nodes/evm/metachainistanbul/node-config.json
+evm__MetaChain_Mainnet,evm,MetaChain Mainnet,571,mainnet,active,Medium,mesh-nodes/evm/metachainmainnet/node-config.json
+evm__MetaDAP_Enterprise_Mainnet,evm,MetaDAP Enterprise Mainnet,91120,mainnet,active,Medium,mesh-nodes/evm/metadapenterprisemainnet/node-config.json
+evm__MetaDot_Mainnet,evm,MetaDot Mainnet,16000,mainnet,active,Medium,mesh-nodes/evm/metadotmainnet/node-config.json
+evm__MetaLink_Network,evm,MetaLink Network,2004,mainnet,active,Medium,mesh-nodes/evm/metalinknetwork/node-config.json
+evm__MetaNova_Verse,evm,MetaNova Verse,10096,mainnet,active,Medium,mesh-nodes/evm/metanovaverse/node-config.json
+evm__Metacces_Mainnet,evm,Metacces Mainnet,2071,mainnet,active,Medium,mesh-nodes/evm/metaccesmainnet/node-config.json
+evm__Metachain_One_Mainnet,evm,Metachain One Mainnet,112358,mainnet,active,Medium,mesh-nodes/evm/metachainonemainnet/node-config.json
+evm__Metadium_Mainnet,evm,Metadium Mainnet,11,mainnet,active,Medium,mesh-nodes/evm/metadiummainnet/node-config.json
+evm__Metal_C-Chain,evm,Metal C-Chain,381931,mainnet,active,Medium,mesh-nodes/evm/metalc-chain/node-config.json
+evm__Metal_L2,evm,Metal L2,1750,mainnet,active,Medium,mesh-nodes/evm/metall2/node-config.json
+evm__Metal_Tahoe_C-Chain,evm,Metal Tahoe C-Chain,381932,mainnet,active,Medium,mesh-nodes/evm/metaltahoec-chain/node-config.json
+evm__Metaplayerone_Mainnet,evm,Metaplayerone Mainnet,2122,mainnet,active,Medium,mesh-nodes/evm/metaplayeronemainnet/node-config.json
+evm__Meter_Mainnet,evm,Meter Mainnet,82,mainnet,active,Medium,mesh-nodes/evm/metermainnet/node-config.json
+evm__Metis_Andromeda_Mainnet,evm,Metis Andromeda Mainnet,1088,mainnet,active,Medium,mesh-nodes/evm/metisandromedamainnet/node-config.json
+evm__Mezo,evm,Mezo,31612,mainnet,active,Medium,mesh-nodes/evm/mezo/node-config.json
+evm__MiYou_Mainnet,evm,MiYou Mainnet,30088,mainnet,active,Medium,mesh-nodes/evm/miyoumainnet/node-config.json
+evm__Miexs_Smartchain,evm,Miexs Smartchain,761412,mainnet,active,Medium,mesh-nodes/evm/miexssmartchain/node-config.json
+evm__Milkomeda_A1_Mainnet,evm,Milkomeda A1 Mainnet,2002,mainnet,active,Medium,mesh-nodes/evm/milkomedaa1mainnet/node-config.json
+evm__Milkomeda_C1_Mainnet,evm,Milkomeda C1 Mainnet,2001,mainnet,active,Medium,mesh-nodes/evm/milkomedac1mainnet/node-config.json
+evm__Milvine,evm,Milvine,9322253,mainnet,active,Medium,mesh-nodes/evm/milvine/node-config.json
+evm__Mind_Network_Mainnet,evm,Mind Network Mainnet,228,mainnet,active,Medium,mesh-nodes/evm/mindnetworkmainnet/node-config.json
+evm__Mind_Smart_Chain_Mainnet,evm,Mind Smart Chain Mainnet,9996,mainnet,active,Medium,mesh-nodes/evm/mindsmartchainmainnet/node-config.json
+evm__Mint_Mainnet,evm,Mint Mainnet,185,mainnet,active,Medium,mesh-nodes/evm/mintmainnet/node-config.json
+evm__MintMe_com_Coin,evm,MintMe.com Coin,24734,mainnet,active,Medium,mesh-nodes/evm/mintmecomcoin/node-config.json
+evm__Mintara_Mainnet,evm,Mintara Mainnet,1080,mainnet,active,Medium,mesh-nodes/evm/mintaramainnet/node-config.json
+evm__Miracle_Chain,evm,Miracle Chain,92278,mainnet,active,Medium,mesh-nodes/evm/miraclechain/node-config.json
+evm__Mirasmanda,evm,Mirasmanda,1213549903,mainnet,active,Medium,mesh-nodes/evm/mirasmanda/node-config.json
+evm__Mix,evm,Mix,76,mainnet,active,Medium,mesh-nodes/evm/mix/node-config.json
+evm__Mixin_Virtual_Machine,evm,Mixin Virtual Machine,73927,mainnet,active,Medium,mesh-nodes/evm/mixinvirtualmachine/node-config.json
+evm__Mizana,evm,Mizana,8136,mainnet,active,Medium,mesh-nodes/evm/mizana/node-config.json
+evm__Mizana_Mixnet,evm,Mizana Mixnet,81362,mainnet,active,Medium,mesh-nodes/evm/mizanamixnet/node-config.json
+evm__Mizana_Privnet,evm,Mizana Privnet,81363,mainnet,active,Medium,mesh-nodes/evm/mizanaprivnet/node-config.json
+evm__Mode,evm,Mode,34443,mainnet,active,Medium,mesh-nodes/evm/mode/node-config.json
+evm__Modularium,evm,Modularium,776877,mainnet,active,Medium,mesh-nodes/evm/modularium/node-config.json
+evm__Molereum_Network,evm,Molereum Network,6022140761023,mainnet,active,Medium,mesh-nodes/evm/molereumnetwork/node-config.json
+evm__Monad,evm,Monad,143,mainnet,active,Medium,mesh-nodes/evm/monad/node-config.json
+evm__Monolythium,evm,Monolythium,6941,mainnet,active,Medium,mesh-nodes/evm/monolythium/node-config.json
+evm__Monsoon,evm,Monsoon,100610,mainnet,active,Medium,mesh-nodes/evm/monsoon/node-config.json
+evm__Moonbeam,evm,Moonbeam,1284,mainnet,active,Medium,mesh-nodes/evm/moonbeam/node-config.json
+evm__Moonriver,evm,Moonriver,1285,mainnet,active,Medium,mesh-nodes/evm/moonriver/node-config.json
+evm__Moonrock,evm,Moonrock,1288,mainnet,active,Medium,mesh-nodes/evm/moonrock/node-config.json
+evm__Moonrock_old,evm,Moonrock old,1286,mainnet,active,Medium,mesh-nodes/evm/moonrockold/node-config.json
+evm__Moonsama_Network,evm,Moonsama Network,2199,mainnet,active,Medium,mesh-nodes/evm/moonsamanetwork/node-config.json
+evm__Morph,evm,Morph,2818,mainnet,active,Medium,mesh-nodes/evm/morph/node-config.json
+evm__Movement_EVM,evm,Movement EVM,3073,mainnet,active,Medium,mesh-nodes/evm/movementevm/node-config.json
+evm__Movement_EVM_Legacy,evm,Movement EVM Legacy,30730,mainnet,active,Medium,mesh-nodes/evm/movementevmlegacy/node-config.json
+evm__Movo_Smart_Chain_Mainnet,evm,Movo Smart Chain Mainnet,2049,mainnet,active,Medium,mesh-nodes/evm/movosmartchainmainnet/node-config.json
+evm__MultiVAC_Mainnet,evm,MultiVAC Mainnet,62621,mainnet,active,Medium,mesh-nodes/evm/multivacmainnet/node-config.json
+evm__Musicoin,evm,Musicoin,7762959,mainnet,active,Medium,mesh-nodes/evm/musicoin/node-config.json
+evm__Muster_Mainnet,evm,Muster Mainnet,4078,mainnet,active,Medium,mesh-nodes/evm/mustermainnet/node-config.json
+evm__MyRx_Network,evm,MyRx Network,8472,mainnet,active,Medium,mesh-nodes/evm/myrxnetwork/node-config.json
+evm__Mythical_Chain,evm,Mythical Chain,201804,mainnet,active,Medium,mesh-nodes/evm/mythicalchain/node-config.json
+evm__NEAR_Protocol,evm,NEAR Protocol,397,mainnet,active,Medium,mesh-nodes/evm/nearprotocol/node-config.json
+evm__NERO_Mainnet,evm,NERO Mainnet,1689,mainnet,active,Medium,mesh-nodes/evm/neromainnet/node-config.json
+evm__NFB_Chain,evm,NFB Chain,632,mainnet,active,Medium,mesh-nodes/evm/nfbchain/node-config.json
+evm__NOW_Chain_Mainnet,evm,NOW Chain Mainnet,2488,mainnet,active,Medium,mesh-nodes/evm/nowchainmainnet/node-config.json
+evm__NV-CHAIN,evm,NV-CHAIN,73790,mainnet,active,Medium,mesh-nodes/evm/nv-chain/node-config.json
+evm__Nahmii_2_Mainnet,evm,Nahmii 2 Mainnet,5551,mainnet,active,Medium,mesh-nodes/evm/nahmii2mainnet/node-config.json
+evm__Nahmii_3_Mainnet,evm,Nahmii 3 Mainnet,4061,mainnet,active,Medium,mesh-nodes/evm/nahmii3mainnet/node-config.json
+evm__Nal_Mainnet,evm,Nal Mainnet,328527,mainnet,active,Medium,mesh-nodes/evm/nalmainnet/node-config.json
+evm__Namefi_Chain_Mainnet,evm,Namefi Chain Mainnet,132,mainnet,active,Medium,mesh-nodes/evm/namefichainmainnet/node-config.json
+evm__Nanon,evm,Nanon,2748,mainnet,active,Medium,mesh-nodes/evm/nanon/node-config.json
+evm__Nativ3_Mainnet,evm,Nativ3 Mainnet,399,mainnet,active,Medium,mesh-nodes/evm/nativ3mainnet/node-config.json
+evm__Nautilus_Mainnet,evm,Nautilus Mainnet,22222,mainnet,active,Medium,mesh-nodes/evm/nautilusmainnet/node-config.json
+evm__Nautilus_Trition_Chain,evm,Nautilus Trition Chain,91002,mainnet,active,Medium,mesh-nodes/evm/nautilustritionchain/node-config.json
+evm__Nebula,evm,Nebula,73285,mainnet,active,Medium,mesh-nodes/evm/nebula/node-config.json
+evm__Neo_X_Mainnet,evm,Neo X Mainnet,47763,mainnet,active,Medium,mesh-nodes/evm/neoxmainnet/node-config.json
+evm__Neon_EVM_Mainnet,evm,Neon EVM Mainnet,245022934,mainnet,active,Medium,mesh-nodes/evm/neonevmmainnet/node-config.json
+evm__Neonlink_Mainnet,evm,Neonlink Mainnet,259,mainnet,active,Medium,mesh-nodes/evm/neonlinkmainnet/node-config.json
+evm__Nepachain,evm,Nepachain,9770,mainnet,active,Medium,mesh-nodes/evm/nepachain/node-config.json
+evm__Nepal_Blockchain_Network,evm,Nepal Blockchain Network,977,mainnet,active,Medium,mesh-nodes/evm/nepalblockchainnetwork/node-config.json
+evm__Netsbo,evm,Netsbo,5333,mainnet,active,Medium,mesh-nodes/evm/netsbo/node-config.json
+evm__Neura,evm,Neura,266,mainnet,active,Medium,mesh-nodes/evm/neura/node-config.json
+evm__NeuroWeb,evm,NeuroWeb,2043,mainnet,active,Medium,mesh-nodes/evm/neuroweb/node-config.json
+evm__Neurochain_Mainnet,evm,Neurochain Mainnet,313,mainnet,active,Medium,mesh-nodes/evm/neurochainmainnet/node-config.json
+evm__New_Reality_Blockchain,evm,New Reality Blockchain,8569,mainnet,active,Medium,mesh-nodes/evm/newrealityblockchain/node-config.json
+evm__Newton,evm,Newton,1012,mainnet,active,Medium,mesh-nodes/evm/newton/node-config.json
+evm__Nexa_Mainnet_Block,evm,Nexa Mainnet Block,9025,mainnet,active,Medium,mesh-nodes/evm/nexamainnetblock/node-config.json
+evm__Nexa_MetaNet,evm,Nexa MetaNet,29223,mainnet,active,Medium,mesh-nodes/evm/nexametanet/node-config.json
+evm__Nexera_Mainnet,evm,Nexera Mainnet,7208,mainnet,active,Medium,mesh-nodes/evm/nexeramainnet/node-config.json
+evm__Nexi_Mainnet,evm,Nexi Mainnet,4242,mainnet,active,Medium,mesh-nodes/evm/neximainnet/node-config.json
+evm__Nexi_V2_Mainnet,evm,Nexi V2 Mainnet,4243,mainnet,active,Medium,mesh-nodes/evm/nexiv2mainnet/node-config.json
+evm__Nexurachain,evm,Nexurachain,24125,mainnet,active,Medium,mesh-nodes/evm/nexurachain/node-config.json
+evm__Nibiru_cataclysm-1,evm,Nibiru cataclysm-1,6900,mainnet,active,Medium,mesh-nodes/evm/nibirucataclysm-1/node-config.json
+evm__Nillion_Network,evm,Nillion Network,98875,mainnet,active,Medium,mesh-nodes/evm/nillionnetwork/node-config.json
+evm__NirmalX_Smart_Chain,evm,NirmalX Smart Chain,15526,mainnet,active,Medium,mesh-nodes/evm/nirmalxsmartchain/node-config.json
+evm__Niza_Chain_Mainnet,evm,Niza Chain Mainnet,20041,mainnet,active,Medium,mesh-nodes/evm/nizachainmainnet/node-config.json
+evm__Nomina,evm,Nomina,166,mainnet,active,Medium,mesh-nodes/evm/nomina/node-config.json
+evm__Nordek_Mainnet,evm,Nordek Mainnet,81041,mainnet,active,Medium,mesh-nodes/evm/nordekmainnet/node-config.json
+evm__Nova_Network,evm,Nova Network,87,mainnet,active,Medium,mesh-nodes/evm/novanetwork/node-config.json
+evm__Ntity_Mainnet,evm,Ntity Mainnet,197710212030,mainnet,active,Medium,mesh-nodes/evm/ntitymainnet/node-config.json
+evm__NumBlock_Chain,evm,NumBlock Chain,5112023,mainnet,active,Medium,mesh-nodes/evm/numblockchain/node-config.json
+evm__Numbers_Mainnet,evm,Numbers Mainnet,10507,mainnet,active,Medium,mesh-nodes/evm/numbersmainnet/node-config.json
+evm__Nume,evm,Nume,7100,mainnet,active,Medium,mesh-nodes/evm/nume/node-config.json
+evm__NutriEmp_Chain,evm,NutriEmp Chain,432,mainnet,active,Medium,mesh-nodes/evm/nutriempchain/node-config.json
+evm__Nxy_Area_51,evm,Nxy Area 51,272247,mainnet,active,Medium,mesh-nodes/evm/nxyarea51/node-config.json
+evm__Nxy_Oasis,evm,Nxy Oasis,272520,mainnet,active,Medium,mesh-nodes/evm/nxyoasis/node-config.json
+evm__O_Chain,evm,O Chain,84841,mainnet,active,Medium,mesh-nodes/evm/ochain/node-config.json
+evm__OEV_Network,evm,OEV Network,4913,mainnet,active,Medium,mesh-nodes/evm/oevnetwork/node-config.json
+evm__OFFICIAL_VASYL,evm,OFFICIAL VASYL,1278060416,mainnet,active,Medium,mesh-nodes/evm/officialvasyl/node-config.json
+evm__OHO_Mainnet,evm,OHO Mainnet,39815,mainnet,active,Medium,mesh-nodes/evm/ohomainnet/node-config.json
+evm__OKXChain_Mainnet,evm,OKXChain Mainnet,66,mainnet,active,Medium,mesh-nodes/evm/okxchainmainnet/node-config.json
+evm__OM_Platform_Mainnet,evm,OM Platform Mainnet,1246,mainnet,active,Medium,mesh-nodes/evm/omplatformmainnet/node-config.json
+evm__ONFA_Chain_Mainnet,evm,ONFA Chain Mainnet,12082025,mainnet,active,Medium,mesh-nodes/evm/onfachainmainnet/node-config.json
+evm__ONIGIRI_Subnet,evm,ONIGIRI Subnet,5040,mainnet,active,Medium,mesh-nodes/evm/onigirisubnet/node-config.json
+evm__ONINO_Mainnet,evm,ONINO Mainnet,1425,mainnet,active,Medium,mesh-nodes/evm/oninomainnet/node-config.json
+evm__ONUS_Chain_Mainnet,evm,ONUS Chain Mainnet,1975,mainnet,active,Medium,mesh-nodes/evm/onuschainmainnet/node-config.json
+evm__OP_Celestia_Raspberry,evm,OP Celestia Raspberry,123420111,mainnet,active,Medium,mesh-nodes/evm/opcelestiaraspberry/node-config.json
+evm__OP_Mainnet,evm,OP Mainnet,10,mainnet,active,Medium,mesh-nodes/evm/opmainnet/node-config.json
+evm__OTC,evm,OTC,175,mainnet,active,Medium,mesh-nodes/evm/otc/node-config.json
+evm__OX_Chain,evm,OX Chain,6699,mainnet,active,Medium,mesh-nodes/evm/oxchain/node-config.json
+evm__OYchain_Mainnet,evm,OYchain Mainnet,126,mainnet,active,Medium,mesh-nodes/evm/oychainmainnet/node-config.json
+evm__Oasis_Emerald,evm,Oasis Emerald,42262,mainnet,active,Medium,mesh-nodes/evm/oasisemerald/node-config.json
+evm__Oasis_Sapphire,evm,Oasis Sapphire,23294,mainnet,active,Medium,mesh-nodes/evm/oasissapphire/node-config.json
+evm__OasisChain_Mainnet,evm,OasisChain Mainnet,26863,mainnet,active,Medium,mesh-nodes/evm/oasischainmainnet/node-config.json
+evm__Oasys_Mainnet,evm,Oasys Mainnet,248,mainnet,active,Medium,mesh-nodes/evm/oasysmainnet/node-config.json
+evm__OctaSpace,evm,OctaSpace,800001,mainnet,active,Medium,mesh-nodes/evm/octaspace/node-config.json
+evm__Odyssey_Chain_Mainnet,evm,Odyssey Chain Mainnet,153153,mainnet,active,Medium,mesh-nodes/evm/odysseychainmainnet/node-config.json
+evm__Omax_Mainnet,evm,Omax Mainnet,311,mainnet,active,Medium,mesh-nodes/evm/omaxmainnet/node-config.json
+evm__Omnia_Chain,evm,Omnia Chain,2342,mainnet,active,Medium,mesh-nodes/evm/omniachain/node-config.json
+evm__Onchain_Points,evm,Onchain Points,17071,mainnet,active,Medium,mesh-nodes/evm/onchainpoints/node-config.json
+evm__One_World_Chain_Mainnet,evm,One World Chain Mainnet,309075,mainnet,active,Medium,mesh-nodes/evm/oneworldchainmainnet/node-config.json
+evm__OneLedger_Mainnet,evm,OneLedger Mainnet,311752642,mainnet,active,Medium,mesh-nodes/evm/oneledgermainnet/node-config.json
+evm__Oneness_Network,evm,Oneness Network,2140,mainnet,active,Medium,mesh-nodes/evm/onenessnetwork/node-config.json
+evm__Ontology_Mainnet,evm,Ontology Mainnet,58,mainnet,active,Medium,mesh-nodes/evm/ontologymainnet/node-config.json
+evm__Oone_Chain_Mainnet,evm,Oone Chain Mainnet,777888,mainnet,active,Medium,mesh-nodes/evm/oonechainmainnet/node-config.json
+evm__Oort_Ascraeus,evm,Oort Ascraeus,972,mainnet,active,Medium,mesh-nodes/evm/oortascraeus/node-config.json
+evm__Oort_Huygens,evm,Oort Huygens,971,mainnet,active,Medium,mesh-nodes/evm/oorthuygens/node-config.json
+evm__Oort_Mainnet,evm,Oort Mainnet,970,mainnet,active,Medium,mesh-nodes/evm/oortmainnet/node-config.json
+evm__Oort_MainnetDev,evm,Oort MainnetDev,9700,mainnet,active,Medium,mesh-nodes/evm/oortmainnetdev/node-config.json
+evm__OpTrust_Mainnet,evm,OpTrust Mainnet,537,mainnet,active,Medium,mesh-nodes/evm/optrustmainnet/node-config.json
+evm__OpenChain_Mainnet,evm,OpenChain Mainnet,474142,mainnet,active,Medium,mesh-nodes/evm/openchainmainnet/node-config.json
+evm__OpenGPU_Mainnet,evm,OpenGPU Mainnet,1071,mainnet,active,Medium,mesh-nodes/evm/opengpumainnet/node-config.json
+evm__OpenLedger_Mainnet,evm,OpenLedger Mainnet,1612,mainnet,active,Medium,mesh-nodes/evm/openledgermainnet/node-config.json
+evm__OpenVessel,evm,OpenVessel,7355310,mainnet,active,Medium,mesh-nodes/evm/openvessel/node-config.json
+evm__Openpiece_Mainnet,evm,Openpiece Mainnet,54,mainnet,active,Medium,mesh-nodes/evm/openpiecemainnet/node-config.json
+evm__OptimusZ7_Mainnet,evm,OptimusZ7 Mainnet,9797,mainnet,active,Medium,mesh-nodes/evm/optimusz7mainnet/node-config.json
+evm__Optopia_Mainnet,evm,Optopia Mainnet,62050,mainnet,active,Medium,mesh-nodes/evm/optopiamainnet/node-config.json
+evm__Oraichain_Mainnet,evm,Oraichain Mainnet,108160679,mainnet,active,Medium,mesh-nodes/evm/oraichainmainnet/node-config.json
+evm__Orange_Chain_Mainnet,evm,Orange Chain Mainnet,61022,mainnet,active,Medium,mesh-nodes/evm/orangechainmainnet/node-config.json
+evm__Orderly_Mainnet,evm,Orderly Mainnet,291,mainnet,active,Medium,mesh-nodes/evm/orderlymainnet/node-config.json
+evm__Orenium_Mainnet_Protocol,evm,Orenium Mainnet Protocol,7778,mainnet,active,Medium,mesh-nodes/evm/oreniummainnetprotocol/node-config.json
+evm__Orlando_Chain,evm,Orlando Chain,3031,mainnet,active,Medium,mesh-nodes/evm/orlandochain/node-config.json
+evm__OverProtocol_Mainnet,evm,OverProtocol Mainnet,54176,mainnet,active,Medium,mesh-nodes/evm/overprotocolmainnet/node-config.json
+evm__Owshen_Mainnet,evm,Owshen Mainnet,918273,mainnet,active,Medium,mesh-nodes/evm/owshenmainnet/node-config.json
+evm__Oxin_Chain,evm,Oxin Chain,4457,mainnet,active,Medium,mesh-nodes/evm/oxinchain/node-config.json
+evm__Ozone_Chain_Mainnet,evm,Ozone Chain Mainnet,4000,mainnet,active,Medium,mesh-nodes/evm/ozonechainmainnet/node-config.json
+evm__P12_Chain,evm,P12 Chain,20736,mainnet,active,Medium,mesh-nodes/evm/p12chain/node-config.json
+evm__PAXB_Mainnet,evm,PAXB Mainnet,6701,mainnet,active,Medium,mesh-nodes/evm/paxbmainnet/node-config.json
+evm__PAYSCAN_CHAIN,evm,PAYSCAN CHAIN,756689,mainnet,active,Medium,mesh-nodes/evm/payscanchain/node-config.json
+evm__PDC_Mainnet,evm,PDC Mainnet,666301171999,mainnet,active,Medium,mesh-nodes/evm/pdcmainnet/node-config.json
+evm__PGN__Public_Goods_Network_,evm,PGN (Public Goods Network),424,mainnet,active,Medium,mesh-nodes/evm/pgnpublicgoodsnetwork/node-config.json
+evm__PHI_Network_V1,evm,PHI Network V1,4181,mainnet,active,Medium,mesh-nodes/evm/phinetworkv1/node-config.json
+evm__PHI_Network_v2,evm,PHI Network v2,144,mainnet,active,Medium,mesh-nodes/evm/phinetworkv2/node-config.json
+evm__PIN,evm,PIN,123420000558,mainnet,active,Medium,mesh-nodes/evm/pin/node-config.json
+evm__PLAYA3ULL_GAMES,evm,PLAYA3ULL GAMES,3011,mainnet,active,Medium,mesh-nodes/evm/playa3ullgames/node-config.json
+evm__PLN_Network,evm,PLN Network,411994,mainnet,active,Medium,mesh-nodes/evm/plnnetwork/node-config.json
+evm__PLYR_PHI,evm,PLYR PHI,16180,mainnet,active,Medium,mesh-nodes/evm/plyrphi/node-config.json
+evm__PMON_Chain,evm,PMON Chain,42001,mainnet,active,Medium,mesh-nodes/evm/pmonchain/node-config.json
+evm__POA_Network_Core,evm,POA Network Core,99,mainnet,active,Medium,mesh-nodes/evm/poanetworkcore/node-config.json
+evm__POA_Network_Sokol,evm,POA Network Sokol,77,mainnet,active,Medium,mesh-nodes/evm/poanetworksokol/node-config.json
+evm__POTOS_Mainnet,evm,POTOS Mainnet,60603,mainnet,active,Medium,mesh-nodes/evm/potosmainnet/node-config.json
+evm__PRM_Mainnet,evm,PRM Mainnet,39656,mainnet,active,Medium,mesh-nodes/evm/prmmainnet/node-config.json
+evm__PTCESCAN_Mainnet,evm,PTCESCAN Mainnet,889910246,mainnet,active,Medium,mesh-nodes/evm/ptcescanmainnet/node-config.json
+evm__Palette_Chain_Mainnet,evm,Palette Chain Mainnet,1718,mainnet,active,Medium,mesh-nodes/evm/palettechainmainnet/node-config.json
+evm__Palm,evm,Palm,11297108109,mainnet,active,Medium,mesh-nodes/evm/palm/node-config.json
+evm__Palm_Smart_Chain,evm,Palm Smart Chain,973,mainnet,active,Medium,mesh-nodes/evm/palmsmartchain/node-config.json
+evm__Panarchy,evm,Panarchy,2013,mainnet,active,Medium,mesh-nodes/evm/panarchy/node-config.json
+evm__PandaSea_Mainnet,evm,PandaSea Mainnet,7776,mainnet,active,Medium,mesh-nodes/evm/pandaseamainnet/node-config.json
+evm__PandoProject_Mainnet,evm,PandoProject Mainnet,3601,mainnet,active,Medium,mesh-nodes/evm/pandoprojectmainnet/node-config.json
+evm__Parallax,evm,Parallax,2110,mainnet,active,Medium,mesh-nodes/evm/parallax/node-config.json
+evm__Parex_Mainnet,evm,Parex Mainnet,322202,mainnet,active,Medium,mesh-nodes/evm/parexmainnet/node-config.json
+evm__Paribu_Net_Mainnet,evm,Paribu Net Mainnet,3400,mainnet,active,Medium,mesh-nodes/evm/paribunetmainnet/node-config.json
+evm__PartyChain,evm,PartyChain,1773,mainnet,active,Medium,mesh-nodes/evm/partychain/node-config.json
+evm__Paseo_PassetHub,evm,Paseo PassetHub,420420422,mainnet,active,Medium,mesh-nodes/evm/paseopassethub/node-config.json
+evm__Patex,evm,Patex,789,mainnet,active,Medium,mesh-nodes/evm/patex/node-config.json
+evm__Pay1_Network,evm,Pay1 Network,98964,mainnet,active,Medium,mesh-nodes/evm/pay1network/node-config.json
+evm__PayNetwork_Mainnet,evm,PayNetwork Mainnet,3969,mainnet,active,Medium,mesh-nodes/evm/paynetworkmainnet/node-config.json
+evm__Peerpay,evm,Peerpay,6502,mainnet,active,Medium,mesh-nodes/evm/peerpay/node-config.json
+evm__Peeryn,evm,Peeryn,7991,mainnet,active,Medium,mesh-nodes/evm/peeryn/node-config.json
+evm__Pego_Network,evm,Pego Network,20201022,mainnet,active,Medium,mesh-nodes/evm/pegonetwork/node-config.json
+evm__Pencils_Protocol,evm,Pencils Protocol,339,mainnet,active,Medium,mesh-nodes/evm/pencilsprotocol/node-config.json
+evm__Pentagon_Chain,evm,Pentagon Chain,3344,mainnet,active,Medium,mesh-nodes/evm/pentagonchain/node-config.json
+evm__PepChain_Churchill,evm,PepChain Churchill,13371337,mainnet,active,Medium,mesh-nodes/evm/pepchainchurchill/node-config.json
+evm__Pepe_Chain_Mainnet,evm,Pepe Chain Mainnet,411,mainnet,active,Medium,mesh-nodes/evm/pepechainmainnet/node-config.json
+evm__Pepe_Unchained_V2,evm,Pepe Unchained V2,97741,mainnet,active,Medium,mesh-nodes/evm/pepeunchainedv2/node-config.json
+evm__PepeNetwork_Mainnet,evm,PepeNetwork Mainnet,9779,mainnet,active,Medium,mesh-nodes/evm/pepenetworkmainnet/node-config.json
+evm__Perennial,evm,Perennial,1424,mainnet,active,Medium,mesh-nodes/evm/perennial/node-config.json
+evm__Permission,evm,Permission,222,mainnet,active,Medium,mesh-nodes/evm/permission/node-config.json
+evm__Phala_Network,evm,Phala Network,2035,mainnet,active,Medium,mesh-nodes/evm/phalanetwork/node-config.json
+evm__Pho_Blockchain_Mainnet,evm,Pho Blockchain Mainnet,2605,mainnet,active,Medium,mesh-nodes/evm/phoblockchainmainnet/node-config.json
+evm__Phoenix_Mainnet,evm,Phoenix Mainnet,13381,mainnet,active,Medium,mesh-nodes/evm/phoenixmainnet/node-config.json
+evm__Pione_Chain_Mainnet,evm,Pione Chain Mainnet,5090,mainnet,active,Medium,mesh-nodes/evm/pionechainmainnet/node-config.json
+evm__Pione_Trace_Mainnet,evm,Pione Trace Mainnet,3989,mainnet,active,Medium,mesh-nodes/evm/pionetracemainnet/node-config.json
+evm__Pione_Zero,evm,Pione Zero,5080,mainnet,active,Medium,mesh-nodes/evm/pionezero/node-config.json
+evm__Pirl,evm,Pirl,3125659152,mainnet,active,Medium,mesh-nodes/evm/pirl/node-config.json
+evm__Pivotal_Mainnet,evm,Pivotal Mainnet,1648,mainnet,active,Medium,mesh-nodes/evm/pivotalmainnet/node-config.json
+evm__Pixie_Chain_Mainnet,evm,Pixie Chain Mainnet,6626,mainnet,active,Medium,mesh-nodes/evm/pixiechainmainnet/node-config.json
+evm__Planq_Mainnet,evm,Planq Mainnet,7070,mainnet,active,Medium,mesh-nodes/evm/planqmainnet/node-config.json
+evm__Plasma_Mainnet,evm,Plasma Mainnet,9745,mainnet,active,Medium,mesh-nodes/evm/plasmamainnet/node-config.json
+evm__PlasticHero,evm,PlasticHero,250210,mainnet,active,Medium,mesh-nodes/evm/plastichero/node-config.json
+evm__PlatON_Mainnet,evm,PlatON Mainnet,210425,mainnet,active,Medium,mesh-nodes/evm/platonmainnet/node-config.json
+evm__PlayBlock,evm,PlayBlock,1829,mainnet,active,Medium,mesh-nodes/evm/playblock/node-config.json
+evm__PlayFi_Mainnet,evm,PlayFi Mainnet,161212,mainnet,active,Medium,mesh-nodes/evm/playfimainnet/node-config.json
+evm__Playdapp_Network,evm,Playdapp Network,504441,mainnet,active,Medium,mesh-nodes/evm/playdappnetwork/node-config.json
+evm__Plian_Mainnet_Main,evm,Plian Mainnet Main,2099156,mainnet,active,Medium,mesh-nodes/evm/plianmainnetmain/node-config.json
+evm__Plian_Mainnet_Subchain_1,evm,Plian Mainnet Subchain 1,8007736,mainnet,active,Medium,mesh-nodes/evm/plianmainnetsubchain1/node-config.json
+evm__Plinga_Mainnet,evm,Plinga Mainnet,242,mainnet,active,Medium,mesh-nodes/evm/plingamainnet/node-config.json
+evm__Plume__Legacy_,evm,Plume (Legacy),98865,mainnet,active,Medium,mesh-nodes/evm/plumelegacy/node-config.json
+evm__Plume_Mainnet,evm,Plume Mainnet,98866,mainnet,active,Medium,mesh-nodes/evm/plumemainnet/node-config.json
+evm__PoCRNet,evm,PoCRNet,2606,mainnet,active,Medium,mesh-nodes/evm/pocrnet/node-config.json
+evm__PointPay_Mainnet,evm,PointPay Mainnet,5511,mainnet,active,Medium,mesh-nodes/evm/pointpaymainnet/node-config.json
+evm__Polis_Mainnet,evm,Polis Mainnet,333999,mainnet,active,Medium,mesh-nodes/evm/polismainnet/node-config.json
+evm__Polkadot,evm,Polkadot,420420419,mainnet,active,Medium,mesh-nodes/evm/polkadot/node-config.json
+evm__PolySmartChain,evm,PolySmartChain,6999,mainnet,active,Medium,mesh-nodes/evm/polysmartchain/node-config.json
+evm__Polygon_Blackberry,evm,Polygon Blackberry,94204209,mainnet,active,Medium,mesh-nodes/evm/polygonblackberry/node-config.json
+evm__Polygon_Mainnet,evm,Polygon Mainnet,137,mainnet,active,Medium,mesh-nodes/evm/polygonmainnet/node-config.json
+evm__Polygon_Supernet_Arianee,evm,Polygon Supernet Arianee,11891,mainnet,active,Medium,mesh-nodes/evm/polygonsupernetarianee/node-config.json
+evm__Polygon_zkEVM,evm,Polygon zkEVM,1101,mainnet,active,Medium,mesh-nodes/evm/polygonzkevm/node-config.json
+evm__Polynomial,evm,Polynomial,8008,mainnet,active,Medium,mesh-nodes/evm/polynomial/node-config.json
+evm__Pontes-Appia_DLT,evm,Pontes-Appia DLT,540,mainnet,active,Medium,mesh-nodes/evm/pontes-appiadlt/node-config.json
+evm__Poodl_Mainnet,evm,Poodl Mainnet,15259,mainnet,active,Medium,mesh-nodes/evm/poodlmainnet/node-config.json
+evm__Pools_Mainnet,evm,Pools Mainnet,6868,mainnet,active,Medium,mesh-nodes/evm/poolsmainnet/node-config.json
+evm__Popcateum_Mainnet,evm,Popcateum Mainnet,1213,mainnet,active,Medium,mesh-nodes/evm/popcateummainnet/node-config.json
+evm__Portal_Fantasy_Chain,evm,Portal Fantasy Chain,909,mainnet,active,Medium,mesh-nodes/evm/portalfantasychain/node-config.json
+evm__Posichain_Mainnet_Shard_0,evm,Posichain Mainnet Shard 0,900000,mainnet,active,Medium,mesh-nodes/evm/posichainmainnetshard0/node-config.json
+evm__PowerGold,evm,PowerGold,1313161560,mainnet,active,Medium,mesh-nodes/evm/powergold/node-config.json
+evm__Powerloom_Mainnet,evm,Powerloom Mainnet,7865,mainnet,active,Medium,mesh-nodes/evm/powerloommainnet/node-config.json
+evm__Powerloom_Mainnet_V2,evm,Powerloom Mainnet V2,7869,mainnet,active,Medium,mesh-nodes/evm/powerloommainnetv2/node-config.json
+evm__PremiumBlock,evm,PremiumBlock,23023,mainnet,active,Medium,mesh-nodes/evm/premiumblock/node-config.json
+evm__Primea_Network_Mainnet,evm,Primea Network Mainnet,698369,mainnet,active,Medium,mesh-nodes/evm/primeanetworkmainnet/node-config.json
+evm__PrimusChain_mainnet,evm,PrimusChain mainnet,78,mainnet,active,Medium,mesh-nodes/evm/primuschainmainnet/node-config.json
+evm__Privix_Chain_Mainnet,evm,Privix Chain Mainnet,16969696,mainnet,active,Medium,mesh-nodes/evm/privixchainmainnet/node-config.json
+evm__ProbeChain_Mainnet,evm,ProbeChain Mainnet,8004,mainnet,active,Medium,mesh-nodes/evm/probechainmainnet/node-config.json
+evm__Prom,evm,Prom,227,mainnet,active,Medium,mesh-nodes/evm/prom/node-config.json
+evm__Proof_Of_Memes,evm,Proof Of Memes,18159,mainnet,active,Medium,mesh-nodes/evm/proofofmemes/node-config.json
+evm__Proof_of_Play_-_Apex,evm,Proof of Play - Apex,70700,mainnet,active,Medium,mesh-nodes/evm/proofofplay-apex/node-config.json
+evm__Proof_of_Play_-_Boss,evm,Proof of Play - Boss,70701,mainnet,active,Medium,mesh-nodes/evm/proofofplay-boss/node-config.json
+evm__PropTech_Mainnet,evm,PropTech Mainnet,88788,mainnet,active,Medium,mesh-nodes/evm/proptechmainnet/node-config.json
+evm__Pruv_Mainnet,evm,Pruv Mainnet,7337,mainnet,active,Medium,mesh-nodes/evm/pruvmainnet/node-config.json
+evm__PulseChain,evm,PulseChain,369,mainnet,active,Medium,mesh-nodes/evm/pulsechain/node-config.json
+evm__Pundi_AIFX_Omnilayer,evm,Pundi AIFX Omnilayer,530,mainnet,active,Medium,mesh-nodes/evm/pundiaifxomnilayer/node-config.json
+evm__Puppynet,evm,Puppynet,157,mainnet,active,Medium,mesh-nodes/evm/puppynet/node-config.json
+evm__Q_Mainnet,evm,Q Mainnet,35441,mainnet,active,Medium,mesh-nodes/evm/qmainnet/node-config.json
+evm__QIE_Blockchain,evm,QIE Blockchain,5656,mainnet,active,Medium,mesh-nodes/evm/qieblockchain/node-config.json
+evm__QL1,evm,QL1,766,mainnet,active,Medium,mesh-nodes/evm/ql1/node-config.json
+evm__Qitmeer_Network_Mainnet,evm,Qitmeer Network Mainnet,813,mainnet,active,Medium,mesh-nodes/evm/qitmeernetworkmainnet/node-config.json
+evm__Qitmeer_Network_Mixnet,evm,Qitmeer Network Mixnet,8132,mainnet,active,Medium,mesh-nodes/evm/qitmeernetworkmixnet/node-config.json
+evm__Qitmeer_Network_Privnet,evm,Qitmeer Network Privnet,8133,mainnet,active,Medium,mesh-nodes/evm/qitmeernetworkprivnet/node-config.json
+evm__Quadrans_Blockchain,evm,Quadrans Blockchain,10946,mainnet,active,Medium,mesh-nodes/evm/quadransblockchain/node-config.json
+evm__Quai_Network_Mainnet,evm,Quai Network Mainnet,9,mainnet,active,Medium,mesh-nodes/evm/quainetworkmainnet/node-config.json
+evm__Quantum_Chain_Mainnet,evm,Quantum Chain Mainnet,81720,mainnet,active,Medium,mesh-nodes/evm/quantumchainmainnet/node-config.json
+evm__Quantum_Network,evm,Quantum Network,44445,mainnet,active,Medium,mesh-nodes/evm/quantumnetwork/node-config.json
+evm__QuantumBit,evm,QuantumBit,90909,mainnet,active,Medium,mesh-nodes/evm/quantumbit/node-config.json
+evm__Quarix,evm,Quarix,8888888,mainnet,active,Medium,mesh-nodes/evm/quarix/node-config.json
+evm__QuarkChain_L2_Mainnet,evm,QuarkChain L2 Mainnet,100011,mainnet,active,Medium,mesh-nodes/evm/quarkchainl2mainnet/node-config.json
+evm__QuarkChain_Mainnet_Root,evm,QuarkChain Mainnet Root,100000,mainnet,active,Medium,mesh-nodes/evm/quarkchainmainnetroot/node-config.json
+evm__QuarkChain_Mainnet_Shard_0,evm,QuarkChain Mainnet Shard 0,100001,mainnet,active,Medium,mesh-nodes/evm/quarkchainmainnetshard0/node-config.json
+evm__QuarkChain_Mainnet_Shard_1,evm,QuarkChain Mainnet Shard 1,100002,mainnet,active,Medium,mesh-nodes/evm/quarkchainmainnetshard1/node-config.json
+evm__QuarkChain_Mainnet_Shard_2,evm,QuarkChain Mainnet Shard 2,100003,mainnet,active,Medium,mesh-nodes/evm/quarkchainmainnetshard2/node-config.json
+evm__QuarkChain_Mainnet_Shard_3,evm,QuarkChain Mainnet Shard 3,100004,mainnet,active,Medium,mesh-nodes/evm/quarkchainmainnetshard3/node-config.json
+evm__QuarkChain_Mainnet_Shard_4,evm,QuarkChain Mainnet Shard 4,100005,mainnet,active,Medium,mesh-nodes/evm/quarkchainmainnetshard4/node-config.json
+evm__QuarkChain_Mainnet_Shard_5,evm,QuarkChain Mainnet Shard 5,100006,mainnet,active,Medium,mesh-nodes/evm/quarkchainmainnetshard5/node-config.json
+evm__QuarkChain_Mainnet_Shard_6,evm,QuarkChain Mainnet Shard 6,100007,mainnet,active,Medium,mesh-nodes/evm/quarkchainmainnetshard6/node-config.json
+evm__QuarkChain_Mainnet_Shard_7,evm,QuarkChain Mainnet Shard 7,100008,mainnet,active,Medium,mesh-nodes/evm/quarkchainmainnetshard7/node-config.json
+evm__Quartz_by_Unique,evm,Quartz by Unique,8881,mainnet,active,Medium,mesh-nodes/evm/quartzbyunique/node-config.json
+evm__Qubetics_Mainnet,evm,Qubetics Mainnet,9030,mainnet,active,Medium,mesh-nodes/evm/qubeticsmainnet/node-config.json
+evm__Quokkacoin_Mainnet,evm,Quokkacoin Mainnet,2077,mainnet,active,Medium,mesh-nodes/evm/quokkacoinmainnet/node-config.json
+evm__R0AR_Chain,evm,R0AR Chain,193939,mainnet,active,Medium,mesh-nodes/evm/r0archain/node-config.json
+evm__R5_Network,evm,R5 Network,337,mainnet,active,Medium,mesh-nodes/evm/r5network/node-config.json
+evm__RACE_Mainnet,evm,RACE Mainnet,6805,mainnet,active,Medium,mesh-nodes/evm/racemainnet/node-config.json
+evm__RANNTA_X-Chain,evm,RANNTA X-Chain,13113,mainnet,active,Medium,mesh-nodes/evm/ranntax-chain/node-config.json
+evm__RARI_Chain_Mainnet,evm,RARI Chain Mainnet,1380012617,mainnet,active,Medium,mesh-nodes/evm/rarichainmainnet/node-config.json
+evm__REI_Chain_Mainnet,evm,REI Chain Mainnet,55555,mainnet,active,Medium,mesh-nodes/evm/reichainmainnet/node-config.json
+evm__REI_Network,evm,REI Network,47805,mainnet,active,Medium,mesh-nodes/evm/reinetwork/node-config.json
+evm__REXX_Mainnet,evm,REXX Mainnet,888882,mainnet,active,Medium,mesh-nodes/evm/rexxmainnet/node-config.json
+evm__RISE,evm,RISE,4153,mainnet,active,Medium,mesh-nodes/evm/rise/node-config.json
+evm__RSS3_VSL_Mainnet,evm,RSS3 VSL Mainnet,12553,mainnet,active,Medium,mesh-nodes/evm/rss3vslmainnet/node-config.json
+evm__Raba_Network_Mainnet,evm,Raba Network Mainnet,7484,mainnet,active,Medium,mesh-nodes/evm/rabanetworkmainnet/node-config.json
+evm__Radius_Network,evm,Radius Network,723487,mainnet,active,Medium,mesh-nodes/evm/radiusnetwork/node-config.json
+evm__Rails,evm,Rails,6278,mainnet,active,Medium,mesh-nodes/evm/rails/node-config.json
+evm__Ramestta_Mainnet,evm,Ramestta Mainnet,1370,mainnet,active,Medium,mesh-nodes/evm/ramesttamainnet/node-config.json
+evm__Rangers_Protocol_Mainnet,evm,Rangers Protocol Mainnet,2025,mainnet,active,Medium,mesh-nodes/evm/rangersprotocolmainnet/node-config.json
+evm__RaptorChain,evm,RaptorChain,1380996178,mainnet,active,Medium,mesh-nodes/evm/raptorchain/node-config.json
+evm__Rarimo,evm,Rarimo,7368,mainnet,active,Medium,mesh-nodes/evm/rarimo/node-config.json
+evm__Razor_Skale_Chain,evm,Razor Skale Chain,278611351,mainnet,active,Medium,mesh-nodes/evm/razorskalechain/node-config.json
+evm__ReDeFi_Layer_1,evm,ReDeFi Layer 1,47803,mainnet,active,Medium,mesh-nodes/evm/redefilayer1/node-config.json
+evm__ReDeFi_Layer_2,evm,ReDeFi Layer 2,1899,mainnet,active,Medium,mesh-nodes/evm/redefilayer2/node-config.json
+evm__Reactive_Kopli,evm,Reactive Kopli,5318008,mainnet,active,Medium,mesh-nodes/evm/reactivekopli/node-config.json
+evm__Reactive_Lasna,evm,Reactive Lasna,5318007,mainnet,active,Medium,mesh-nodes/evm/reactivelasna/node-config.json
+evm__Reactive_Mainnet,evm,Reactive Mainnet,1597,mainnet,active,Medium,mesh-nodes/evm/reactivemainnet/node-config.json
+evm__Realchain_Mainnet,evm,Realchain Mainnet,121,mainnet,active,Medium,mesh-nodes/evm/realchainmainnet/node-config.json
+evm__Realio,evm,Realio,3301,mainnet,active,Medium,mesh-nodes/evm/realio/node-config.json
+evm__Reapchain_Mainnet,evm,Reapchain Mainnet,221230,mainnet,active,Medium,mesh-nodes/evm/reapchainmainnet/node-config.json
+evm__Rebus_Classic_Mainnet,evm,Rebus Classic Mainnet,1011,mainnet,active,Medium,mesh-nodes/evm/rebusclassicmainnet/node-config.json
+evm__Rebus_Mainnet,evm,Rebus Mainnet,9696,mainnet,active,Medium,mesh-nodes/evm/rebusmainnet/node-config.json
+evm__Recall,evm,Recall,24816,mainnet,active,Medium,mesh-nodes/evm/recall/node-config.json
+evm__Redbelly_Network_Mainnet,evm,Redbelly Network Mainnet,151,mainnet,active,Medium,mesh-nodes/evm/redbellynetworkmainnet/node-config.json
+evm__Redbelly_Network_TGE,evm,Redbelly Network TGE,154,mainnet,active,Medium,mesh-nodes/evm/redbellynetworktge/node-config.json
+evm__Reddio,evm,Reddio,50342,mainnet,active,Medium,mesh-nodes/evm/reddio/node-config.json
+evm__RedeCoin,evm,RedeCoin,1972,mainnet,active,Medium,mesh-nodes/evm/redecoin/node-config.json
+evm__Redlight_Chain_Mainnet,evm,Redlight Chain Mainnet,2611,mainnet,active,Medium,mesh-nodes/evm/redlightchainmainnet/node-config.json
+evm__Redmansion_Chain,evm,Redmansion Chain,192,mainnet,active,Medium,mesh-nodes/evm/redmansionchain/node-config.json
+evm__Redstone,evm,Redstone,690,mainnet,active,Medium,mesh-nodes/evm/redstone/node-config.json
+evm__ResinCoin_Mainnet,evm,ResinCoin Mainnet,75000,mainnet,active,Medium,mesh-nodes/evm/resincoinmainnet/node-config.json
+evm__Reya_Cronos,evm,Reya Cronos,89346162,mainnet,active,Medium,mesh-nodes/evm/reyacronos/node-config.json
+evm__Reya_Network,evm,Reya Network,1729,mainnet,active,Medium,mesh-nodes/evm/reyanetwork/node-config.json
+evm__Rikeza_Network_Mainnet,evm,Rikeza Network Mainnet,1433,mainnet,active,Medium,mesh-nodes/evm/rikezanetworkmainnet/node-config.json
+evm__Rinia,evm,Rinia,917,mainnet,active,Medium,mesh-nodes/evm/rinia/node-config.json
+evm__Rivalz,evm,Rivalz,753,mainnet,active,Medium,mesh-nodes/evm/rivalz/node-config.json
+evm__River,evm,River,550,mainnet,active,Medium,mesh-nodes/evm/river/node-config.json
+evm__Rivool,evm,Rivool,28540,mainnet,active,Medium,mesh-nodes/evm/rivool/node-config.json
+evm__Robinhood_Chain,evm,Robinhood Chain,4663,mainnet,active,Medium,mesh-nodes/evm/robinhoodchain/node-config.json
+evm__Roburna_Mainnet,evm,Roburna Mainnet,158,mainnet,active,Medium,mesh-nodes/evm/roburnamainnet/node-config.json
+evm__Rogue_Chain,evm,Rogue Chain,560013,mainnet,active,Medium,mesh-nodes/evm/roguechain/node-config.json
+evm__Rollux_Mainnet,evm,Rollux Mainnet,570,mainnet,active,Medium,mesh-nodes/evm/rolluxmainnet/node-config.json
+evm__Rome_Mainnet_0_Aventine,evm,Rome Mainnet 0 Aventine,7532,mainnet,active,Medium,mesh-nodes/evm/romemainnet0aventine/node-config.json
+evm__Rome_Palatine,evm,Rome Palatine,7531,mainnet,active,Medium,mesh-nodes/evm/romepalatine/node-config.json
+evm__Ronin_Mainnet,evm,Ronin Mainnet,2020,mainnet,active,Medium,mesh-nodes/evm/roninmainnet/node-config.json
+evm__Rootstock_Mainnet,evm,Rootstock Mainnet,30,mainnet,active,Medium,mesh-nodes/evm/rootstockmainnet/node-config.json
+evm__Ruby_Smart_Chain_MAINNET,evm,Ruby Smart Chain MAINNET,1821,mainnet,active,Medium,mesh-nodes/evm/rubysmartchainmainnet/node-config.json
+evm__Rufus,evm,Rufus,2420,mainnet,active,Medium,mesh-nodes/evm/rufus/node-config.json
+evm__Rupaya,evm,Rupaya,499,mainnet,active,Medium,mesh-nodes/evm/rupaya/node-config.json
+evm__SATUCHAIN_Mainnet,evm,SATUCHAIN Mainnet,10111945,mainnet,active,Medium,mesh-nodes/evm/satuchainmainnet/node-config.json
+evm__SEC_Mainnet,evm,SEC Mainnet,19516,mainnet,active,Medium,mesh-nodes/evm/secmainnet/node-config.json
+evm__SG_Verse_Mainnet,evm,SG Verse Mainnet,812397,mainnet,active,Medium,mesh-nodes/evm/sgversemainnet/node-config.json
+evm__SJATSH,evm,SJATSH,10086,mainnet,active,Medium,mesh-nodes/evm/sjatsh/node-config.json
+evm__SKALE_Base,evm,SKALE Base,1187947933,mainnet,active,Medium,mesh-nodes/evm/skalebase/node-config.json
+evm__SKALE_Calypso_Hub,evm,SKALE Calypso Hub,1564830818,mainnet,active,Medium,mesh-nodes/evm/skalecalypsohub/node-config.json
+evm__SKALE_Europa_Hub,evm,SKALE Europa Hub,2046399126,mainnet,active,Medium,mesh-nodes/evm/skaleeuropahub/node-config.json
+evm__SKALE_Nebula_Hub,evm,SKALE Nebula Hub,1482601649,mainnet,active,Medium,mesh-nodes/evm/skalenebulahub/node-config.json
+evm__SKALE_Titan_Hub,evm,SKALE Titan Hub,1350216234,mainnet,active,Medium,mesh-nodes/evm/skaletitanhub/node-config.json
+evm__SOMA_Network_Mainnet,evm,SOMA Network Mainnet,2332,mainnet,active,Medium,mesh-nodes/evm/somanetworkmainnet/node-config.json
+evm__SPS,evm,SPS,13000,mainnet,active,Medium,mesh-nodes/evm/sps/node-config.json
+evm__SRICHAIN,evm,SRICHAIN,95432,mainnet,active,Medium,mesh-nodes/evm/srichain/node-config.json
+evm__STO_Chain,evm,STO Chain,1306,mainnet,active,Medium,mesh-nodes/evm/stochain/node-config.json
+evm__SUR_Blockchain_Network,evm,SUR Blockchain Network,262,mainnet,active,Medium,mesh-nodes/evm/surblockchainnetwork/node-config.json
+evm__SX_Network_Mainnet,evm,SX Network Mainnet,416,mainnet,active,Medium,mesh-nodes/evm/sxnetworkmainnet/node-config.json
+evm__SX_Rollup,evm,SX Rollup,4162,mainnet,active,Medium,mesh-nodes/evm/sxrollup/node-config.json
+evm__SX_Toronto_Rollup,evm,SX Toronto Rollup,79479957,mainnet,active,Medium,mesh-nodes/evm/sxtorontorollup/node-config.json
+evm__Saakuru_Mainnet,evm,Saakuru Mainnet,7225878,mainnet,active,Medium,mesh-nodes/evm/saakurumainnet/node-config.json
+evm__Safe_AnWang__Mainnet,evm,Safe(AnWang) Mainnet,6666665,mainnet,active,Medium,mesh-nodes/evm/safeanwangmainnet/node-config.json
+evm__SagaEVM,evm,SagaEVM,5464,mainnet,active,Medium,mesh-nodes/evm/sagaevm/node-config.json
+evm__Sahara_AI,evm,Sahara AI,3132023,mainnet,active,Medium,mesh-nodes/evm/saharaai/node-config.json
+evm__SaitaBlockChain_SBC_,evm,SaitaBlockChain(SBC),1209,mainnet,active,Medium,mesh-nodes/evm/saitablockchainsbc/node-config.json
+evm__Sakura,evm,Sakura,1022,mainnet,active,Medium,mesh-nodes/evm/sakura/node-config.json
+evm__Sanko,evm,Sanko,1996,mainnet,active,Medium,mesh-nodes/evm/sanko/node-config.json
+evm__Santiment_Intelligence_Network,evm,Santiment Intelligence Network,32382,mainnet,active,Medium,mesh-nodes/evm/santimentintelligencenetwork/node-config.json
+evm__Sapphire_by_Unique,evm,Sapphire by Unique,8883,mainnet,active,Medium,mesh-nodes/evm/sapphirebyunique/node-config.json
+evm__Sardis_Mainnet,evm,Sardis Mainnet,51712,mainnet,active,Medium,mesh-nodes/evm/sardismainnet/node-config.json
+evm__SatoshIE,evm,SatoshIE,1985,mainnet,active,Medium,mesh-nodes/evm/satoshie/node-config.json
+evm__SatoshiChain_Mainnet,evm,SatoshiChain Mainnet,12009,mainnet,active,Medium,mesh-nodes/evm/satoshichainmainnet/node-config.json
+evm__SatoshiVM_Alpha_Mainnet,evm,SatoshiVM Alpha Mainnet,3109,mainnet,active,Medium,mesh-nodes/evm/satoshivmalphamainnet/node-config.json
+evm__SatsChain,evm,SatsChain,11521,mainnet,active,Medium,mesh-nodes/evm/satschain/node-config.json
+evm__Scalind,evm,Scalind,1911,mainnet,active,Medium,mesh-nodes/evm/scalind/node-config.json
+evm__Scenium,evm,Scenium,335700,mainnet,active,Medium,mesh-nodes/evm/scenium/node-config.json
+evm__Scolcoin_Mainnet,evm,Scolcoin Mainnet,65450,mainnet,active,Medium,mesh-nodes/evm/scolcoinmainnet/node-config.json
+evm__Scroll,evm,Scroll,534352,mainnet,active,Medium,mesh-nodes/evm/scroll/node-config.json
+evm__SecureChain_Mainnet,evm,SecureChain Mainnet,34,mainnet,active,Medium,mesh-nodes/evm/securechainmainnet/node-config.json
+evm__Seele_Mainnet,evm,Seele Mainnet,186,mainnet,active,Medium,mesh-nodes/evm/seelemainnet/node-config.json
+evm__Sei_Network,evm,Sei Network,1329,mainnet,active,Medium,mesh-nodes/evm/seinetwork/node-config.json
+evm__Selendra_Network_Mainnet,evm,Selendra Network Mainnet,1961,mainnet,active,Medium,mesh-nodes/evm/selendranetworkmainnet/node-config.json
+evm__SenjePowers_Mainnet,evm,SenjePowers Mainnet,3699,mainnet,active,Medium,mesh-nodes/evm/senjepowersmainnet/node-config.json
+evm__Sentrix_Chain,evm,Sentrix Chain,7119,mainnet,active,Medium,mesh-nodes/evm/sentrixchain/node-config.json
+evm__Setheum,evm,Setheum,258,mainnet,active,Medium,mesh-nodes/evm/setheum/node-config.json
+evm__Settlus,evm,Settlus,5371,mainnet,active,Medium,mesh-nodes/evm/settlus/node-config.json
+evm__Seven_Chain,evm,Seven Chain,70007,mainnet,active,Medium,mesh-nodes/evm/sevenchain/node-config.json
+evm__Shape,evm,Shape,360,mainnet,active,Medium,mesh-nodes/evm/shape/node-config.json
+evm__Shardeum,evm,Shardeum,8118,mainnet,active,Medium,mesh-nodes/evm/shardeum/node-config.json
+evm__Shardeum_Liberty_1_X,evm,Shardeum Liberty 1.X,8080,mainnet,active,Medium,mesh-nodes/evm/shardeumliberty1x/node-config.json
+evm__Shardeum_Liberty_2_X,evm,Shardeum Liberty 2.X,8081,mainnet,active,Medium,mesh-nodes/evm/shardeumliberty2x/node-config.json
+evm__Shardeum_Sphinx_1_X,evm,Shardeum Sphinx 1.X,8082,mainnet,active,Medium,mesh-nodes/evm/shardeumsphinx1x/node-config.json
+evm__Sharecle_Mainnet,evm,Sharecle Mainnet,1234567,mainnet,active,Medium,mesh-nodes/evm/shareclemainnet/node-config.json
+evm__Sherpax_Mainnet,evm,Sherpax Mainnet,1506,mainnet,active,Medium,mesh-nodes/evm/sherpaxmainnet/node-config.json
+evm__ShibaChain,evm,ShibaChain,27,mainnet,active,Medium,mesh-nodes/evm/shibachain/node-config.json
+evm__Shibarium,evm,Shibarium,109,mainnet,active,Medium,mesh-nodes/evm/shibarium/node-config.json
+evm__Shiden,evm,Shiden,336,mainnet,active,Medium,mesh-nodes/evm/shiden/node-config.json
+evm__Shido_Network,evm,Shido Network,9008,mainnet,active,Medium,mesh-nodes/evm/shidonetwork/node-config.json
+evm__ShimmerEVM,evm,ShimmerEVM,148,mainnet,active,Medium,mesh-nodes/evm/shimmerevm/node-config.json
+evm__Shinarium_Mainnet,evm,Shinarium Mainnet,214,mainnet,active,Medium,mesh-nodes/evm/shinariummainnet/node-config.json
+evm__Shine_Chain,evm,Shine Chain,11221,mainnet,active,Medium,mesh-nodes/evm/shinechain/node-config.json
+evm__Shrapnel_Subnet,evm,Shrapnel Subnet,2044,mainnet,active,Medium,mesh-nodes/evm/shrapnelsubnet/node-config.json
+evm__Shyft_Mainnet,evm,Shyft Mainnet,7341,mainnet,active,Medium,mesh-nodes/evm/shyftmainnet/node-config.json
+evm__Siberium_Network,evm,Siberium Network,111111,mainnet,active,Medium,mesh-nodes/evm/siberiumnetwork/node-config.json
+evm__Sidra_Chain,evm,Sidra Chain,97453,mainnet,active,Medium,mesh-nodes/evm/sidrachain/node-config.json
+evm__Silent_Data_Mainnet,evm,Silent Data Mainnet,380929,mainnet,active,Medium,mesh-nodes/evm/silentdatamainnet/node-config.json
+evm__Silicon_zkEVM,evm,Silicon zkEVM,2355,mainnet,active,Medium,mesh-nodes/evm/siliconzkevm/node-config.json
+evm__Singularity_ZERO_Mainnet,evm,Singularity ZERO Mainnet,12052,mainnet,active,Medium,mesh-nodes/evm/singularityzeromainnet/node-config.json
+evm__SiriusNet,evm,SiriusNet,67390,mainnet,active,Medium,mesh-nodes/evm/siriusnet/node-config.json
+evm__SiriusNet_V2,evm,SiriusNet V2,217,mainnet,active,Medium,mesh-nodes/evm/siriusnetv2/node-config.json
+evm__Six_Protocol,evm,Six Protocol,98,mainnet,active,Medium,mesh-nodes/evm/sixprotocol/node-config.json
+evm__Skate_Mainnet,evm,Skate Mainnet,5050,mainnet,active,Medium,mesh-nodes/evm/skatemainnet/node-config.json
+evm__Skynet,evm,Skynet,619,mainnet,active,Medium,mesh-nodes/evm/skynet/node-config.json
+evm__SlerfChain_Mainnet,evm,SlerfChain Mainnet,918,mainnet,active,Medium,mesh-nodes/evm/slerfchainmainnet/node-config.json
+evm__SlingShot,evm,SlingShot,33401,mainnet,active,Medium,mesh-nodes/evm/slingshot/node-config.json
+evm__Smart_Bitcoin_Cash,evm,Smart Bitcoin Cash,10000,mainnet,active,Medium,mesh-nodes/evm/smartbitcoincash/node-config.json
+evm__Smart_Layer_Network,evm,Smart Layer Network,5169,mainnet,active,Medium,mesh-nodes/evm/smartlayernetwork/node-config.json
+evm__Smart_Mainnet,evm,Smart Mainnet,661898459,mainnet,active,Medium,mesh-nodes/evm/smartmainnet/node-config.json
+evm__Smart_Trade_Networks,evm,Smart Trade Networks,18122,mainnet,active,Medium,mesh-nodes/evm/smarttradenetworks/node-config.json
+evm__SmartMesh_Mainnet,evm,SmartMesh Mainnet,20180430,mainnet,active,Medium,mesh-nodes/evm/smartmeshmainnet/node-config.json
+evm__SmartPay_Mobile_Money,evm,SmartPay Mobile Money,666301179999,mainnet,active,Medium,mesh-nodes/evm/smartpaymobilemoney/node-config.json
+evm__SnaxChain,evm,SnaxChain,2192,mainnet,active,Medium,mesh-nodes/evm/snaxchain/node-config.json
+evm__Social_Smart_Chain_Mainnet,evm,Social Smart Chain Mainnet,281121,mainnet,active,Medium,mesh-nodes/evm/socialsmartchainmainnet/node-config.json
+evm__Socotra_JUNE-Chain,evm,Socotra JUNE-Chain,101003,mainnet,active,Medium,mesh-nodes/evm/socotrajune-chain/node-config.json
+evm__Somnia_Mainnet,evm,Somnia Mainnet,5031,mainnet,active,Medium,mesh-nodes/evm/somniamainnet/node-config.json
+evm__Soneium,evm,Soneium,1868,mainnet,active,Medium,mesh-nodes/evm/soneium/node-config.json
+evm__Sonic_Mainnet,evm,Sonic Mainnet,146,mainnet,active,Medium,mesh-nodes/evm/sonicmainnet/node-config.json
+evm__Sophon,evm,Sophon,50104,mainnet,active,Medium,mesh-nodes/evm/sophon/node-config.json
+evm__Sorian,evm,Sorian,210209,mainnet,active,Medium,mesh-nodes/evm/sorian/node-config.json
+evm__SoterOne_Mainnet,evm,SoterOne Mainnet,68,mainnet,active,Medium,mesh-nodes/evm/soteronemainnet/node-config.json
+evm__SoterOne_Mainnet_old,evm,SoterOne Mainnet old,218,mainnet,active,Medium,mesh-nodes/evm/soteronemainnetold/node-config.json
+evm__Sova,evm,Sova,100021,mainnet,active,Medium,mesh-nodes/evm/sova/node-config.json
+evm__Soverun_Mainnet,evm,Soverun Mainnet,10101010,mainnet,active,Medium,mesh-nodes/evm/soverunmainnet/node-config.json
+evm__Space_Subnet,evm,Space Subnet,8227,mainnet,active,Medium,mesh-nodes/evm/spacesubnet/node-config.json
+evm__Splendor_Mainnet,evm,Splendor Mainnet,2691,mainnet,active,Medium,mesh-nodes/evm/splendormainnet/node-config.json
+evm__Sports_Chain_Network,evm,Sports Chain Network,1904,mainnet,active,Medium,mesh-nodes/evm/sportschainnetwork/node-config.json
+evm__Spotlight,evm,Spotlight,10058111,mainnet,active,Medium,mesh-nodes/evm/spotlight/node-config.json
+evm__Stable_Mainnet,evm,Stable Mainnet,988,mainnet,active,Medium,mesh-nodes/evm/stablemainnet/node-config.json
+evm__StableNet_Mainnet,evm,StableNet Mainnet,8282,mainnet,active,Medium,mesh-nodes/evm/stablenetmainnet/node-config.json
+evm__Standard_Mainnet,evm,Standard Mainnet,486,mainnet,active,Medium,mesh-nodes/evm/standardmainnet/node-config.json
+evm__StarCHAIN,evm,StarCHAIN,1578,mainnet,active,Medium,mesh-nodes/evm/starchain/node-config.json
+evm__StateMesh,evm,StateMesh,1134,mainnet,active,Medium,mesh-nodes/evm/statemesh/node-config.json
+evm__Status_Network,evm,Status Network,373,mainnet,active,Medium,mesh-nodes/evm/statusnetwork/node-config.json
+evm__Stenix_Mainnet,evm,Stenix Mainnet,425,mainnet,active,Medium,mesh-nodes/evm/stenixmainnet/node-config.json
+evm__Step_Network,evm,Step Network,1234,mainnet,active,Medium,mesh-nodes/evm/stepnetwork/node-config.json
+evm__Storagechain_Mainnet,evm,Storagechain Mainnet,8726,mainnet,active,Medium,mesh-nodes/evm/storagechainmainnet/node-config.json
+evm__Storchain,evm,Storchain,6667,mainnet,active,Medium,mesh-nodes/evm/storchain/node-config.json
+evm__Story,evm,Story,1514,mainnet,active,Medium,mesh-nodes/evm/story/node-config.json
+evm__Stratos,evm,Stratos,2048,mainnet,active,Medium,mesh-nodes/evm/stratos/node-config.json
+evm__StreamChain,evm,StreamChain,250611,mainnet,active,Medium,mesh-nodes/evm/streamchain/node-config.json
+evm__StreamuX_Blockchain,evm,StreamuX Blockchain,8098,mainnet,active,Medium,mesh-nodes/evm/streamuxblockchain/node-config.json
+evm__StreetDog_Chain,evm,StreetDog Chain,77778,mainnet,active,Medium,mesh-nodes/evm/streetdogchain/node-config.json
+evm__Structx_Mainnet,evm,Structx Mainnet,208,mainnet,active,Medium,mesh-nodes/evm/structxmainnet/node-config.json
+evm__Studio_Blockchain_Mainnet,evm,Studio Blockchain Mainnet,240241,mainnet,active,Medium,mesh-nodes/evm/studioblockchainmainnet/node-config.json
+evm__Subtensor_EVM,evm,Subtensor EVM,964,mainnet,active,Medium,mesh-nodes/evm/subtensorevm/node-config.json
+evm__Super_Smart_Chain_Mainnet,evm,Super Smart Chain Mainnet,1970,mainnet,active,Medium,mesh-nodes/evm/supersmartchainmainnet/node-config.json
+evm__SuperAIChain_Mainnet,evm,SuperAIChain Mainnet,19998,mainnet,active,Medium,mesh-nodes/evm/superaichainmainnet/node-config.json
+evm__SuperLumio,evm,SuperLumio,8866,mainnet,active,Medium,mesh-nodes/evm/superlumio/node-config.json
+evm__Superposition,evm,Superposition,55244,mainnet,active,Medium,mesh-nodes/evm/superposition/node-config.json
+evm__Superseed,evm,Superseed,5330,mainnet,active,Medium,mesh-nodes/evm/superseed/node-config.json
+evm__Susono,evm,Susono,13812,mainnet,active,Medium,mesh-nodes/evm/susono/node-config.json
+evm__Swamps_L2,evm,Swamps L2,45454,mainnet,active,Medium,mesh-nodes/evm/swampsl2/node-config.json
+evm__Swan_Chain_Mainnet,evm,Swan Chain Mainnet,254,mainnet,active,Medium,mesh-nodes/evm/swanchainmainnet/node-config.json
+evm__SwapDEX,evm,SwapDEX,230,mainnet,active,Medium,mesh-nodes/evm/swapdex/node-config.json
+evm__Swellchain,evm,Swellchain,1923,mainnet,active,Medium,mesh-nodes/evm/swellchain/node-config.json
+evm__SwissDLT,evm,SwissDLT,94,mainnet,active,Medium,mesh-nodes/evm/swissdlt/node-config.json
+evm__Swisstronik_Mainnet,evm,Swisstronik Mainnet,1848,mainnet,active,Medium,mesh-nodes/evm/swisstronikmainnet/node-config.json
+evm__Symbiosis,evm,Symbiosis,13863860,mainnet,active,Medium,mesh-nodes/evm/symbiosis/node-config.json
+evm__Symplexia_Smart_Chain,evm,Symplexia Smart Chain,1149,mainnet,active,Medium,mesh-nodes/evm/symplexiasmartchain/node-config.json
+evm__Syndicate_Frame_Chain,evm,Syndicate Frame Chain,5101,mainnet,active,Medium,mesh-nodes/evm/syndicateframechain/node-config.json
+evm__Syndicate_Mainnet,evm,Syndicate Mainnet,510,mainnet,active,Medium,mesh-nodes/evm/syndicatemainnet/node-config.json
+evm__Syndr_L3,evm,Syndr L3,404,mainnet,active,Medium,mesh-nodes/evm/syndrl3/node-config.json
+evm__Syscoin_Mainnet,evm,Syscoin Mainnet,57,mainnet,active,Medium,mesh-nodes/evm/syscoinmainnet/node-config.json
+evm__T-EKTA,evm,T-EKTA,1004,mainnet,active,Medium,mesh-nodes/evm/t-ekta/node-config.json
+evm__T_E_A_M_Blockchain,evm,T.E.A.M Blockchain,88888888,mainnet,active,Medium,mesh-nodes/evm/teamblockchain/node-config.json
+evm__TAC_Mainnet,evm,TAC Mainnet,239,mainnet,active,Medium,mesh-nodes/evm/tacmainnet/node-config.json
+evm__TAC_Saint_Petersburg,evm,TAC Saint Petersburg,2391,mainnet,active,Medium,mesh-nodes/evm/tacsaintpetersburg/node-config.json
+evm__TAC_Turin,evm,TAC Turin,2390,mainnet,active,Medium,mesh-nodes/evm/tacturin/node-config.json
+evm__TAO_EVM_Mainnet,evm,TAO EVM Mainnet,10321,mainnet,active,Medium,mesh-nodes/evm/taoevmmainnet/node-config.json
+evm__TAPROOT_Mainnet,evm,TAPROOT Mainnet,911,mainnet,active,Medium,mesh-nodes/evm/taprootmainnet/node-config.json
+evm__TBSI_Mainnet,evm,TBSI Mainnet,1707,mainnet,active,Medium,mesh-nodes/evm/tbsimainnet/node-config.json
+evm__TBWG_Chain,evm,TBWG Chain,35,mainnet,active,Medium,mesh-nodes/evm/tbwgchain/node-config.json
+evm__TCG_Verse_Mainnet,evm,TCG Verse Mainnet,2400,mainnet,active,Medium,mesh-nodes/evm/tcgversemainnet/node-config.json
+evm__THAT_Mainnet,evm,THAT Mainnet,8428,mainnet,active,Medium,mesh-nodes/evm/thatmainnet/node-config.json
+evm__TLChain_Network_Mainnet,evm,TLChain Network Mainnet,5177,mainnet,active,Medium,mesh-nodes/evm/tlchainnetworkmainnet/node-config.json
+evm__TMY_Chain,evm,TMY Chain,8768,mainnet,active,Medium,mesh-nodes/evm/tmychain/node-config.json
+evm__TOOL_Global_Mainnet,evm,TOOL Global Mainnet,8723,mainnet,active,Medium,mesh-nodes/evm/toolglobalmainnet/node-config.json
+evm__TOP_Mainnet,evm,TOP Mainnet,989,mainnet,active,Medium,mesh-nodes/evm/topmainnet/node-config.json
+evm__TOP_Mainnet_EVM,evm,TOP Mainnet EVM,980,mainnet,active,Medium,mesh-nodes/evm/topmainnetevm/node-config.json
+evm__TPIX_Chain,evm,TPIX Chain,4289,mainnet,active,Medium,mesh-nodes/evm/tpixchain/node-config.json
+evm__TRUMPCHAIN,evm,TRUMPCHAIN,4547,mainnet,active,Medium,mesh-nodes/evm/trumpchain/node-config.json
+evm__TSC_Mainnet,evm,TSC Mainnet,345,mainnet,active,Medium,mesh-nodes/evm/tscmainnet/node-config.json
+evm__TTL_Coin,evm,TTL Coin,7777,mainnet,active,Medium,mesh-nodes/evm/ttlcoin/node-config.json
+evm__TTcoin_Smart_Chain_Mainnet,evm,TTcoin Smart Chain Mainnet,330844,mainnet,active,Medium,mesh-nodes/evm/ttcoinsmartchainmainnet/node-config.json
+evm__Taf_ECO_Chain_Mainnet,evm,Taf ECO Chain Mainnet,224168,mainnet,active,Medium,mesh-nodes/evm/tafecochainmainnet/node-config.json
+evm__Taiko,evm,Taiko,167000,mainnet,active,Medium,mesh-nodes/evm/taiko/node-config.json
+evm__Taiko_Eldfell_L3,evm,Taiko Eldfell L3,167006,mainnet,active,Medium,mesh-nodes/evm/taikoeldfelll3/node-config.json
+evm__Taiko_Grimsvotn_L2,evm,Taiko Grimsvotn L2,167005,mainnet,active,Medium,mesh-nodes/evm/taikogrimsvotnl2/node-config.json
+evm__Taiko_Jolnir_L2,evm,Taiko Jolnir L2,167007,mainnet,active,Medium,mesh-nodes/evm/taikojolnirl2/node-config.json
+evm__Taiko_Katla_L2,evm,Taiko Katla L2,167008,mainnet,active,Medium,mesh-nodes/evm/taikokatlal2/node-config.json
+evm__Taker_Chain_Mainnet,evm,Taker Chain Mainnet,1125,mainnet,active,Medium,mesh-nodes/evm/takerchainmainnet/node-config.json
+evm__Tangle,evm,Tangle,5845,mainnet,active,Medium,mesh-nodes/evm/tangle/node-config.json
+evm__Tao_Network,evm,Tao Network,558,mainnet,active,Medium,mesh-nodes/evm/taonetwork/node-config.json
+evm__Taraxa_Mainnet,evm,Taraxa Mainnet,841,mainnet,active,Medium,mesh-nodes/evm/taraxamainnet/node-config.json
+evm__Taycan,evm,Taycan,22023,mainnet,active,Medium,mesh-nodes/evm/taycan/node-config.json
+evm__Tea_Mainnet,evm,Tea Mainnet,6122,mainnet,active,Medium,mesh-nodes/evm/teamainnet/node-config.json
+evm__TechPay_Mainnet,evm,TechPay Mainnet,2569,mainnet,active,Medium,mesh-nodes/evm/techpaymainnet/node-config.json
+evm__Tectum_Emission_Token,evm,Tectum Emission Token,1003,mainnet,active,Medium,mesh-nodes/evm/tectumemissiontoken/node-config.json
+evm__Teleport,evm,Teleport,8000,mainnet,active,Medium,mesh-nodes/evm/teleport/node-config.json
+evm__Telos_EVM_Mainnet,evm,Telos EVM Mainnet,40,mainnet,active,Medium,mesh-nodes/evm/telosevmmainnet/node-config.json
+evm__Tempo_Mainnet_Presto,evm,Tempo Mainnet Presto,4217,mainnet,active,Medium,mesh-nodes/evm/tempomainnetpresto/node-config.json
+evm__Tenet,evm,Tenet,1559,mainnet,active,Medium,mesh-nodes/evm/tenet/node-config.json
+evm__Ternoa,evm,Ternoa,752025,mainnet,active,Medium,mesh-nodes/evm/ternoa/node-config.json
+evm__Teslafunds,evm,Teslafunds,1856,mainnet,active,Medium,mesh-nodes/evm/teslafunds/node-config.json
+evm__Tetron_Smart_Chain,evm,Tetron Smart Chain,97055,mainnet,active,Medium,mesh-nodes/evm/tetronsmartchain/node-config.json
+evm__ThaiChain,evm,ThaiChain,7,mainnet,active,Medium,mesh-nodes/evm/thaichain/node-config.json
+evm__ThaiChain_2_0_ThaiFi,evm,ThaiChain 2.0 ThaiFi,17,mainnet,active,Medium,mesh-nodes/evm/thaichain20thaifi/node-config.json
+evm__The_Root_Network_-_Mainnet,evm,The Root Network - Mainnet,7668,mainnet,active,Medium,mesh-nodes/evm/therootnetwork-mainnet/node-config.json
+evm__The_Widows_Mite,evm,The Widows Mite,426,mainnet,active,Medium,mesh-nodes/evm/thewidowsmite/node-config.json
+evm__Theta_Mainnet,evm,Theta Mainnet,361,mainnet,active,Medium,mesh-nodes/evm/thetamainnet/node-config.json
+evm__Thinkium_Mainnet_Chain_0,evm,Thinkium Mainnet Chain 0,70000,mainnet,active,Medium,mesh-nodes/evm/thinkiummainnetchain0/node-config.json
+evm__Thinkium_Mainnet_Chain_1,evm,Thinkium Mainnet Chain 1,70001,mainnet,active,Medium,mesh-nodes/evm/thinkiummainnetchain1/node-config.json
+evm__Thinkium_Mainnet_Chain_103,evm,Thinkium Mainnet Chain 103,70103,mainnet,active,Medium,mesh-nodes/evm/thinkiummainnetchain103/node-config.json
+evm__Thinkium_Mainnet_Chain_2,evm,Thinkium Mainnet Chain 2,70002,mainnet,active,Medium,mesh-nodes/evm/thinkiummainnetchain2/node-config.json
+evm__ThunderCore_Mainnet,evm,ThunderCore Mainnet,108,mainnet,active,Medium,mesh-nodes/evm/thundercoremainnet/node-config.json
+evm__Tiltyard_Mainnet_Subnet,evm,Tiltyard Mainnet Subnet,710420,mainnet,active,Medium,mesh-nodes/evm/tiltyardmainnetsubnet/node-config.json
+evm__Tiltyard_Subnet,evm,Tiltyard Subnet,1127469,mainnet,active,Medium,mesh-nodes/evm/tiltyardsubnet/node-config.json
+evm__Tipboxcoin_Mainnet,evm,Tipboxcoin Mainnet,404040,mainnet,active,Medium,mesh-nodes/evm/tipboxcoinmainnet/node-config.json
+evm__Titan,evm,Titan,55004,mainnet,active,Medium,mesh-nodes/evm/titan/node-config.json
+evm__Titan__TKX_,evm,Titan (TKX),18888,mainnet,active,Medium,mesh-nodes/evm/titantkx/node-config.json
+evm__TokClaw_Blockchain,evm,TokClaw Blockchain,7447,mainnet,active,Medium,mesh-nodes/evm/tokclawblockchain/node-config.json
+evm__Toki_Network,evm,Toki Network,8654,mainnet,active,Medium,mesh-nodes/evm/tokinetwork/node-config.json
+evm__Tomb_Chain_Mainnet,evm,Tomb Chain Mainnet,6969,mainnet,active,Medium,mesh-nodes/evm/tombchainmainnet/node-config.json
+evm__Toronet_Mainnet,evm,Toronet Mainnet,77777,mainnet,active,Medium,mesh-nodes/evm/toronetmainnet/node-config.json
+evm__Torus_Mainnet,evm,Torus Mainnet,8192,mainnet,active,Medium,mesh-nodes/evm/torusmainnet/node-config.json
+evm__Tranched_Mainnet,evm,Tranched Mainnet,743,mainnet,active,Medium,mesh-nodes/evm/tranchedmainnet/node-config.json
+evm__Transparency_Solution,evm,Transparency Solution,179170,mainnet,active,Medium,mesh-nodes/evm/transparencysolution/node-config.json
+evm__Treasure,evm,Treasure,61166,mainnet,active,Medium,mesh-nodes/evm/treasure/node-config.json
+evm__Treasure_Ruby,evm,Treasure Ruby,978657,mainnet,active,Medium,mesh-nodes/evm/treasureruby/node-config.json
+evm__Treasure_Topaz,evm,Treasure Topaz,978658,mainnet,active,Medium,mesh-nodes/evm/treasuretopaz/node-config.json
+evm__Treasurenet_Mainnet_Alpha,evm,Treasurenet Mainnet Alpha,5002,mainnet,active,Medium,mesh-nodes/evm/treasurenetmainnetalpha/node-config.json
+evm__Tres_Mainnet,evm,Tres Mainnet,6066,mainnet,active,Medium,mesh-nodes/evm/tresmainnet/node-config.json
+evm__Trexx,evm,Trexx,13766,mainnet,active,Medium,mesh-nodes/evm/trexx/node-config.json
+evm__Tron_Mainnet,evm,Tron Mainnet,728126428,mainnet,active,Medium,mesh-nodes/evm/tronmainnet/node-config.json
+evm__Tron_Shasta,evm,Tron Shasta,2494104990,mainnet,active,Medium,mesh-nodes/evm/tronshasta/node-config.json
+evm__TrustBitcoin_Mainnet,evm,TrustBitcoin Mainnet,10791,mainnet,active,Medium,mesh-nodes/evm/trustbitcoinmainnet/node-config.json
+evm__Tucana,evm,Tucana,711,mainnet,active,Medium,mesh-nodes/evm/tucana/node-config.json
+evm__Turbo,evm,Turbo,1313161567,mainnet,active,Medium,mesh-nodes/evm/turbo/node-config.json
+evm__TurkChain,evm,TurkChain,1919,mainnet,active,Medium,mesh-nodes/evm/turkchain/node-config.json
+evm__Tuxappcoin,evm,Tuxappcoin,1313161573,mainnet,active,Medium,mesh-nodes/evm/tuxappcoin/node-config.json
+evm__Tycooncoin,evm,Tycooncoin,3630,mainnet,active,Medium,mesh-nodes/evm/tycooncoin/node-config.json
+evm__U2U_Solaris_Mainnet,evm,U2U Solaris Mainnet,39,mainnet,active,Medium,mesh-nodes/evm/u2usolarismainnet/node-config.json
+evm__UB_Smart_Chain,evm,UB Smart Chain,99999,mainnet,active,Medium,mesh-nodes/evm/ubsmartchain/node-config.json
+evm__UBIT_SMARTCHAIN_MAINNET,evm,UBIT SMARTCHAIN MAINNET,90002,mainnet,active,Medium,mesh-nodes/evm/ubitsmartchainmainnet/node-config.json
+evm__UCHAIN_Mainnet,evm,UCHAIN Mainnet,2112,mainnet,active,Medium,mesh-nodes/evm/uchainmainnet/node-config.json
+evm__UPTN,evm,UPTN,6119,mainnet,active,Medium,mesh-nodes/evm/uptn/node-config.json
+evm__UPchain_Mainnet,evm,UPchain Mainnet,336666,mainnet,active,Medium,mesh-nodes/evm/upchainmainnet/node-config.json
+evm__UXLINK_ONE_Mainnet,evm,UXLINK ONE Mainnet,718,mainnet,active,Medium,mesh-nodes/evm/uxlinkonemainnet/node-config.json
+evm__Ubiq,evm,Ubiq,8,mainnet,active,Medium,mesh-nodes/evm/ubiq/node-config.json
+evm__Ultima_Mainnet,evm,Ultima Mainnet,3416255149,mainnet,active,Medium,mesh-nodes/evm/ultimamainnet/node-config.json
+evm__Ultra_EVM_Network,evm,Ultra EVM Network,19991,mainnet,active,Medium,mesh-nodes/evm/ultraevmnetwork/node-config.json
+evm__Ultra_Pro_Mainnet,evm,Ultra Pro Mainnet,473861,mainnet,active,Medium,mesh-nodes/evm/ultrapromainnet/node-config.json
+evm__Ultron_Mainnet,evm,Ultron Mainnet,1231,mainnet,active,Medium,mesh-nodes/evm/ultronmainnet/node-config.json
+evm__Unichain,evm,Unichain,130,mainnet,active,Medium,mesh-nodes/evm/unichain/node-config.json
+evm__Unique,evm,Unique,8880,mainnet,active,Medium,mesh-nodes/evm/unique/node-config.json
+evm__Unit_Zero_Mainnet,evm,Unit Zero Mainnet,88811,mainnet,active,Medium,mesh-nodes/evm/unitzeromainnet/node-config.json
+evm__Unit_Zero_Stagenet,evm,Unit Zero Stagenet,88819,mainnet,active,Medium,mesh-nodes/evm/unitzerostagenet/node-config.json
+evm__Unite,evm,Unite,88899,mainnet,active,Medium,mesh-nodes/evm/unite/node-config.json
+evm__Unitsky_String_Technologies,evm,Unitsky String Technologies,778889,mainnet,active,Medium,mesh-nodes/evm/unitskystringtechnologies/node-config.json
+evm__Uptick_Mainnet,evm,Uptick Mainnet,117,mainnet,active,Medium,mesh-nodes/evm/uptickmainnet/node-config.json
+evm__Uzmi_Network_Mainnet,evm,Uzmi Network Mainnet,5315,mainnet,active,Medium,mesh-nodes/evm/uzminetworkmainnet/node-config.json
+evm__VALYGO_NFT,evm,VALYGO NFT,7773777,mainnet,active,Medium,mesh-nodes/evm/valygonft/node-config.json
+evm__VALYGO_Smartchain,evm,VALYGO Smartchain,7771777,mainnet,active,Medium,mesh-nodes/evm/valygosmartchain/node-config.json
+evm__VChain_Mainnet,evm,VChain Mainnet,2223,mainnet,active,Medium,mesh-nodes/evm/vchainmainnet/node-config.json
+evm__VELO_Labs_Mainnet,evm,VELO Labs Mainnet,56789,mainnet,active,Medium,mesh-nodes/evm/velolabsmainnet/node-config.json
+evm__VEMP_Horizon,evm,VEMP Horizon,82614,mainnet,active,Medium,mesh-nodes/evm/vemphorizon/node-config.json
+evm__VERY_Mainnet,evm,VERY Mainnet,4613,mainnet,active,Medium,mesh-nodes/evm/verymainnet/node-config.json
+evm__Validium_Network,evm,Validium Network,567,mainnet,active,Medium,mesh-nodes/evm/validiumnetwork/node-config.json
+evm__Valorbit,evm,Valorbit,38,mainnet,active,Medium,mesh-nodes/evm/valorbit/node-config.json
+evm__Vana,evm,Vana,1480,mainnet,active,Medium,mesh-nodes/evm/vana/node-config.json
+evm__Vanar_Mainnet,evm,Vanar Mainnet,2040,mainnet,active,Medium,mesh-nodes/evm/vanarmainnet/node-config.json
+evm__Vanguard,evm,Vanguard,78600,mainnet,active,Medium,mesh-nodes/evm/vanguard/node-config.json
+evm__Vcitychain_Mainnet,evm,Vcitychain Mainnet,20250825,mainnet,active,Medium,mesh-nodes/evm/vcitychainmainnet/node-config.json
+evm__VeChain,evm,VeChain,100009,mainnet,active,Medium,mesh-nodes/evm/vechain/node-config.json
+evm__Vecno_Mainnet,evm,Vecno Mainnet,65357,mainnet,active,Medium,mesh-nodes/evm/vecnomainnet/node-config.json
+evm__Vector_Smart_Chain,evm,Vector Smart Chain,420042,mainnet,active,Medium,mesh-nodes/evm/vectorsmartchain/node-config.json
+evm__Vela1_Chain_Mainnet,evm,Vela1 Chain Mainnet,555,mainnet,active,Medium,mesh-nodes/evm/vela1chainmainnet/node-config.json
+evm__Velas_EVM_Mainnet,evm,Velas EVM Mainnet,106,mainnet,active,Medium,mesh-nodes/evm/velasevmmainnet/node-config.json
+evm__Venidium_Mainnet,evm,Venidium Mainnet,4919,mainnet,active,Medium,mesh-nodes/evm/venidiummainnet/node-config.json
+evm__Vention_Smart_Chain_Mainnet,evm,Vention Smart Chain Mainnet,77612,mainnet,active,Medium,mesh-nodes/evm/ventionsmartchainmainnet/node-config.json
+evm__Viction,evm,Viction,88,mainnet,active,Medium,mesh-nodes/evm/viction/node-config.json
+evm__VinuChain_Network,evm,VinuChain Network,207,mainnet,active,Medium,mesh-nodes/evm/vinuchainnetwork/node-config.json
+evm__VirBiCoin,evm,VirBiCoin,329,mainnet,active,Medium,mesh-nodes/evm/virbicoin/node-config.json
+evm__Viridis_Mainnet,evm,Viridis Mainnet,422,mainnet,active,Medium,mesh-nodes/evm/viridismainnet/node-config.json
+evm__Vision_-_Mainnet,evm,Vision - Mainnet,888888,mainnet,active,Medium,mesh-nodes/evm/vision-mainnet/node-config.json
+evm__Vitruveo_Mainnet,evm,Vitruveo Mainnet,1490,mainnet,active,Medium,mesh-nodes/evm/vitruveomainnet/node-config.json
+evm__Vizing_Mainnet,evm,Vizing Mainnet,28518,mainnet,active,Medium,mesh-nodes/evm/vizingmainnet/node-config.json
+evm__Volcano_Chain_Mainnet,evm,Volcano Chain Mainnet,10085,mainnet,active,Medium,mesh-nodes/evm/volcanochainmainnet/node-config.json
+evm__Volley_Mainnet,evm,Volley Mainnet,9981,mainnet,active,Medium,mesh-nodes/evm/volleymainnet/node-config.json
+evm__Vrcscan_Mainnet,evm,Vrcscan Mainnet,713,mainnet,active,Medium,mesh-nodes/evm/vrcscanmainnet/node-config.json
+evm__Vyvo_Smart_Chain,evm,Vyvo Smart Chain,8889,mainnet,active,Medium,mesh-nodes/evm/vyvosmartchain/node-config.json
+evm__WABA_Chain_Mainnet,evm,WABA Chain Mainnet,327126,mainnet,active,Medium,mesh-nodes/evm/wabachainmainnet/node-config.json
+evm__WAGMI,evm,WAGMI,11111,mainnet,active,Medium,mesh-nodes/evm/wagmi/node-config.json
+evm__WEMIX3_0_Mainnet,evm,WEMIX3.0 Mainnet,1111,mainnet,active,Medium,mesh-nodes/evm/wemix30mainnet/node-config.json
+evm__WITNESS_CHAIN,evm,WITNESS CHAIN,1702448187,mainnet,active,Medium,mesh-nodes/evm/witnesschain/node-config.json
+evm__Wadzchain_Mainnet,evm,Wadzchain Mainnet,171717,mainnet,active,Medium,mesh-nodes/evm/wadzchainmainnet/node-config.json
+evm__Wanchain,evm,Wanchain,888,mainnet,active,Medium,mesh-nodes/evm/wanchain/node-config.json
+evm__Waterfall_Network,evm,Waterfall Network,181,mainnet,active,Medium,mesh-nodes/evm/waterfallnetwork/node-config.json
+evm__Web3Q_Galileo,evm,Web3Q Galileo,3334,mainnet,active,Medium,mesh-nodes/evm/web3qgalileo/node-config.json
+evm__WebChain_ETK,evm,WebChain ETK,1000001,mainnet,active,Medium,mesh-nodes/evm/webchainetk/node-config.json
+evm__Webchain,evm,Webchain,24484,mainnet,active,Medium,mesh-nodes/evm/webchain/node-config.json
+evm__Weber_Governance_Mainnet,evm,Weber Governance Mainnet,881,mainnet,active,Medium,mesh-nodes/evm/webergovernancemainnet/node-config.json
+evm__Wegochain_Rubidium_Mainnet,evm,Wegochain Rubidium Mainnet,5869,mainnet,active,Medium,mesh-nodes/evm/wegochainrubidiummainnet/node-config.json
+evm__Westend_Asset_Hub,evm,Westend Asset Hub,420420421,mainnet,active,Medium,mesh-nodes/evm/westendassethub/node-config.json
+evm__Whitechain,evm,Whitechain,1875,mainnet,active,Medium,mesh-nodes/evm/whitechain/node-config.json
+evm__Winr_Protocol_Mainnet,evm,Winr Protocol Mainnet,777777,mainnet,active,Medium,mesh-nodes/evm/winrprotocolmainnet/node-config.json
+evm__Wirex_Pay_Mainnet,evm,Wirex Pay Mainnet,31415,mainnet,active,Medium,mesh-nodes/evm/wirexpaymainnet/node-config.json
+evm__Won_Network,evm,Won Network,686868,mainnet,active,Medium,mesh-nodes/evm/wonnetwork/node-config.json
+evm__WoopChain_Mainnet,evm,WoopChain Mainnet,139,mainnet,active,Medium,mesh-nodes/evm/woopchainmainnet/node-config.json
+evm__World_Chain,evm,World Chain,480,mainnet,active,Medium,mesh-nodes/evm/worldchain/node-config.json
+evm__World_Trade_Technical_Chain_Mainnet,evm,World Trade Technical Chain Mainnet,1202,mainnet,active,Medium,mesh-nodes/evm/worldtradetechnicalchainmainnet/node-config.json
+evm__WorldEcoMoney,evm,WorldEcoMoney,315,mainnet,active,Medium,mesh-nodes/evm/worldecomoney/node-config.json
+evm__WorldLand_Mainnet,evm,WorldLand Mainnet,103,mainnet,active,Medium,mesh-nodes/evm/worldlandmainnet/node-config.json
+evm__WorldMobileChain-Mainnet,evm,WorldMobileChain-Mainnet,869,mainnet,active,Medium,mesh-nodes/evm/worldmobilechain-mainnet/node-config.json
+evm__Worlds_Caldera,evm,Worlds Caldera,4281033,mainnet,active,Medium,mesh-nodes/evm/worldscaldera/node-config.json
+evm__WowChain_Mainnet,evm,WowChain Mainnet,203,mainnet,active,Medium,mesh-nodes/evm/wowchainmainnet/node-config.json
+evm__X_Layer_Mainnet,evm,X Layer Mainnet,196,mainnet,active,Medium,mesh-nodes/evm/xlayermainnet/node-config.json
+evm__X1_Fastnet,evm,X1 Fastnet,4003,mainnet,active,Medium,mesh-nodes/evm/x1fastnet/node-config.json
+evm__X1_Network,evm,X1 Network,204005,mainnet,active,Medium,mesh-nodes/evm/x1network/node-config.json
+evm__XANAChain,evm,XANAChain,8888,mainnet,active,Medium,mesh-nodes/evm/xanachain/node-config.json
+evm__XCAP,evm,XCAP,9322252,mainnet,active,Medium,mesh-nodes/evm/xcap/node-config.json
+evm__XCHAIN,evm,XCHAIN,94524,mainnet,active,Medium,mesh-nodes/evm/xchain/node-config.json
+evm__XCOIN,evm,XCOIN,158345,mainnet,active,Medium,mesh-nodes/evm/xcoin/node-config.json
+evm__XDC_Apothem_Network,evm,XDC Apothem Network,51,mainnet,active,Medium,mesh-nodes/evm/xdcapothemnetwork/node-config.json
+evm__XDC_Network,evm,XDC Network,50,mainnet,active,Medium,mesh-nodes/evm/xdcnetwork/node-config.json
+evm__XGR_Mainnet,evm,XGR Mainnet,1643,mainnet,active,Medium,mesh-nodes/evm/xgrmainnet/node-config.json
+evm__XMTP,evm,XMTP,24132016,mainnet,active,Medium,mesh-nodes/evm/xmtp/node-config.json
+evm__XO_Market,evm,XO Market,3223,mainnet,active,Medium,mesh-nodes/evm/xomarket/node-config.json
+evm__XODEX,evm,XODEX,2415,mainnet,active,Medium,mesh-nodes/evm/xodex/node-config.json
+evm__XPLA_Verse,evm,XPLA Verse,7300,mainnet,active,Medium,mesh-nodes/evm/xplaverse/node-config.json
+evm__XProtocol,evm,XProtocol,8386,mainnet,active,Medium,mesh-nodes/evm/xprotocol/node-config.json
+evm__XR_One,evm,XR One,273,mainnet,active,Medium,mesh-nodes/evm/xrone/node-config.json
+evm__XRPL_EVM_Sidechain,evm,XRPL EVM Sidechain,1440000,mainnet,active,Medium,mesh-nodes/evm/xrplevmsidechain/node-config.json
+evm__XT_Smart_Chain_Mainnet,evm,XT Smart Chain Mainnet,520,mainnet,active,Medium,mesh-nodes/evm/xtsmartchainmainnet/node-config.json
+evm__XUSD_ONE_StableChain_Mainnet,evm,XUSD ONE StableChain Mainnet,20441,mainnet,active,Medium,mesh-nodes/evm/xusdonestablechainmainnet/node-config.json
+evm__Xai_Mainnet,evm,Xai Mainnet,660279,mainnet,active,Medium,mesh-nodes/evm/xaimainnet/node-config.json
+evm__Xenea_Ubusuna,evm,Xenea Ubusuna,1096,mainnet,active,Medium,mesh-nodes/evm/xeneaubusuna/node-config.json
+evm__Xerom,evm,Xerom,1313500,mainnet,active,Medium,mesh-nodes/evm/xerom/node-config.json
+evm__Xertra_Mainnet,evm,Xertra Mainnet,105105,mainnet,active,Medium,mesh-nodes/evm/xertramainnet/node-config.json
+evm__XferChain_Mainnet,evm,XferChain Mainnet,28125,mainnet,active,Medium,mesh-nodes/evm/xferchainmainnet/node-config.json
+evm__Xitcoin,evm,Xitcoin,101088,mainnet,active,Medium,mesh-nodes/evm/xitcoin/node-config.json
+evm__Xone_Mainnet,evm,Xone Mainnet,3721,mainnet,active,Medium,mesh-nodes/evm/xonemainnet/node-config.json
+evm__Xphere_Mainnet,evm,Xphere Mainnet,20250217,mainnet,active,Medium,mesh-nodes/evm/xpheremainnet/node-config.json
+evm__Xterio_Chain__ETH_,evm,Xterio Chain (ETH),2702128,mainnet,active,Medium,mesh-nodes/evm/xteriochaineth/node-config.json
+evm__Yidark_Chain_Mainnet,evm,Yidark Chain Mainnet,927,mainnet,active,Medium,mesh-nodes/evm/yidarkchainmainnet/node-config.json
+evm__Yominet,evm,Yominet,428962654539583,mainnet,active,Medium,mesh-nodes/evm/yominet/node-config.json
+evm__Yooldo_Verse_Mainnet,evm,Yooldo Verse Mainnet,50005,mainnet,active,Medium,mesh-nodes/evm/yooldoversemainnet/node-config.json
+evm__YuanChain_Mainnet,evm,YuanChain Mainnet,3999,mainnet,active,Medium,mesh-nodes/evm/yuanchainmainnet/node-config.json
+evm__Z_Chain,evm,Z Chain,9369,mainnet,active,Medium,mesh-nodes/evm/zchain/node-config.json
+evm__ZEDXION,evm,ZEDXION,83872,mainnet,active,Medium,mesh-nodes/evm/zedxion/node-config.json
+evm__ZERO_Network,evm,ZERO Network,543210,mainnet,active,Medium,mesh-nodes/evm/zeronetwork/node-config.json
+evm__ZEUS_Mainnet,evm,ZEUS Mainnet,34504,mainnet,active,Medium,mesh-nodes/evm/zeusmainnet/node-config.json
+evm__ZIGChain,evm,ZIGChain,944,mainnet,active,Medium,mesh-nodes/evm/zigchain/node-config.json
+evm__ZKAmoeba_Mainnet,evm,ZKAmoeba Mainnet,381,mainnet,active,Medium,mesh-nodes/evm/zkamoebamainnet/node-config.json
+evm__ZKBase_Mainnet,evm,ZKBase Mainnet,1456,mainnet,active,Medium,mesh-nodes/evm/zkbasemainnet/node-config.json
+evm__ZKFair_Mainnet,evm,ZKFair Mainnet,42766,mainnet,active,Medium,mesh-nodes/evm/zkfairmainnet/node-config.json
+evm__ZKSats_Mainnet,evm,ZKSats Mainnet,305,mainnet,active,Medium,mesh-nodes/evm/zksatsmainnet/node-config.json
+evm__ZKasino_Mainnet,evm,ZKasino Mainnet,88800,mainnet,active,Medium,mesh-nodes/evm/zkasinomainnet/node-config.json
+evm__ZKcandy_Mainnet,evm,ZKcandy Mainnet,320,mainnet,active,Medium,mesh-nodes/evm/zkcandymainnet/node-config.json
+evm__Zafirium_Mainnet,evm,Zafirium Mainnet,1369,mainnet,active,Medium,mesh-nodes/evm/zafiriummainnet/node-config.json
+evm__Zchains,evm,Zchains,168168,mainnet,active,Medium,mesh-nodes/evm/zchains/node-config.json
+evm__Zebro_Smart_Chain,evm,Zebro Smart Chain,786786,mainnet,active,Medium,mesh-nodes/evm/zebrosmartchain/node-config.json
+evm__Zeeth_Chain,evm,Zeeth Chain,427,mainnet,active,Medium,mesh-nodes/evm/zeethchain/node-config.json
+evm__ZenChain,evm,ZenChain,8108,mainnet,active,Medium,mesh-nodes/evm/zenchain/node-config.json
+evm__Zeniq,evm,Zeniq,383414847825,mainnet,active,Medium,mesh-nodes/evm/zeniq/node-config.json
+evm__Zenith_Mainnet,evm,Zenith Mainnet,79,mainnet,active,Medium,mesh-nodes/evm/zenithmainnet/node-config.json
+evm__Zeroth_Mainnet,evm,Zeroth Mainnet,4088,mainnet,active,Medium,mesh-nodes/evm/zerothmainnet/node-config.json
+evm__ZetaChain_Mainnet,evm,ZetaChain Mainnet,7000,mainnet,active,Medium,mesh-nodes/evm/zetachainmainnet/node-config.json
+evm__Zether_Mainnet,evm,Zether Mainnet,715131,mainnet,active,Medium,mesh-nodes/evm/zethermainnet/node-config.json
+evm__Zhejiang,evm,Zhejiang,1337803,mainnet,active,Medium,mesh-nodes/evm/zhejiang/node-config.json
+evm__Zilliqa_2,evm,Zilliqa 2,32769,mainnet,active,Medium,mesh-nodes/evm/zilliqa2/node-config.json
+evm__Zilliqa_2_EVM_proto-mainnet,evm,Zilliqa 2 EVM proto-mainnet,32770,mainnet,active,Medium,mesh-nodes/evm/zilliqa2evmproto-mainnet/node-config.json
+evm__Zilliqa_EVM_Isolated_Server,evm,Zilliqa EVM Isolated Server,32990,mainnet,active,Medium,mesh-nodes/evm/zilliqaevmisolatedserver/node-config.json
+evm__Zircuit_Mainnet,evm,Zircuit Mainnet,48900,mainnet,active,Medium,mesh-nodes/evm/zircuitmainnet/node-config.json
+evm__Zoo_Mainnet,evm,Zoo Mainnet,200200,mainnet,active,Medium,mesh-nodes/evm/zoomainnet/node-config.json
+evm__Zora,evm,Zora,7777777,mainnet,active,Medium,mesh-nodes/evm/zora/node-config.json
+evm__Ztc_Mainnet,evm,Ztc Mainnet,9998,mainnet,active,Medium,mesh-nodes/evm/ztcmainnet/node-config.json
+evm__Zytron_Linea_Mainnet,evm,Zytron Linea Mainnet,9901,mainnet,active,Medium,mesh-nodes/evm/zytronlineamainnet/node-config.json
+evm__Zyx_Mainnet,evm,Zyx Mainnet,55,mainnet,active,Medium,mesh-nodes/evm/zyxmainnet/node-config.json
+evm__arena-z,evm,arena-z,7897,mainnet,active,Medium,mesh-nodes/evm/arena-z/node-config.json
+evm__bloxberg,evm,bloxberg,8995,mainnet,active,Medium,mesh-nodes/evm/bloxberg/node-config.json
+evm__bokuto,evm,bokuto,737373,mainnet,active,Medium,mesh-nodes/evm/bokuto/node-config.json
+evm__cheapETH,evm,cheapETH,777,mainnet,active,Medium,mesh-nodes/evm/cheapeth/node-config.json
+evm__citronus-citro,evm,citronus-citro,34949059,mainnet,active,Medium,mesh-nodes/evm/citronus-citro/node-config.json
+evm__eGold_Chain,evm,eGold Chain,11451,mainnet,active,Medium,mesh-nodes/evm/egoldchain/node-config.json
+evm__eLiberty_Mainnet,evm,eLiberty Mainnet,990,mainnet,active,Medium,mesh-nodes/evm/elibertymainnet/node-config.json
+evm__eSync_Network_Mainnet,evm,eSync Network Mainnet,63000,mainnet,active,Medium,mesh-nodes/evm/esyncnetworkmainnet/node-config.json
+evm__edeXa_Mainnet,evm,edeXa Mainnet,5424,mainnet,active,Medium,mesh-nodes/evm/edexamainnet/node-config.json
+evm__exSat_Mainnet,evm,exSat Mainnet,7200,mainnet,active,Medium,mesh-nodes/evm/exsatmainnet/node-config.json
+evm__firachain,evm,firachain,194,mainnet,active,Medium,mesh-nodes/evm/firachain/node-config.json
+evm__iChain_Network,evm,iChain Network,3639,mainnet,active,Medium,mesh-nodes/evm/ichainnetwork/node-config.json
+evm__iExec_Sidechain,evm,iExec Sidechain,134,mainnet,active,Medium,mesh-nodes/evm/iexecsidechain/node-config.json
+evm__iSunCoin_Mainnet,evm,iSunCoin Mainnet,8017,mainnet,active,Medium,mesh-nodes/evm/isuncoinmainnet/node-config.json
+evm__inEVM_Mainnet,evm,inEVM Mainnet,2525,mainnet,active,Medium,mesh-nodes/evm/inevmmainnet/node-config.json
+evm__katana,evm,katana,747474,mainnet,active,Medium,mesh-nodes/evm/katana/node-config.json
+evm__mfenx,evm,mfenx,177155,mainnet,active,Medium,mesh-nodes/evm/mfenx/node-config.json
+evm__omChain_Mainnet,evm,omChain Mainnet,21816,mainnet,active,Medium,mesh-nodes/evm/omchainmainnet/node-config.json
+evm__opBNB_Mainnet,evm,opBNB Mainnet,204,mainnet,active,Medium,mesh-nodes/evm/opbnbmainnet/node-config.json
+evm__peaq,evm,peaq,3338,mainnet,active,Medium,mesh-nodes/evm/peaq/node-config.json
+evm__pegglecoin,evm,pegglecoin,42069,mainnet,active,Medium,mesh-nodes/evm/pegglecoin/node-config.json
+evm__pointledger,evm,pointledger,9889,mainnet,active,Medium,mesh-nodes/evm/pointledger/node-config.json
+evm__qChain_Mainnet,evm,qChain Mainnet,30000,mainnet,active,Medium,mesh-nodes/evm/qchainmainnet/node-config.json
+evm__quarkblockchain,evm,quarkblockchain,20181205,mainnet,active,Medium,mesh-nodes/evm/quarkblockchain/node-config.json
+evm__re_al,evm,re.al,111188,mainnet,active,Medium,mesh-nodes/evm/real/node-config.json
+evm__unreal,evm,unreal,18233,mainnet,active,Medium,mesh-nodes/evm/unreal/node-config.json
+evm__unreal-old,evm,unreal-old,18231,mainnet,active,Medium,mesh-nodes/evm/unreal-old/node-config.json
+evm__volmex,evm,volmex,123420000588,mainnet,active,Medium,mesh-nodes/evm/volmex/node-config.json
+evm__xFair_AI_Mainnet,evm,xFair.AI Mainnet,278,mainnet,active,Medium,mesh-nodes/evm/xfairaimainnet/node-config.json
+evm__zKatana,evm,zKatana,1261120,mainnet,active,Medium,mesh-nodes/evm/zkatana/node-config.json
+evm__zeroone_Mainnet_Subnet,evm,zeroone Mainnet Subnet,27827,mainnet,active,Medium,mesh-nodes/evm/zeroonemainnetsubnet/node-config.json
+evm__zkLink_Nova_Mainnet,evm,zkLink Nova Mainnet,810180,mainnet,active,Medium,mesh-nodes/evm/zklinknovamainnet/node-config.json
+evm__zkSync_Mainnet,evm,zkSync Mainnet,324,mainnet,active,Medium,mesh-nodes/evm/zksyncmainnet/node-config.json
+evm__zkXPLA_Mainnet,evm,zkXPLA Mainnet,375,mainnet,active,Medium,mesh-nodes/evm/zkxplamainnet/node-config.json
+move_vm__Aptos_Mainnet,move_vm,Aptos Mainnet,1,mainnet,active,Medium,mesh-nodes/move_vm/aptosmainnet/node-config.json
+move_vm__Movement_Mainnet,move_vm,Movement Mainnet,movement-mainnet,mainnet,active,Medium,mesh-nodes/move_vm/movementmainnet/node-config.json
+move_vm__Sui_Mainnet,move_vm,Sui Mainnet,mainnet,mainnet,active,Medium,mesh-nodes/move_vm/suimainnet/node-config.json
+near__NEAR_Mainnet,near,NEAR Mainnet,mainnet,mainnet,active,Medium,mesh-nodes/near/NEARMainnet/node-config.json
+near_ecosystem__NEAR_Mainnet,near_ecosystem,NEAR Mainnet,mainnet,mainnet,active,Medium,mesh-nodes/near_ecosystem/nearmainnet/node-config.json
+solana__Eclipse_Mainnet,solana,Eclipse Mainnet,eclipse-mainnet,mainnet,active,Medium,mesh-nodes/solana/EclipseMainnet/node-config.json
+solana__Solana_Mainnet,solana,Solana Mainnet,mainnet-beta,mainnet,active,Medium,mesh-nodes/solana/SolanaMainnet/node-config.json
+solana_svm__Bera_SVM_Mainnet,solana_svm,Bera SVM Mainnet,bera-svm,mainnet,active,Medium,mesh-nodes/solana_svm/berasvmmainnet/node-config.json
+solana_svm__Eclipse_Mainnet,solana_svm,Eclipse Mainnet,eclipse-mainnet,mainnet,active,Medium,mesh-nodes/solana_svm/eclipsemainnet/node-config.json
+solana_svm__Solana_Mainnet_Beta,solana_svm,Solana Mainnet Beta,mainnet-beta,mainnet,active,Medium,mesh-nodes/solana_svm/solanamainnetbeta/node-config.json
+solana_svm__Sonic_SVM_Mainnet,solana_svm,Sonic SVM Mainnet,sonic-mainnet,mainnet,active,Medium,mesh-nodes/solana_svm/sonicsvmmainnet/node-config.json
+starknet_ecosystem__Starknet_Mainnet,starknet_ecosystem,Starknet Mainnet,SN_MAIN,mainnet,active,Medium,mesh-nodes/starknet_ecosystem/starknetmainnet/node-config.json
+substrate__Acala_Network,substrate,Acala Network,acala,mainnet,active,Medium,mesh-nodes/substrate/acalanetwork/node-config.json
+substrate__Asset_Hub,substrate,Asset Hub,1000,mainnet,active,Medium,mesh-nodes/substrate/assethub/node-config.json
+substrate__Kusama_Network,substrate,Kusama Network,kusama,mainnet,active,Medium,mesh-nodes/substrate/kusamanetwork/node-config.json
+substrate__Moonbeam_Mainnet,substrate,Moonbeam Mainnet,1284,mainnet,active,Medium,mesh-nodes/substrate/moonbeammainnet/node-config.json
+substrate__Phala_Network,substrate,Phala Network,phala,mainnet,active,Medium,mesh-nodes/substrate/phalanetwork/node-config.json
+substrate__Polkadot_Mainnet,substrate,Polkadot Mainnet,polkadot,mainnet,active,Medium,mesh-nodes/substrate/PolkadotMainnet/node-config.json
+sui__Sui_Mainnet,sui,Sui Mainnet,mainnet,mainnet,active,Medium,mesh-nodes/sui/SuiMainnet/node-config.json
+ton_ecosystem__The_Open_Network_Mainnet,ton_ecosystem,The Open Network Mainnet,-239,mainnet,active,Medium,mesh-nodes/ton_ecosystem/theopennetworkmainnet/node-config.json
+tron__Tron_Mainnet,tron,Tron Mainnet,728126428,mainnet,active,Medium,mesh-nodes/tron/TronMainnet/node-config.json
+utxo__Bitcoin_Cash,utxo,Bitcoin Cash,mainnet,mainnet,active,Medium,mesh-nodes/utxo/bitcoincash/node-config.json
+utxo__Bitcoin_Mainnet,utxo,Bitcoin Mainnet,mainnet,mainnet,active,Medium,mesh-nodes/utxo/bitcoinmainnet/node-config.json
+utxo__Dash_Mainnet,utxo,Dash Mainnet,mainnet,mainnet,active,Medium,mesh-nodes/utxo/dashmainnet/node-config.json
+utxo__DigiByte_Mainnet,utxo,DigiByte Mainnet,mainnet,mainnet,active,Medium,mesh-nodes/utxo/digibytemainnet/node-config.json
+utxo__Dogecoin_Mainnet,utxo,Dogecoin Mainnet,mainnet,mainnet,active,Medium,mesh-nodes/utxo/dogecoinmainnet/node-config.json
+utxo__Litecoin_Mainnet,utxo,Litecoin Mainnet,mainnet,mainnet,active,Medium,mesh-nodes/utxo/litecoinmainnet/node-config.json
+utxo__Ravencoin_Mainnet,utxo,Ravencoin Mainnet,mainnet,mainnet,active,Medium,mesh-nodes/utxo/ravencoinmainnet/node-config.json
+utxo__Zcash_Mainnet,utxo,Zcash Mainnet,mainnet,mainnet,active,Medium,mesh-nodes/utxo/zcashmainnet/node-config.json
+xrpl__XRP_Ledger,xrpl,XRP Ledger,mainnet,mainnet,active,Medium,mesh-nodes/xrpl/XRPLedger/node-config.json
+xrpl__Xahau_Network,xrpl,Xahau Network,21337,mainnet,active,Medium,mesh-nodes/xrpl/XahauNetwork/node-config.json
+xrpl_ecosystem__XRP_Ledger_Mainnet,xrpl_ecosystem,XRP Ledger Mainnet,mainnet,mainnet,active,Medium,mesh-nodes/xrpl_ecosystem/xrpledgermainnet/node-config.json
+xrpl_ecosystem__Xahau_Network,xrpl_ecosystem,Xahau Network,21337,mainnet,active,Medium,mesh-nodes/xrpl_ecosystem/xahaunetwork/node-config.json
+evm___deprecated__Kroma_Sepolia,evm,(deprecated) Kroma Sepolia,2357,testnet,active,Medium,mesh-nodes/evm/deprecatedkromasepolia/node-config.json
+evm__ARTIS_sigma1,evm,ARTIS sigma1,246529,testnet,active,Medium,mesh-nodes/evm/artissigma1/node-config.json
+evm__Amoy,evm,Amoy,80002,testnet,active,Medium,mesh-nodes/evm/amoy/node-config.json
+evm__Arbitrum_Goerli,evm,Arbitrum Goerli,421613,testnet,active,Medium,mesh-nodes/evm/arbitrumgoerli/node-config.json
+evm__Arbitrum_Rinkeby,evm,Arbitrum Rinkeby,421611,testnet,active,Medium,mesh-nodes/evm/arbitrumrinkeby/node-config.json
+evm__Arbitrum_Sepolia,evm,Arbitrum Sepolia,421614,testnet,active,Medium,mesh-nodes/evm/arbitrumsepolia/node-config.json
+evm__Arcturus_Testneet,evm,Arcturus Testneet,5615,testnet,active,Medium,mesh-nodes/evm/arcturustestneet/node-config.json
+evm__Astra_Sepolia,evm,Astra Sepolia,19777,testnet,active,Medium,mesh-nodes/evm/astrasepolia/node-config.json
+evm__Aurora_Betanet,evm,Aurora Betanet,1313161556,testnet,active,Medium,mesh-nodes/evm/aurorabetanet/node-config.json
+evm__AxelChain_Dev-Net,evm,AxelChain Dev-Net,61800,testnet,active,Medium,mesh-nodes/evm/axelchaindev-net/node-config.json
+evm__BEVM_Canary,evm,BEVM Canary,1501,review,active,Medium,mesh-nodes/evm/bevmcanary/node-config.json
+evm__BOB_Sepolia,evm,BOB Sepolia,808813,testnet,active,Medium,mesh-nodes/evm/bobsepolia/node-config.json
+evm__Binary_Sepolia,evm,Binary Sepolia,625,testnet,active,Medium,mesh-nodes/evm/binarysepolia/node-config.json
+evm__BlackFort_Exchange_Network_Deprecated,evm,BlackFort Exchange Network Deprecated,4999,testnet,active,Medium,mesh-nodes/evm/blackfortexchangenetworkdeprecated/node-config.json
+evm__Blessnet_Sepolia,evm,Blessnet Sepolia,11145513,testnet,active,Medium,mesh-nodes/evm/blessnetsepolia/node-config.json
+evm__Boba_Sepolia,evm,Boba Sepolia,28882,testnet,active,Medium,mesh-nodes/evm/bobasepolia/node-config.json
+evm__Columbus_Test_Network,evm,Columbus Test Network,501,testnet,active,Medium,mesh-nodes/evm/columbustestnetwork/node-config.json
+evm__Condor_Test_Network,evm,Condor Test Network,188881,testnet,active,Medium,mesh-nodes/evm/condortestnetwork/node-config.json
+evm__Connext_Sepolia,evm,Connext Sepolia,6398,testnet,active,Medium,mesh-nodes/evm/connextsepolia/node-config.json
+evm__Crynux_on_Base_Sepolia,evm,Crynux on Base Sepolia,188962142,testnet,active,Medium,mesh-nodes/evm/crynuxonbasesepolia/node-config.json
+evm__Cuckoo_Sepolia,evm,Cuckoo Sepolia,1210,testnet,active,Medium,mesh-nodes/evm/cuckoosepolia/node-config.json
+evm__DFK_Chain_Test,evm,DFK Chain Test,335,testnet,active,Medium,mesh-nodes/evm/dfkchaintest/node-config.json
+evm__Deprecated_CHI,evm,Deprecated CHI,100100,testnet,active,Medium,mesh-nodes/evm/deprecatedchi/node-config.json
+evm__Dos_Fuji_Subnet,evm,Dos Fuji Subnet,1311,testnet,active,Medium,mesh-nodes/evm/dosfujisubnet/node-config.json
+evm__Edge_Matrix_Chain_Sepolia,evm,Edge Matrix Chain Sepolia,99879,testnet,active,Medium,mesh-nodes/evm/edgematrixchainsepolia/node-config.json
+evm__Electra_Test_Network,evm,Electra Test Network,871,testnet,active,Medium,mesh-nodes/evm/electratestnetwork/node-config.json
+evm__Ethereum_Hoodi,evm,Ethereum Hoodi,560048,testnet,active,Medium,mesh-nodes/evm/ethereumhoodi/node-config.json
+evm__Ethereum_Sepolia,evm,Ethereum Sepolia,11155111,testnet,active,Medium,mesh-nodes/evm/ethereumsepolia/node-config.json
+evm__Firenze_test_network,evm,Firenze test network,78110,testnet,active,Medium,mesh-nodes/evm/firenzetestnetwork/node-config.json
+evm__Flow_EVM_Previewnet,evm,Flow EVM Previewnet,646,testnet,active,Medium,mesh-nodes/evm/flowevmpreviewnet/node-config.json
+evm__Fluent_Developer_Preview,evm,Fluent Developer Preview,20993,testnet,active,Medium,mesh-nodes/evm/fluentdeveloperpreview/node-config.json
+evm__GEB_Signet,evm,GEB Signet,11504,testnet,active,Medium,mesh-nodes/evm/gebsignet/node-config.json
+evm__Garnet_Holesky,evm,Garnet Holesky,17069,testnet,active,Medium,mesh-nodes/evm/garnetholesky/node-config.json
+evm__GitSwarm_Test_Network,evm,GitSwarm Test Network,28872323069,testnet,active,Medium,mesh-nodes/evm/gitswarmtestnetwork/node-config.json
+evm__Goerli,evm,Goerli,5,testnet,active,Medium,mesh-nodes/evm/goerli/node-config.json
+evm__Hedera_Localnet,evm,Hedera Localnet,298,testnet,active,Medium,mesh-nodes/evm/hederalocalnet/node-config.json
+evm__Hedera_Previewnet,evm,Hedera Previewnet,297,testnet,active,Medium,mesh-nodes/evm/hederapreviewnet/node-config.json
+evm__Hemi_Sepolia,evm,Hemi Sepolia,743111,testnet,active,Medium,mesh-nodes/evm/hemisepolia/node-config.json
+evm__Holesky,evm,Holesky,17000,testnet,active,Medium,mesh-nodes/evm/holesky/node-config.json
+evm__Ink_Sepolia,evm,Ink Sepolia,763373,testnet,active,Medium,mesh-nodes/evm/inksepolia/node-config.json
+evm__Kakarot_Sepolia_Deprecated,evm,Kakarot Sepolia Deprecated,107107114116,testnet,active,Medium,mesh-nodes/evm/kakarotsepoliadeprecated/node-config.json
+evm__Kakarot_Starknet_Sepolia,evm,Kakarot Starknet Sepolia,920637907288165,testnet,active,Medium,mesh-nodes/evm/kakarotstarknetsepolia/node-config.json
+evm__Karak_Goerli,evm,Karak Goerli,2511,testnet,active,Medium,mesh-nodes/evm/karakgoerli/node-config.json
+evm__Karak_Sepolia,evm,Karak Sepolia,8054,testnet,active,Medium,mesh-nodes/evm/karaksepolia/node-config.json
+evm__Kekchain__kektest_,evm,Kekchain (kektest),420666,testnet,active,Medium,mesh-nodes/evm/kekchainkektest/node-config.json
+evm__KorthoTest,evm,KorthoTest,8285,testnet,active,Medium,mesh-nodes/evm/korthotest/node-config.json
+evm__Kroma_Sepolia,evm,Kroma Sepolia,2358,testnet,active,Medium,mesh-nodes/evm/kromasepolia/node-config.json
+evm__Linea_Goerli,evm,Linea Goerli,59140,testnet,active,Medium,mesh-nodes/evm/lineagoerli/node-config.json
+evm__Linea_Sepolia,evm,Linea Sepolia,59141,testnet,active,Medium,mesh-nodes/evm/lineasepolia/node-config.json
+evm__Litheum_Test_Network,evm,Litheum Test Network,1174,testnet,active,Medium,mesh-nodes/evm/litheumtestnetwork/node-config.json
+evm__Load_Alphanet,evm,Load Alphanet,9496,testnet,active,Medium,mesh-nodes/evm/loadalphanet/node-config.json
+evm__Monsoon_Alpha,evm,Monsoon Alpha,100611,testnet,active,Medium,mesh-nodes/evm/monsoonalpha/node-config.json
+evm__Moonbase_Alpha,evm,Moonbase Alpha,1287,testnet,active,Medium,mesh-nodes/evm/moonbasealpha/node-config.json
+evm__Morph_Holesky,evm,Morph Holesky,2810,testnet,active,Medium,mesh-nodes/evm/morphholesky/node-config.json
+evm__Mumbai,evm,Mumbai,80001,testnet,active,Medium,mesh-nodes/evm/mumbai/node-config.json
+evm__Nanon_Sepolia,evm,Nanon Sepolia,27483,testnet,active,Medium,mesh-nodes/evm/nanonsepolia/node-config.json
+evm__Nexa_MetaTest,evm,Nexa MetaTest,29225,testnet,active,Medium,mesh-nodes/evm/nexametatest/node-config.json
+evm__ONIGIRI_Test_Subnet,evm,ONIGIRI Test Subnet,5039,testnet,active,Medium,mesh-nodes/evm/onigiritestsubnet/node-config.json
+evm__Optimism_Kovan,evm,Optimism Kovan,69,testnet,active,Medium,mesh-nodes/evm/optimismkovan/node-config.json
+evm__Opulent-X_BETA,evm,Opulent-X BETA,41500,review,active,Medium,mesh-nodes/evm/opulent-xbeta/node-config.json
+evm__Pepe_Unchained_Deprecated,evm,Pepe Unchained Deprecated,3409,testnet,active,Medium,mesh-nodes/evm/pepeunchaineddeprecated/node-config.json
+evm__Perennial_Sepolia,evm,Perennial Sepolia,60850,testnet,active,Medium,mesh-nodes/evm/perennialsepolia/node-config.json
+evm__Pivotal_Sepolia,evm,Pivotal Sepolia,16481,testnet,active,Medium,mesh-nodes/evm/pivotalsepolia/node-config.json
+evm__Polynomial_Sepolia,evm,Polynomial Sepolia,80008,testnet,active,Medium,mesh-nodes/evm/polynomialsepolia/node-config.json
+evm__Portal_Fantasy_Chain_Test,evm,Portal Fantasy Chain Test,808,testnet,active,Medium,mesh-nodes/evm/portalfantasychaintest/node-config.json
+evm__Radius_Test_Network,evm,Radius Test Network,72344,testnet,active,Medium,mesh-nodes/evm/radiustestnetwork/node-config.json
+evm__Rinkeby,evm,Rinkeby,4,testnet,active,Medium,mesh-nodes/evm/rinkeby/node-config.json
+evm__Ropsten,evm,Ropsten,3,testnet,active,Medium,mesh-nodes/evm/ropsten/node-config.json
+evm__SKALE_Base_Sepolia,evm,SKALE Base Sepolia,324705682,testnet,active,Medium,mesh-nodes/evm/skalebasesepolia/node-config.json
+evm__Santiment_Intelligence_Network_DEPRECATED,evm,Santiment Intelligence Network DEPRECATED,11888,testnet,active,Medium,mesh-nodes/evm/santimentintelligencenetworkdeprecated/node-config.json
+evm__Sepolia_PGN__Public_Goods_Network_,evm,Sepolia PGN (Public Goods Network),58008,testnet,active,Medium,mesh-nodes/evm/sepoliapgnpublicgoodsnetwork/node-config.json
+evm__Shibarium_Beta,evm,Shibarium Beta,719,testnet,active,Medium,mesh-nodes/evm/shibariumbeta/node-config.json
+evm__Shinarium_Beta,evm,Shinarium Beta,534849,testnet,active,Medium,mesh-nodes/evm/shinariumbeta/node-config.json
+evm__Siberium_Test_Network,evm,Siberium Test Network,111000,testnet,active,Medium,mesh-nodes/evm/siberiumtestnetwork/node-config.json
+evm__Songbird_Canary-Network,evm,Songbird Canary-Network,19,review,active,Medium,mesh-nodes/evm/songbirdcanary-network/node-config.json
+evm__Status_Network_Hoodi,evm,Status Network Hoodi,374,testnet,active,Medium,mesh-nodes/evm/statusnetworkhoodi/node-config.json
+evm__Status_Network_Sepolia,evm,Status Network Sepolia,1660990954,testnet,active,Medium,mesh-nodes/evm/statusnetworksepolia/node-config.json
+evm__Syndr_L3_Sepolia,evm,Syndr L3 Sepolia,444444,testnet,active,Medium,mesh-nodes/evm/syndrl3sepolia/node-config.json
+evm__Taiko_Hekla__deprecated_,evm,Taiko Hekla (deprecated),167009,testnet,active,Medium,mesh-nodes/evm/taikohekladeprecated/node-config.json
+evm__Taiko_Hoodi,evm,Taiko Hoodi,167013,testnet,active,Medium,mesh-nodes/evm/taikohoodi/node-config.json
+evm__Tanssi_Demo,evm,Tanssi Demo,5678,testnet,active,Medium,mesh-nodes/evm/tanssidemo/node-config.json
+evm__Testethiq,evm,Testethiq,853211,testnet,active,Medium,mesh-nodes/evm/testethiq/node-config.json
+evm__Thanos_Sepolia,evm,Thanos Sepolia,111551119090,testnet,active,Medium,mesh-nodes/evm/thanossepolia/node-config.json
+evm__Titan_Sepolia,evm,Titan Sepolia,55007,testnet,active,Medium,mesh-nodes/evm/titansepolia/node-config.json
+evm__Tron_Nile,evm,Tron Nile,3448148188,testnet,active,Medium,mesh-nodes/evm/tronnile/node-config.json
+evm__Turkey_Demo_Dev,evm,Turkey Demo Dev,1731313,testnet,active,Medium,mesh-nodes/evm/turkeydemodev/node-config.json
+evm__Vision_-_Vpioneer_Test_Chain,evm,Vision - Vpioneer Test Chain,666666,testnet,active,Medium,mesh-nodes/evm/vision-vpioneertestchain/node-config.json
+evm__Vulture_EVM_Beta,evm,Vulture EVM Beta,3102,review,active,Medium,mesh-nodes/evm/vultureevmbeta/node-config.json
+evm__Waterfall_8_Test_Network,evm,Waterfall 8 Test Network,8601152,testnet,active,Medium,mesh-nodes/evm/waterfall8testnetwork/node-config.json
+evm__Waterfall_9_Test_Network,evm,Waterfall 9 Test Network,1501869,testnet,active,Medium,mesh-nodes/evm/waterfall9testnetwork/node-config.json
+evm__Whitechain_Sepolia,evm,Whitechain Sepolia,1874,testnet,active,Medium,mesh-nodes/evm/whitechainsepolia/node-config.json
+evm__XMTP_Sepolia,evm,XMTP Sepolia,241320161,testnet,active,Medium,mesh-nodes/evm/xmtpsepolia/node-config.json
+evm__XR_Sepolia,evm,XR Sepolia,2730,testnet,active,Medium,mesh-nodes/evm/xrsepolia/node-config.json
+evm__Xchain_Mainnet__Deprecated_,evm,Xchain Mainnet (Deprecated),31753,testnet,active,Medium,mesh-nodes/evm/xchainmainnetdeprecated/node-config.json
+evm__Xprotocol_Sepolia,evm,Xprotocol Sepolia,83868,testnet,active,Medium,mesh-nodes/evm/xprotocolsepolia/node-config.json
+evm__Zeeth_Chain_Dev,evm,Zeeth Chain Dev,859,testnet,active,Medium,mesh-nodes/evm/zeethchaindev/node-config.json
+evm__maistestsubnet,evm,maistestsubnet,43214913,testnet,active,Medium,mesh-nodes/evm/maistestsubnet/node-config.json
