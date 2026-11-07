@@ -25,7 +25,7 @@ Alētheia Production Listener Module: {identity_id}
 Chain Protocol: {chain_id}
 Monitored Target: {target_address}
 RPC Gateway: {rpc_endpoint}
-Archer Chain Analytics Inc. — Zero Trust Sovereign Telemetry
+Archer Chain Analytics — Zero Trust Sovereign Telemetry
 """
 
 import sys
@@ -116,7 +116,7 @@ setup(
     name="{pkg_name}",
     version="1.0.0",
     description="Sovereign Alētheia Production Listener for {identity_id} on {chain_id}",
-    author="Archer Chain Analytics Inc.",
+    author="Archer Chain Analytics",
     packages=find_packages(),
     python_requires=">=3.8",
     install_requires=[],
