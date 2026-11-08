@@ -62,6 +62,10 @@ The headline figure — **1,598** — counts mainnet listener *configurations*: 
 | `catalogue-2026-11-07.csv` | The audited catalogue — all 1,695 devices (DeviceID, family, chain, chain ID, network, status) |
 | `scripts/verify_register.py` | Read-only verifier: reproduces the headline counts, fails closed on any mismatch |
 | `tests/` | Verifier tests |
+| `unit/aletheia_unit.py` | EVM ingestion unit runtime (stdlib Python): chain-ID handshake, finality depth, hash-chained records |
+| `factory/bind_units.py` | Builds a unit package for one DeviceID; SQLite ledger enforces one allocation per DeviceID |
+| `scripts/gate4_lite_evm.py` | Live EVM check (handshake, freshness, tx parse, two-endpoint cross-check) |
+| `docs/UNIT.md`, `docs/BENCH-2026-11-08.md` | What the unit does and does not do; live bench evidence |
 | `.github/workflows/verify.yml` | CI: re-verifies the counts on every push |
 
 ## How to verify this register
@@ -88,6 +92,9 @@ Bound and live-benched at audit date: **UNIT-001** (Ethereum Mainnet) and **SET-
 - **Auditor:** Okwaho, foreperson, on the order of Neil Scott Archer
 - **Sources:** `manifest_with_network_2_mkzx.csv` (SHA-256 01621f25c0523c25…) and `aletheia_master_manifest_FINAL.csv` (SHA-256 c4956547197ea439…) — full hashes in `AUDIT-2026-11-07.md`
 - **Change policy:** register figures change only by re-audit against the source manifests, recorded as a new dated audit. No other edit may restate them.
+
+## Unit status (2026-11-08)
+The EVM unit, binder and allocation ledger are in this repository and tested (`docs/UNIT.md`). Six mainnets were benched live (`docs/BENCH-2026-11-08.md`). Non-EVM families (57 rows) and AcerbE™ signing are not implemented.
 
 ## Limits
 
