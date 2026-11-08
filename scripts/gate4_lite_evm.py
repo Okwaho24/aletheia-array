@@ -12,7 +12,7 @@ and makes no check for placeholder strings (that applies to generated source, no
 Verdicts: PASS (G1-G4) | PARTIAL (G1+G2 ok, G3 or G4 missing) | FAIL:<reason> | NO_ENDPOINT.
 Result reflects this machine's network at run time; it is evidence, not a permanent status.
 """
-import argparse, collections, concurrent.futures as cf, csv, datetime, json, re, sys, threading, time, urllib.error, urllib.parse, urllib.request
+import argparse, collections, concurrent.futures as cf, csv, datetime, http.client, json, re, sys, threading, time, urllib.error, urllib.parse, urllib.request
 
 HEX = re.compile(r"^0x[0-9a-fA-F]+$")
 
@@ -23,7 +23,7 @@ def http_rpc(url, method, params, timeout=8):
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
             d = json.loads(r.read().decode("utf-8", "replace"))
-    except (urllib.error.URLError, OSError, ValueError) as e:
+    except (urllib.error.URLError, OSError, ValueError, http.client.HTTPException) as e:
         return None, f"{type(e).__name__}"
     if not isinstance(d, dict) or "result" not in d or d["result"] is None:
         return None, "rpc-error"
@@ -97,7 +97,7 @@ def verify_chain(chain_id, urls, rpc, now, max_age, tolerance, max_tries=4):
 
 
 def usable(urls):
-    return [u for u in urls if isinstance(u, str) and u.startswith("https://") and "${" not in u and "{" not in u]
+    return [u for u in urls if isinstance(u, str) and u.startswith("https://") and "{" not in u and "@" not in urllib.parse.urlparse(u).netloc]
 
 
 def main(argv=None):

@@ -26,4 +26,13 @@ class T(unittest.TestCase):
     def test_fallback_to_second_url(self): self.assertEqual(self.v(["https://dead.x", "https://a.x", "https://peer.y"])["verdict"], "PASS")
     def test_usable_filters_key_placeholders(self):
         self.assertEqual(g.usable(["https://a", "http://b", "https://c/${KEY}", "wss://d"]), ["https://a"])
+    def test_usable_rejects_credentialed_urls(self):
+        self.assertEqual(g.usable(["https://user:pw@host.example/rpc", "https://ok.example"]), ["https://ok.example"])
+    def test_malformed_http_is_not_a_crash(self):
+        import http.client, urllib.request
+        orig = urllib.request.urlopen
+        def boom(*a, **k): raise http.client.BadStatusLine("junk")
+        urllib.request.urlopen = boom
+        try: self.assertEqual(g.http_rpc("https://x.example", "eth_chainId", [])[0], None)
+        finally: urllib.request.urlopen = orig
 if __name__ == "__main__": unittest.main()

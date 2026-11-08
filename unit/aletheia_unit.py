@@ -17,7 +17,7 @@ NOT implemented (do not claim): signatures (AcerbE signing needs the AcerbE serv
 websocket subscriptions, protection against a malicious RPC provider (single-source trust per block).
 Exit codes: 0 ok, 1 fatal/verification failure, 2 usage or config error.
 """
-import argparse, datetime, hashlib, json, os, re, signal, sys, time, urllib.error, urllib.parse, urllib.request
+import argparse, datetime, hashlib, http.client, json, os, re, signal, sys, time, urllib.error, urllib.parse, urllib.request
 
 VERSION = "1.0.0"
 GENESIS = "0" * 64
@@ -48,6 +48,8 @@ def record_hash(rec):
 
 def valid_endpoint(u):
     p = urllib.parse.urlparse(u)
+    if "@" in p.netloc:
+        return False  # credentials in URLs are refused
     return (p.scheme == "https" and bool(p.netloc)) or (p.scheme == "http" and p.hostname in ("127.0.0.1", "localhost"))
 
 
@@ -91,7 +93,7 @@ def http_call(url, method, params, timeout=10):
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
             d = json.loads(r.read().decode("utf-8", "replace"))
-    except (urllib.error.URLError, OSError, ValueError) as e:
+    except (urllib.error.URLError, OSError, ValueError, http.client.HTTPException) as e:
         raise Transient(f"{type(e).__name__}")
     if not isinstance(d, dict) or d.get("error") or d.get("result") is None:
         raise Transient("rpc-error")

@@ -105,6 +105,16 @@ class T(unittest.TestCase):
         for i, b in enumerate(bad):
             p = os.path.join(self.d.name, f"b{i}.json"); json.dump(b, open(p, "w"))
             with self.assertRaises(ValueError, msg=str(b)): u.load_config(p)
+    def test_malformed_http_reply_is_transient(self):
+        import http.client, urllib.request
+        orig = urllib.request.urlopen
+        def boom(*a, **k): raise http.client.BadStatusLine("junk")
+        urllib.request.urlopen = boom
+        try:
+            with self.assertRaises(u.Transient): u.http_call("https://x.example", "eth_chainId", [])
+        finally: urllib.request.urlopen = orig
+    def test_credentialed_endpoint_rejected(self):
+        self.assertFalse(u.valid_endpoint("https://user:pw@host.example/rpc")); self.assertTrue(u.valid_endpoint("https://host.example/rpc"))
     def test_cli_exit_codes(self):
         c = cfg(self.d.name, [self.url]); go(c, 3); S = os.path.join(HERE, "..", "unit", "aletheia_unit.py")
         ok = subprocess.run([sys.executable, "-I", S, "--verify", c["output"]], capture_output=True, text=True); self.assertEqual(ok.returncode, 0, ok.stderr)
