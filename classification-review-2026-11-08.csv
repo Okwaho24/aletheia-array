@@ -1,0 +1,28 @@
+Tier,DeviceID,Family,ChainName,ChainId,LabelledNetwork
+STRONG,evm__Arbitrum_Blueberry,evm,Arbitrum Blueberry,88153591557,mainnet
+STRONG,evm__Astria_EVM_Dusknet,evm,Astria EVM Dusknet,912559,mainnet
+WEAK,evm__Bool_Network_Beta_Mainnet,evm,Bool Network Beta Mainnet,11100,mainnet
+STRONG,evm__Canto_Tesnet,evm,Canto Tesnet,7701,mainnet
+WEAK,evm__DeepSafe_Beta_Mainnet,evm,DeepSafe Beta Mainnet,10011,mainnet
+STRONG,evm__Forma_Sketchpad,evm,Forma Sketchpad,984123,mainnet
+STRONG,evm__Fuse_Sparknet,evm,Fuse Sparknet,123,mainnet
+STRONG,evm__Garizon_Stage0,evm,Garizon Stage0,90,mainnet
+STRONG,evm__Garizon_Stage1,evm,Garizon Stage1,91,mainnet
+STRONG,evm__Garizon_Stage2,evm,Garizon Stage2,92,mainnet
+STRONG,evm__Garizon_Stage3,evm,Garizon Stage3,93,mainnet
+WEAK,evm__Irys_Mainnet_Beta,evm,Irys Mainnet Beta,3282,mainnet
+STRONG,evm__Kiln,evm,Kiln,1337802,mainnet
+STRONG,evm__Mekong,evm,Mekong,7078815900,mainnet
+STRONG,evm__OP_Celestia_Raspberry,evm,OP Celestia Raspberry,123420111,mainnet
+WEAK,evm__Oort_MainnetDev,evm,Oort MainnetDev,9700,mainnet
+STRONG,evm__Paseo_PassetHub,evm,Paseo PassetHub,420420422,mainnet
+STRONG,evm__Reactive_Kopli,evm,Reactive Kopli,5318008,mainnet
+STRONG,evm__Reactive_Lasna,evm,Reactive Lasna,5318007,mainnet
+STRONG,evm__Taiko_Eldfell_L3,evm,Taiko Eldfell L3,167006,mainnet
+STRONG,evm__Taiko_Grimsvotn_L2,evm,Taiko Grimsvotn L2,167005,mainnet
+STRONG,evm__Taiko_Jolnir_L2,evm,Taiko Jolnir L2,167007,mainnet
+STRONG,evm__Taiko_Katla_L2,evm,Taiko Katla L2,167008,mainnet
+STRONG,evm__Tron_Shasta,evm,Tron Shasta,2494104990,mainnet
+STRONG,evm__Westend_Asset_Hub,evm,Westend Asset Hub,420420421,mainnet
+STRONG,evm__Zhejiang,evm,Zhejiang,1337803,mainnet
+WEAK,solana_svm__Solana_Mainnet_Beta,solana_svm,Solana Mainnet Beta,mainnet-beta,mainnet
