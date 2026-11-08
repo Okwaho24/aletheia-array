@@ -1,6 +1,6 @@
 # Alētheia Array™ — Data Ingestion Devices
 
-**Archer Chain Analytics Inc. · Register of Record**
+**Archer Chain Analytics · Register of Record**
 
 ![Audit](https://img.shields.io/badge/AUDIT-VERIFIED%202026--11--07-dcae3f?style=flat-square)
 ![Register](https://img.shields.io/badge/REGISTER-1%2C695%20DEVICES-161e29?style=flat-square)
@@ -60,17 +60,16 @@ The headline figure — **1,598** — counts mainnet listener *configurations*: 
 |---|---|
 | `AUDIT-2026-11-07.md` | The full audit: sources, method, results, and limits |
 | `catalogue-2026-11-07.csv` | The audited catalogue — all 1,695 devices (DeviceID, family, chain, chain ID, network, status) |
-| `identity_manifest.csv` | Register export (1,695 rows) |
-| `validate_manifest.py` | Manifest validation script |
-| `aletheia_production_factory.py` | Production factory (device configuration generation) |
-| `ARCHITECTURE.md` | System architecture notes |
+| `scripts/verify_register.py` | Read-only verifier: reproduces the headline counts, fails closed on any mismatch |
+| `tests/` | Verifier tests |
+| `.github/workflows/verify.yml` | CI: re-verifies the counts on every push |
 
 ## How to verify this register
 
 1. Open `catalogue-2026-11-07.csv` — it is generated from the audited manifests.
 2. Count rows by the `Network` column: mainnet 1,598 · testnet 93 · review 4 · total 1,695.
 3. Confirm there are no duplicate `DeviceID` values.
-4. Cross-check against `identity_manifest.csv` (1,695 rows).
+4. Or run it in one command: `python3 -I scripts/verify_register.py catalogue-2026-11-07.csv --expect 1695,1598,93,4,23` (exit 0 and `MATCH` means the counts reproduce).
 
 Anyone who performs this count lands on the same figures. That reproducibility is the authority.
 
