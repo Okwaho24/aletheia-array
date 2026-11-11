@@ -1,0 +1,1542 @@
+DeviceID,ChainName,ChainId,Network,Verdict,Endpoint,Height,Detail,CheckedUTC
+evm__,,56,mainnet,PASS,https://bsc-dataseed1.bnbchain.org,132951258,,2026-11-11T10:20:43Z
+evm__0G_Mainnet,0G Mainnet,16661,mainnet,PARTIAL,https://evmrpc.0g.ai,49924874,cross-check,2026-11-11T10:20:42Z
+evm__0XL3,0XL3,7117,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:41Z
+evm__0XTade,0XTade,10248,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:41Z
+evm__1Money_Network_Mainnet,1Money Network Mainnet,21210,mainnet,PARTIAL,https://rpc.mainnet.1money.network,1756011,tx-parse,2026-11-11T10:20:44Z
+evm__1Money_Sidechain_Mainnet,1Money Sidechain Mainnet,21211,mainnet,PARTIAL,https://rpc.sidechain.mainnet.1money.network,1123137,tx-parse,2026-11-11T10:20:46Z
+evm__4GoodNetwork,4GoodNetwork,846000,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:20:41Z
+evm__5ireChain_Mainnet,5ireChain Mainnet,995,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:20:41Z
+evm__6Degree_of_Outreach,6Degree of Outreach,2477,mainnet,PARTIAL,https://rpc.6dochain.com,13010560,tx-parse,2026-11-11T10:20:45Z
+evm__AB_Core_Mainnet,AB Core Mainnet,36888,mainnet,PARTIAL,https://rpc.core.ab.org,16560880,tx-parse,2026-11-11T10:20:56Z
+evm__ACME_Mainnet_Stealth,ACME Mainnet Stealth,8224,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:20:41Z
+evm__ACiD,ACiD,1714,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:20:41Z
+evm__ADF_Chain,ADF Chain,1215,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:41Z
+evm__ADI_Chain,ADI Chain,36900,mainnet,PARTIAL,https://rpc.adifoundation.ai,1942891,cross-check,2026-11-11T10:20:43Z
+evm__AEON_Chain,AEON Chain,10025,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:20:47Z
+evm__AERE_Network,AERE Network,2800,mainnet,PARTIAL,https://rpc.aere.network,26714069,tx-parse,2026-11-11T10:20:47Z
+evm__AEREDIUM,AEREDIUM,237,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:20:41Z
+evm__AIA_Mainnet,AIA Mainnet,1319,mainnet,PASS,https://aia-dataseed1.aiachain.org,55779330,,2026-11-11T10:20:44Z
+evm__AILayer_Mainnet,AILayer Mainnet,2649,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:20:49Z
+evm__AIOZ_Network,AIOZ Network,168,mainnet,PARTIAL,https://eth-dataseed.aioz.network,26049264,"tx-parse,cross-check",2026-11-11T10:20:45Z
+evm__AIW3_Mainnet,AIW3 Mainnet,2045,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:20:42Z
+evm__ALL_Mainnet,ALL Mainnet,651940,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:58Z
+evm__AMA_Mainnet,AMA Mainnet,36969,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:20:44Z
+evm__AME_Chain_Mainnet,AME Chain Mainnet,180,mainnet,PARTIAL,https://node1.amechain.io/,28519127,"tx-parse,cross-check",2026-11-11T10:20:52Z
+evm__APEX,APEX,2662,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:20:44Z
+evm__ARC_Mainnet,ARC Mainnet,1243,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:20:44Z
+evm__ARDENIUM_Athena,ARDENIUM Athena,7895,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:44Z
+evm__ARK_Mainnet,ARK Mainnet,11811,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:44Z
+evm__ARZIO_Chain,ARZIO Chain,456,mainnet,PARTIAL,https://chain-rpc.arzio.co,24662,cross-check,2026-11-11T10:20:46Z
+evm__ASHCHAIN,ASHCHAIN,50366,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:01Z
+evm__AVI_Coin,AVI Coin,963369,mainnet,PARTIAL,https://rpc.avicoin.org,25813,cross-check,2026-11-11T10:20:45Z
+evm__Aarma_Mainnet,Aarma Mainnet,2889,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:45Z
+evm__Abey_Mainnet,Abey Mainnet,179,mainnet,PARTIAL,https://rpc.abeychain.com,34905640,"tx-parse,cross-check",2026-11-11T10:20:48Z
+evm__Abstract,Abstract,2741,mainnet,PARTIAL,https://api.mainnet.abs.xyz,89033903,cross-check,2026-11-11T10:20:47Z
+evm__Abyss_Protocol,Abyss Protocol,229772,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:46Z
+evm__Acala_Network,Acala Network,787,mainnet,PARTIAL,https://eth-rpc-acala.aca-api.network,12408767,"tx-parse,cross-check",2026-11-11T10:20:50Z
+evm__Access_Network,Access Network,22888,mainnet,PARTIAL,https://accesschain.org/rpc,50554,tx-parse,2026-11-11T10:20:55Z
+evm__Accumulate_Kermit,Accumulate Kermit,2478899481,mainnet,FAIL:chainid-mismatch:317849881,,,chainid-mismatch:317849881,2026-11-11T10:20:47Z
+evm__Acria_IntelliChain,Acria IntelliChain,47,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:47Z
+evm__Action_Mainnet,Action Mainnet,21000,mainnet,PARTIAL,https://rpc.actionblockchain.org,14782780,"tx-parse,cross-check",2026-11-11T10:20:50Z
+evm__Adil_Chain_V2_Mainnet,Adil Chain V2 Mainnet,7576,mainnet,PARTIAL,https://adilchain-rpc.io,22710553,"tx-parse,cross-check",2026-11-11T10:20:53Z
+evm__Adiri,Adiri,2017,mainnet,PASS,https://rpc.telcoin.network,527953,,2026-11-11T10:20:49Z
+evm__Aerie_Network,Aerie Network,84886,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:47Z
+evm__Agung_Network,Agung Network,9990,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:48Z
+evm__AirDAO_Mainnet,AirDAO Mainnet,16718,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:48Z
+evm__Akroma,Akroma,200625,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:48Z
+evm__Alaya_Mainnet,Alaya Mainnet,201018,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:50Z
+evm__Aleph_Zero,Aleph Zero,2039,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:50Z
+evm__Aleph_Zero_EVM,Aleph Zero EVM,41455,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:49Z
+evm__Algen,Algen,8911,mainnet,PARTIAL,https://rpc.algen.network,26407290,cross-check,2026-11-11T10:20:51Z
+evm__Algen_Layer2,Algen Layer2,8921,mainnet,PARTIAL,https://rpc.alg2.algen.network,39708694,cross-check,2026-11-11T10:20:51Z
+evm__Algol,Algol,2089,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:20:50Z
+evm__Algorand,Algorand,4160,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:20:50Z
+evm__AlienX_Mainnet,AlienX Mainnet,10241024,mainnet,PARTIAL,https://rpc.alienxchain.io/http,2367283,cross-check,2026-11-11T10:20:51Z
+evm__All_About_Health,All About Health,21133,mainnet,FAIL:no-block,,,no-block,2026-11-11T10:20:52Z
+evm__Alph_Network,Alph Network,8738,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:50Z
+evm__Alpha_Chain_Mainnet,Alpha Chain Mainnet,3111,mainnet,PARTIAL,https://rpc.goalpha.org,11722023,cross-check,2026-11-11T10:20:53Z
+evm__Alphabet_Mainnet,Alphabet Mainnet,111222333444,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:51Z
+evm__AltLayer_Zero_Gas_Network,AltLayer Zero Gas Network,4000003,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:51Z
+evm__Altair,Altair,2088,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:20:51Z
+evm__Altblockscan_Mainnet,Altblockscan Mainnet,191919,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:51Z
+evm__Altcoinchain,Altcoinchain,2330,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:20:51Z
+evm__Alterscope,Alterscope,202209,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:20:51Z
+evm__Althea_L1_Mainnet,Althea L1 Mainnet,258432,mainnet,PARTIAL,https://rpc.althea.zone,13796915,"tx-parse,cross-check",2026-11-11T10:20:54Z
+evm__AlveyChain_Mainnet,AlveyChain Mainnet,3797,mainnet,PARTIAL,https://elves-core1.alvey.io,45093576,tx-parse,2026-11-11T10:20:57Z
+evm__Alyx_Mainnet,Alyx Mainnet,1314,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:52Z
+evm__AmChain,AmChain,999999,mainnet,PARTIAL,https://node1.amchain.net,27962120,"tx-parse,cross-check",2026-11-11T10:20:58Z
+evm__AmStar_Mainnet,AmStar Mainnet,1388,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:20:53Z
+evm__Amana,Amana,8134,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:20:52Z
+evm__Amana_Mixnet,Amana Mixnet,81342,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:20:52Z
+evm__Amana_Privnet,Amana Privnet,81343,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:20:52Z
+evm__Amauti,Amauti,24116,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:20:52Z
+evm__AmaxSmartchain,AmaxSmartchain,662,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:52Z
+evm__Ambros_Chain_Mainnet,Ambros Chain Mainnet,880,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:52Z
+evm__Amplify_Subnet,Amplify Subnet,78430,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:20:52Z
+evm__Ancient8,Ancient8,888888888,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:53Z
+evm__Anduschain_Mainnet,Anduschain Mainnet,14288640,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:21:01Z
+evm__Animechain_Mainnet,Animechain Mainnet,69000,mainnet,PARTIAL,https://public-rpc.anime.xyz,803045,cross-check,2026-11-11T10:20:54Z
+evm__Antofy_Mainnet,Antofy Mainnet,2202,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:53Z
+evm__Anytype_EVM_Chain,Anytype EVM Chain,1701,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:53Z
+evm__ApeChain,ApeChain,33139,mainnet,PARTIAL,https://rpc.apechain.com,54515558,cross-check,2026-11-11T10:20:53Z
+evm__Apertum,Apertum,2786,mainnet,PARTIAL,https://rpc.apertum.io/ext/bc/YDJ1r9RMkewATmA7B35q1bdV18aywzmdiXwd9zGBq3uQjsCnn/rpc,16119481,cross-check,2026-11-11T10:20:54Z
+evm__Apex_Fusion_-_Nexus_Mainnet,Apex Fusion - Nexus Mainnet,9069,mainnet,PARTIAL,https://rpc.nexus.mainnet.apexfusion.org/,7905623,cross-check,2026-11-11T10:20:57Z
+evm__Apollo_Mainnet,Apollo Mainnet,62606,mainnet,PARTIAL,https://mainnet-rpc.apolloscan.io,13602174,"tx-parse,cross-check",2026-11-11T10:21:10Z
+evm__AppChain,AppChain,466,mainnet,FAIL:stale:19207s,,,stale:19207s,2026-11-11T10:20:55Z
+evm__Aquachain,Aquachain,61717561,mainnet,PARTIAL,https://c.onical.org,1011742,"tx-parse,cross-check",2026-11-11T10:21:05Z
+evm__Arbitrum_Blueberry,Arbitrum Blueberry,88153591557,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:58Z
+evm__Arbitrum_Nova,Arbitrum Nova,42170,mainnet,PASS,https://nova.arbitrum.io/rpc,85292454,,2026-11-11T10:20:56Z
+evm__Arbitrum_One,Arbitrum One,42161,mainnet,PASS,https://arb1.arbitrum.io/rpc,523251047,,2026-11-11T10:20:57Z
+evm__Arbitrum_on_xDai,Arbitrum on xDai,200,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:56Z
+evm__Arc,Arc,5042,mainnet,PASS,https://rpc.mainnet.arc.io,30674327,,2026-11-11T10:20:58Z
+evm__Arcadia_Mainnet,Arcadia Mainnet,4278608,mainnet,PARTIAL,https://arcadia.khalani.network,26839659,cross-check,2026-11-11T10:20:57Z
+evm__Areum_Network_Mainnet,Areum Network Mainnet,463,mainnet,PASS,https://mainnet-rpc.areum.network,26454412,,2026-11-11T10:20:59Z
+evm__Arevia,Arevia,2309,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:20:57Z
+evm__Argochain,Argochain,1299,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:57Z
+evm__Armonia_Eva_Chain_Mainnet,Armonia Eva Chain Mainnet,160,mainnet,FAIL:chainid-mismatch:2248,,,chainid-mismatch:2248,2026-11-11T10:20:58Z
+evm__Artela_Mainnet,Artela Mainnet,11820,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:21:05Z
+evm__Arthera_Mainnet,Arthera Mainnet,10242,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:57Z
+evm__Asset_Chain_Mainnet,Asset Chain Mainnet,42420,mainnet,PARTIAL,https://mainnet-rpc.assetchain.org,2069052,cross-check,2026-11-11T10:21:00Z
+evm__Astar,Astar,592,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:30Z
+evm__Astar_zKyoto,Astar zKyoto,6038361,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:58Z
+evm__Astar_zkEVM,Astar zkEVM,3776,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:58Z
+evm__Astra,Astra,11110,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:58Z
+evm__Astria_EVM_Dusknet,Astria EVM Dusknet,912559,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:58Z
+evm__Atelier,Atelier,1971,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:58Z
+evm__Aternos,Aternos,12020,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:20:59Z
+evm__Atheios,Atheios,1620,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:58Z
+evm__Athene_Parthenon,Athene Parthenon,281123,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:58Z
+evm__Athereum,Athereum,43110,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:30Z
+evm__Atlas,Atlas,622463,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:20:58Z
+evm__Atleta_Network,Atleta Network,2440,mainnet,PARTIAL,https://rpc.mainnet.atleta.network,6617358,cross-check,2026-11-11T10:21:00Z
+evm__Atleta_Olympia,Atleta Olympia,2340,mainnet,PARTIAL,https://testnet-rpc.atleta.network,10484269,cross-check,2026-11-11T10:21:01Z
+evm__Ault_Blockchain_Mainnet,Ault Blockchain Mainnet,904,mainnet,PARTIAL,https://main-json-rpc.cloud.aultblockchain.xyz,34636734,"tx-parse,cross-check",2026-11-11T10:21:11Z
+evm__Aura_Mainnet,Aura Mainnet,6322,mainnet,PARTIAL,https://jsonrpc.aura.network,20276776,"tx-parse,cross-check",2026-11-11T10:21:04Z
+evm__Aurora_Mainnet,Aurora Mainnet,1313161554,mainnet,PARTIAL,https://mainnet.aurora.dev,224052076,tx-parse,2026-11-11T10:21:05Z
+evm__Autobahn_Network,Autobahn Network,45000,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:00Z
+evm__Automata_Mainnet,Automata Mainnet,65536,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:02Z
+evm__Autonity_Mainnet,Autonity Mainnet,65000000,mainnet,PARTIAL,https://autonity.rpc.web3cdn.network,39387356,"tx-parse,cross-check",2026-11-11T10:21:07Z
+evm__Auxilium_Network_Mainnet,Auxilium Network Mainnet,28945486,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:01Z
+evm__Avalanche_C-Chain,Avalanche C-Chain,43114,mainnet,PASS,https://api.avax.network/ext/bc/C/rpc,100014517,,2026-11-11T10:21:02Z
+evm__Aves_Mainnet,Aves Mainnet,33333,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:02Z
+evm__Avocado,Avocado,634,mainnet,PARTIAL,https://rpc.avocado.instadapp.io,97124672,cross-check,2026-11-11T10:21:03Z
+evm__B2_Hub_Mainnet,B2 Hub Mainnet,213,mainnet,PARTIAL,https://hub-rpc.bsquared.network,6766051,"tx-parse,cross-check",2026-11-11T10:21:10Z
+evm__B2_Mainnet,B2 Mainnet,223,mainnet,PASS,https://rpc.bsquared.network,40614339,,2026-11-11T10:21:06Z
+evm__B3,B3,8333,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:21:03Z
+evm__BC_Hyper_Chain_Mainnet,BC Hyper Chain Mainnet,3030,mainnet,PARTIAL,https://mainapi.bchscan.io,432425,tx-parse,2026-11-11T10:21:15Z
+evm__BEXChain,BEXChain,140586,mainnet,PARTIAL,https://rpc.bexchain.com,118889,cross-check,2026-11-11T10:21:06Z
+evm__BIE,BIE,1342,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:21:08Z
+evm__BLXq_Mainnet,BLXq Mainnet,1108,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:05Z
+evm__BM_Chain,BM Chain,6800,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:21:05Z
+evm__BMC_Mainnet,BMC Mainnet,188,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:05Z
+evm__BNB_Smart_Chain_Mainnet,BNB Smart Chain Mainnet,56,mainnet,PASS,https://bsc-dataseed1.bnbchain.org,132951313,,2026-11-11T10:21:08Z
+evm__BOAT_Mainnet,BOAT Mainnet,8047,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:06Z
+evm__BOB,BOB,60808,mainnet,PARTIAL,https://rpc.gobob.xyz,40765240,cross-check,2026-11-11T10:21:08Z
+evm__BOMB_Chain,BOMB Chain,2300,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:06Z
+evm__BON_Network,BON Network,1898,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:21:06Z
+evm__BORAchain_mainnet,BORAchain mainnet,77001,mainnet,PARTIAL,https://public-node.api.boraportal.com/bora/mainnet,146028278,tx-parse,2026-11-11T10:21:20Z
+evm__BOSagora_Mainnet,BOSagora Mainnet,2151,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:10Z
+evm__BPX_Chain,BPX Chain,279,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:08Z
+evm__BRC_Chain_Mainnet,BRC Chain Mainnet,12123,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:08Z
+evm__BROChain_Mainnet,BROChain Mainnet,108801,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:08Z
+evm__BSL_Mainnet,BSL Mainnet,21912,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:21:08Z
+evm__BST_Chain,BST Chain,7007,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:08Z
+evm__BTC20_Smart_Chain,BTC20 Smart Chain,963,mainnet,PARTIAL,https://rpc.bitcoincode.technology/,32162691,cross-check,2026-11-11T10:21:09Z
+evm__BTCIX_Network,BTCIX Network,19845,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:08Z
+evm__Bahamut,Bahamut,5165,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:25Z
+evm__Bahamut_horizon,Bahamut horizon,2552,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:17Z
+evm__Bahamut_ocean,Bahamut ocean,4058,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:08Z
+evm__Bandai_Namco_Research_Verse_Mainnet,Bandai Namco Research Verse Mainnet,876,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:10Z
+evm__Base,Base,8453,mainnet,PASS,https://mainnet.base.org/,56010476,,2026-11-11T10:21:11Z
+evm__Basecamp,Basecamp,123420001114,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:10Z
+evm__BasedAI,BasedAI,32323,mainnet,PARTIAL,https://mainnet.basedaibridge.com/rpc/,4955885,"tx-parse,cross-check",2026-11-11T10:21:16Z
+evm__BattleChain_Mainnet,BattleChain Mainnet,626,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:10Z
+evm__BeOne_Chain_Mainnet,BeOne Chain Mainnet,818,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:13Z
+evm__Beagle_Messaging_Chain,Beagle Messaging Chain,1515,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:21:10Z
+evm__Beam,Beam,4337,mainnet,PASS,https://build.onbeam.com/rpc,9874024,,2026-11-11T10:21:12Z
+evm__BeanEco_SmartChain,BeanEco SmartChain,535037,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:10Z
+evm__Bear_Network_Chain_Mainnet,Bear Network Chain Mainnet,641230,mainnet,PARTIAL,https://brnkc-mainnet.bearnetwork.net,1210886,"tx-parse,cross-check",2026-11-11T10:21:23Z
+evm__Berachain,Berachain,80094,mainnet,PASS,https://rpc.berachain.com,28688877,,2026-11-11T10:21:13Z
+evm__Berachain_Artio,Berachain Artio,80085,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:21:11Z
+evm__Berachain_Bepolia,Berachain Bepolia,80069,mainnet,PARTIAL,https://bepolia.rpc.berachain.com,27760719,cross-check,2026-11-11T10:21:12Z
+evm__Berachain_bArtio,Berachain bArtio,80084,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:21:12Z
+evm__BerylBit_Mainnet,BerylBit Mainnet,9012,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:12Z
+evm__Bethel_Sydney,Bethel Sydney,202202,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:28Z
+evm__Betherance,Betherance,1605,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:12Z
+evm__Beverly_Hills,Beverly Hills,90210,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:13Z
+evm__Bharat_Blockchain_Network,Bharat Blockchain Network,7099,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:13Z
+evm__Bharat_Blockchain_Network_Mainnet,Bharat Blockchain Network Mainnet,8099,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:13Z
+evm__Bifrost_Mainnet,Bifrost Mainnet,3068,mainnet,PARTIAL,https://public-01.mainnet.bifrostnetwork.com/rpc,40180428,tx-parse,2026-11-11T10:21:19Z
+evm__Bifrost_Polkadot_Mainnet,Bifrost Polkadot Mainnet,996,mainnet,PARTIAL,https://hk.p.bifrost-rpc.liebi.com,14628555,"tx-parse,cross-check",2026-11-11T10:21:19Z
+evm__BigShortBets,BigShortBets,2137,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:21:14Z
+evm__Billions,Billions,45056,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:14Z
+evm__Binary_Mainnet,Binary Mainnet,624,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:15Z
+evm__BinaryChain_Mainnet,BinaryChain Mainnet,987,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:15Z
+evm__BirdLayer,BirdLayer,53456,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:15Z
+evm__Birdee-2,Birdee-2,712,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:15Z
+evm__BitTorrent_Chain_Donau,BitTorrent Chain Donau,1029,mainnet,PARTIAL,https://pre-rpc.bt.io,75531620,"tx-parse,cross-check",2026-11-11T10:21:19Z
+evm__BitTorrent_Chain_Mainnet,BitTorrent Chain Mainnet,199,mainnet,PARTIAL,https://rpc.bt.io,75222706,tx-parse,2026-11-11T10:21:19Z
+evm__BitYuan_Mainnet,BitYuan Mainnet,2999,mainnet,PARTIAL,https://mainnet.bityuan.com/eth,48325465,cross-check,2026-11-11T10:21:31Z
+evm__Bitasset_Chain_Mainnet,Bitasset Chain Mainnet,723,mainnet,PARTIAL,https://rpc.bitassetchain.io,27419234,"tx-parse,cross-check",2026-11-11T10:21:22Z
+evm__Bitchain_Mainnet,Bitchain Mainnet,198,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:19Z
+evm__Bitcichain_Mainnet,Bitcichain Mainnet,1907,mainnet,PARTIAL,https://rpc.bitci.com,14094176,"tx-parse,cross-check",2026-11-11T10:21:23Z
+evm__Bitcoin_Chain,Bitcoin Chain,8086,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:19Z
+evm__Bitcoin_EVM,Bitcoin EVM,2203,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:19Z
+evm__Bitfinity_Network_Mainnet,Bitfinity Network Mainnet,355110,mainnet,PARTIAL,https://mainnet.bitfinity.network,12772348,"tx-parse,cross-check",2026-11-11T10:21:22Z
+evm__Bitgert_Mainnet,Bitgert Mainnet,32520,mainnet,PARTIAL,https://rpc-bitgert.icecreamswap.com,9964828,"tx-parse,cross-check",2026-11-11T10:21:25Z
+evm__Bitharvest_Chain_Mainnet,Bitharvest Chain Mainnet,14149,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:20Z
+evm__Bitica_Chain_Mainnet,Bitica Chain Mainnet,188710,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:36Z
+evm__Bitindi_Mainnet,Bitindi Mainnet,4099,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:20Z
+evm__Bitlayer_Mainnet,Bitlayer Mainnet,200901,mainnet,PARTIAL,https://rpc.bitlayer.org,27371702,cross-check,2026-11-11T10:21:22Z
+evm__Bitlazer,Bitlazer,14235,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:22Z
+evm__Bitnet,Bitnet,210,mainnet,PARTIAL,https://rpc.bitnetmoney.com,7970769,tx-parse,2026-11-11T10:21:27Z
+evm__Bitrock_Mainnet,Bitrock Mainnet,7171,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:38Z
+evm__Bitroot,Bitroot,15888,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:21:25Z
+evm__Bittex_Mainnet,Bittex Mainnet,3690,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:23Z
+evm__BlackFort_Exchange_Network,BlackFort Exchange Network,488,mainnet,PARTIAL,https://rpc.blackfort.network/mainnet/rpc,21753973,"tx-parse,cross-check",2026-11-11T10:21:28Z
+evm__Blast,Blast,81457,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:21:25Z
+evm__Blast_Mainnet,Blast Mainnet,238,mainnet,PARTIAL,https://zkevmrpc.blastchain.org,17746676,"tx-parse,cross-check",2026-11-11T10:21:34Z
+evm__Blessnet,Blessnet,45513,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:25Z
+evm__Blitz_Subnet,Blitz Subnet,1343,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:21:25Z
+evm__BlocX_Mainnet,BlocX Mainnet,879151,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:25Z
+evm__BlockChain_Station_Mainnet,BlockChain Station Mainnet,707,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:25Z
+evm__BlockEx_Mainnet,BlockEx Mainnet,221,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:25Z
+evm__BlockX_Mainnet,BlockX Mainnet,19191,mainnet,FAIL:stale:2124282s,,,stale:2124282s,2026-11-11T10:21:27Z
+evm__Blockchain_Genesis_Mainnet,Blockchain Genesis Mainnet,10101,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:26Z
+evm__Blockfit,Blockfit,202424,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:25Z
+evm__Blockton_Blockchain,Blockton Blockchain,8272,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:25Z
+evm__Bloom_Genesis_Mainnet,Bloom Genesis Mainnet,333313,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:26Z
+evm__Blucrates,Blucrates,727,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:26Z
+evm__Boba_Avax,Boba Avax,43288,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:26Z
+evm__Boba_BNB_Mainnet,Boba BNB Mainnet,56288,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:27Z
+evm__Boba_BNB_Mainnet_Old,Boba BNB Mainnet Old,97288,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:21:26Z
+evm__Boba_Network,Boba Network,288,mainnet,PASS,https://mainnet.boba.network,41693823,,2026-11-11T10:21:28Z
+evm__Bobabeam,Bobabeam,1294,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:27Z
+evm__Bobaopera,Bobaopera,301,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:27Z
+evm__Bool_Network_Beta_Mainnet,Bool Network Beta Mainnet,11100,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:21:28Z
+evm__Botanix_Mainnet,Botanix Mainnet,3637,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:21:35Z
+evm__BounceBit_Mainnet,BounceBit Mainnet,6001,mainnet,FAIL:no-block,,,no-block,2026-11-11T10:21:38Z
+evm__Boyaa,Boyaa,434,mainnet,PARTIAL,https://rpc.boyaa.network,35156328,"tx-parse,cross-check",2026-11-11T10:21:40Z
+evm__BrainArk,BrainArk,1236,mainnet,PARTIAL,https://rpc.brainark.online,17785255,"tx-parse,cross-check",2026-11-11T10:21:34Z
+evm__Bronos_Mainnet,Bronos Mainnet,1039,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:21:28Z
+evm__Btachain,Btachain,1657,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:29Z
+evm__Bulletin_Subnet,Bulletin Subnet,78431,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:21:29Z
+evm__Bullions_Smart_Chain,Bullions Smart Chain,8732,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:29Z
+evm__BuyCex_Infinity_Chain,BuyCex Infinity Chain,323,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:29Z
+evm__C4EI,C4EI,21004,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:29Z
+evm__C9XChain,C9XChain,3230,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:29Z
+evm__CAGA_mainnet,CAGA mainnet,72888,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:29Z
+evm__CENNZnet_Azalea,CENNZnet Azalea,21337,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:29Z
+evm__CENNZnet_Nikau,CENNZnet Nikau,3001,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:30Z
+evm__CENNZnet_Rata,CENNZnet Rata,3000,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:21:29Z
+evm__CHEESE_Blockchain,CHEESE Blockchain,69420,mainnet,PASS,https://cheesescan.com/rpc,10861502,,2026-11-11T10:21:33Z
+evm__CIC_Chain_Mainnet,CIC Chain Mainnet,1353,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:30Z
+evm__CLV_Parachain,CLV Parachain,1024,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:30Z
+evm__CMDAO_BBQ_Chain,CMDAO BBQ Chain,190,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:30Z
+evm__CMP-Mainnet,CMP-Mainnet,256256,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:30Z
+evm__CO2e_Chain,CO2e Chain,171,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:21:47Z
+evm__COINSEC_Network,COINSEC Network,57451,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:46Z
+evm__COINZAX,COINZAX,1310,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:30Z
+evm__CONET_Cancun,CONET Cancun,224433,mainnet,FAIL:chainid-mismatch:224422,,,chainid-mismatch:224422,2026-11-11T10:21:31Z
+evm__CONET_Mainnet,CONET Mainnet,224400,mainnet,FAIL:chainid-mismatch:224422,,,chainid-mismatch:224422,2026-11-11T10:21:31Z
+evm__CONX_Chain,CONX Chain,37,mainnet,PARTIAL,https://dimension-evm-rpc.xpla.dev,22185348,"tx-parse,cross-check",2026-11-11T10:21:36Z
+evm__COTI,COTI,2632500,mainnet,PARTIAL,https://mainnet.coti.io/rpc,10342075,"tx-parse,cross-check",2026-11-11T10:21:36Z
+evm__CURVE_Mainnet,CURVE Mainnet,827431,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:33Z
+evm__CXM,CXM,890,mainnet,PARTIAL,https://rpcs.marschain.net/,7418323,cross-check,2026-11-11T10:21:34Z
+evm__CYBERTRUST,CYBERTRUST,85449,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:21:34Z
+evm__Callisto_Mainnet,Callisto Mainnet,820,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:34Z
+evm__CamDL_Mainnet,CamDL Mainnet,95,mainnet,PARTIAL,https://rpc1.camdl.gov.kh/,39877464,"tx-parse,cross-check",2026-11-11T10:21:42Z
+evm__Camelark_Mainnet,Camelark Mainnet,20001,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:34Z
+evm__Camino_C-Chain,Camino C-Chain,500,mainnet,PARTIAL,https://api.camino.network/ext/bc/C/rpc,7901123,cross-check,2026-11-11T10:21:36Z
+evm__Camp_Network_Mainnet,Camp Network Mainnet,484,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:35Z
+evm__Candle,Candle,534,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:35Z
+evm__CandyChain,CandyChain,2828,mainnet,PARTIAL,https://publicrpc.candychain.io,2838587,"tx-parse,cross-check",2026-11-11T10:21:39Z
+evm__Canto,Canto,7700,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:45Z
+evm__Canto_Tesnet,Canto Tesnet,7701,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:21:36Z
+evm__Canxium_Mainnet,Canxium Mainnet,3003,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:21:44Z
+evm__Capital_Exchange,Capital Exchange,343,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:36Z
+evm__Carbon_EVM,Carbon EVM,9790,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:36Z
+evm__CarrChain_Mainnet,CarrChain Mainnet,7667,mainnet,PARTIAL,https://rpc.carrchain.io,359400,cross-check,2026-11-11T10:21:38Z
+evm__Catalyst,Catalyst,2032,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:21:36Z
+evm__Catecoin_Chain_Mainnet,Catecoin Chain Mainnet,1618,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:21:36Z
+evm__Catena_Mainnet,Catena Mainnet,2121,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:37Z
+evm__Celo_Mainnet,Celo Mainnet,42220,mainnet,PARTIAL,https://forno.celo.org,82491738,cross-check,2026-11-11T10:21:38Z
+evm__Centrifuge,Centrifuge,2031,mainnet,FAIL:no-handshake:rpc-error,,,no-handshake:rpc-error,2026-11-11T10:21:40Z
+evm__ChadChain,ChadChain,97912060,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:38Z
+evm__Chain_Verse_Mainnet,Chain Verse Mainnet,5555,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:39Z
+evm__Chang_Chain_Foundation_Mainnet,Chang Chain Foundation Mainnet,5858,mainnet,PARTIAL,https://rpc.cthscan.com/,2726740,"tx-parse,cross-check",2026-11-11T10:21:46Z
+evm__CheeseChain,CheeseChain,383353,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:21:38Z
+evm__Chiliz_Chain_Mainnet,Chiliz Chain Mainnet,88888,mainnet,PASS,https://rpc.chiliz.com,39207488,,2026-11-11T10:21:41Z
+evm__Chips_Network,Chips Network,2882,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:39Z
+evm__ChooChain,ChooChain,247,mainnet,PARTIAL,https://rpc.choochain.io,7890680,cross-check,2026-11-11T10:21:42Z
+evm__Citrate,Citrate,40204,mainnet,PARTIAL,https://rpc.citrate.ai,723298,"tx-parse,cross-check",2026-11-11T10:21:42Z
+evm__Citrea_Mainnet,Citrea Mainnet,4114,mainnet,PARTIAL,https://rpc.mainnet.citrea.xyz,15144988,"tx-parse,cross-check",2026-11-11T10:21:42Z
+evm__Citronus,Citronus,50000,mainnet,PARTIAL,https://rpc.citronus.com,18334,cross-check,2026-11-11T10:21:42Z
+evm__ClawCoin,ClawCoin,11111111,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:40Z
+evm__CloudTx_Mainnet,CloudTx Mainnet,31223,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:40Z
+evm__CloudWalk_Mainnet,CloudWalk Mainnet,2009,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:21:40Z
+evm__Cloudverse_Subnet,Cloudverse Subnet,33210,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:21:40Z
+evm__ClubMOS,ClubMOS,2255,mainnet,PARTIAL,https://rpc.mosscan.com,9101898,"tx-parse,cross-check",2026-11-11T10:21:47Z
+evm__ClubMos_Mainnet,ClubMos Mainnet,1188,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:57Z
+evm__Codefin_Mainnet,Codefin Mainnet,9223,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:42Z
+evm__Codex,Codex,81224,mainnet,PARTIAL,https://rpc.codex.xyz,32747218,cross-check,2026-11-11T10:21:43Z
+evm__CoinAfrica,CoinAfrica,35147,mainnet,PARTIAL,https://rpc.coinafrica.tech,3624827,"tx-parse,cross-check",2026-11-11T10:21:48Z
+evm__CoinEx_Smart_Chain_Mainnet,CoinEx Smart Chain Mainnet,52,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:42Z
+evm__Coinbit_Mainnet,Coinbit Mainnet,112,mainnet,PARTIAL,https://coinbit-rpc-mainnet.chain.sbcrypto.app,55478601,"tx-parse,cross-check",2026-11-11T10:21:56Z
+evm__Coinweb_BNB_shard,Coinweb BNB shard,2222222,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:21:43Z
+evm__Combo_Mainnet,Combo Mainnet,9980,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:43Z
+evm__Compverse_Mainnet,Compverse Mainnet,6779,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:43Z
+evm__Conduit_Subnet,Conduit Subnet,78432,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:21:43Z
+evm__Conflux_eSpace,Conflux eSpace,1030,mainnet,PARTIAL,https://evm.confluxrpc.com,161263146,"tx-parse,cross-check",2026-11-11T10:21:50Z
+evm__ConnectorManager,ConnectorManager,38400,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:59Z
+evm__ConnectorManager_Robin,ConnectorManager Robin,38401,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:59Z
+evm__Conwai_Mainnet,Conwai Mainnet,668668,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:44Z
+evm__Core_Blockchain_Mainnet,Core Blockchain Mainnet,1116,mainnet,PASS,https://rpc.coredao.org/,40359489,,2026-11-11T10:21:46Z
+evm__Corn,Corn,21000000,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:46Z
+evm__Cosmic_Chain,Cosmic Chain,67588,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:21:46Z
+evm__CpChain_Mainnet,CpChain Mainnet,86608,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:46Z
+evm__Crab_Network,Crab Network,44,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:46Z
+evm__CratD2C,CratD2C,2310,mainnet,PARTIAL,https://node1.cratd2csmartchain.io,29319088,tx-parse,2026-11-11T10:21:52Z
+evm__Credit_Smart_Chain,Credit Smart Chain,13308,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:21:47Z
+evm__Credit_Smart_Chain_Mainnet,Credit Smart Chain Mainnet,4400,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:21:47Z
+evm__Creditcoin,Creditcoin,102030,mainnet,PARTIAL,https://mainnet3.creditcoin.network,4627358,"tx-parse,cross-check",2026-11-11T10:21:52Z
+evm__Cronos_Mainnet,Cronos Mainnet,25,mainnet,PASS,https://evm.cronos.org,105205608,,2026-11-11T10:21:48Z
+evm__Cronos_zkEVM_Mainnet,Cronos zkEVM Mainnet,388,mainnet,PARTIAL,https://mainnet.zkevm.cronos.org,2687244,cross-check,2026-11-11T10:21:48Z
+evm__CrossFi_Mainnet,CrossFi Mainnet,4158,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:21:55Z
+evm__Crossbell,Crossbell,3737,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:47Z
+evm__Crynux_on_Base,Crynux on Base,18896214,mainnet,FAIL:stale:7691s,,,stale:7691s,2026-11-11T10:21:51Z
+evm__Crypto_Emergency,Crypto Emergency,193,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:48Z
+evm__CryptoChain,CryptoChain,900190,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:21:48Z
+evm__CryptoCoinPay,CryptoCoinPay,10823,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:21:48Z
+evm__CryptoX,CryptoX,158245,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:48Z
+evm__Crystaleum,Crystaleum,103090,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:48Z
+evm__Ctex_Scan_Blockchain,Ctex Scan Blockchain,1455,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:21:56Z
+evm__Cube_Chain_Mainnet,Cube Chain Mainnet,1818,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:05Z
+evm__Cuckoo_Chain,Cuckoo Chain,1200,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:21:49Z
+evm__Curtis,Curtis,33111,mainnet,PARTIAL,https://rpc.curtis.apechain.com,37245925,cross-check,2026-11-11T10:21:50Z
+evm__Cyber_Mainnet,Cyber Mainnet,7560,mainnet,PASS,https://cyber.alt.technology/,40481971,,2026-11-11T10:21:51Z
+evm__CyberChain_Mainnet,CyberChain Mainnet,65535,mainnet,PARTIAL,https://rpc.cyberchain.xyz/,7116348,"tx-parse,cross-check",2026-11-11T10:21:54Z
+evm__CyberdeckNet,CyberdeckNet,1146703430,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:21:51Z
+evm__Cybria_Mainnet,Cybria Mainnet,6661,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:51Z
+evm__Cycle_Network_Mainnet_Frigate,Cycle Network Mainnet Frigate,88688,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:51Z
+evm__Cycle_Network_Mainnet_Sailboat,Cycle Network Mainnet Sailboat,77677,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:51Z
+evm__Cypherium_Mainnet,Cypherium Mainnet,16166,mainnet,PARTIAL,https://pubnodes.cypherium.io/rpc,376531,"tx-parse,cross-check",2026-11-11T10:22:00Z
+evm__D-Chain_Mainnet,D-Chain Mainnet,1951,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:52Z
+evm__DAX_CHAIN,DAX CHAIN,142,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:52Z
+evm__DBK_Chain,DBK Chain,20240603,mainnet,PARTIAL,https://rpc.mainnet.dbkchain.io,38465589,cross-check,2026-11-11T10:21:53Z
+evm__DC_Mainnet,DC Mainnet,176,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:52Z
+evm__DCHAIN,DCHAIN,2716446429837000,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:21:53Z
+evm__DCpay_Mainnet,DCpay Mainnet,21223,mainnet,PARTIAL,https://rpc.dcpay.io,33693278,"tx-parse,cross-check",2026-11-11T10:21:57Z
+evm__DFK_Chain,DFK Chain,53935,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:21:53Z
+evm__DIV_Chain,DIV Chain,40000,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:53Z
+evm__DM2_Verse_Mainnet,DM2 Verse Mainnet,68770,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:54Z
+evm__DMD_Diamond,DMD Diamond,17771,mainnet,PARTIAL,https://rpc.bit.diamonds,253938,"tx-parse,cross-check",2026-11-11T10:22:00Z
+evm__DOID,DOID,53277,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:54Z
+evm__DOS_Chain,DOS Chain,7979,mainnet,FAIL:stale:7828540s,,,stale:7828540s,2026-11-11T10:21:56Z
+evm__DPU_Chain,DPU Chain,2611555,mainnet,PARTIAL,https://sc-rpc.dpu.ac.th,4512728,"tx-parse,cross-check",2026-11-11T10:21:59Z
+evm__DRAC_Network,DRAC Network,3912,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:21:56Z
+evm__DUST_Mainnet,DUST Mainnet,55378,mainnet,PARTIAL,https://rpc.dustproject.org,10354715,cross-check,2026-11-11T10:21:57Z
+evm__DYNO_Mainnet,DYNO Mainnet,3966,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:56Z
+evm__DaVinci,DaVinci,293,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:12Z
+evm__Daily_Network_Mainnet,Daily Network Mainnet,824,mainnet,PARTIAL,https://rpc.mainnet.dailycrypto.net,3101178,tx-parse,2026-11-11T10:22:04Z
+evm__Danny,Danny,5069,mainnet,PARTIAL,https://rpc.dannyscan.com,8069922,cross-check,2026-11-11T10:22:01Z
+evm__Darwinia_Network,Darwinia Network,46,mainnet,PARTIAL,https://rpc.darwinia.network,13840746,"tx-parse,cross-check",2026-11-11T10:22:02Z
+evm__DataHaven_Mainnet,DataHaven Mainnet,55930,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:21:57Z
+evm__DataHopper,DataHopper,2021121117,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:05Z
+evm__Datachain_Rope,Datachain Rope,271828,mainnet,PASS,https://erpc.datachain.network,5723070,,2026-11-11T10:22:00Z
+evm__Datacore_Smart_Chain,Datacore Smart Chain,1555,mainnet,PARTIAL,https://rpc01.dscscan.io,5236993,cross-check,2026-11-11T10:22:03Z
+evm__Datagram,Datagram,968,mainnet,FAIL:no-block,,,no-block,2026-11-11T10:22:10Z
+evm__DeBank_Mainnet,DeBank Mainnet,116,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:21:59Z
+evm__DeFiChain_EVM_Network_Mainnet,DeFiChain EVM Network Mainnet,1130,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:21:59Z
+evm__DeFiVerse_Mainnet,DeFiVerse Mainnet,16116,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:00Z
+evm__DeInfra_Mainnet,DeInfra Mainnet,100501,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:00Z
+evm__Deamchain_Mainnet,Deamchain Mainnet,136,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:00Z
+evm__Decentraconnect_Social,Decentraconnect Social,19224,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:00Z
+evm__Decentralized_Web_Mainnet,Decentralized Web Mainnet,124,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:00Z
+evm__Decimal_Smart_Chain_Mainnet,Decimal Smart Chain Mainnet,75,mainnet,PARTIAL,https://node.decimalchain.com/web3/,34541463,tx-parse,2026-11-11T10:22:08Z
+evm__Deelance_Mainnet,Deelance Mainnet,45510,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:09Z
+evm__DeepBrainChain_Mainnet,DeepBrainChain Mainnet,19880818,mainnet,PARTIAL,https://rpc.dbcwallet.io,9908837,cross-check,2026-11-11T10:22:05Z
+evm__DeepL_Mainnet,DeepL Mainnet,222555,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:01Z
+evm__DeepSafe_Beta_Mainnet,DeepSafe Beta Mainnet,10011,mainnet,PARTIAL,https://betamainnet-rpc-node-http.deepsafe.network,7452367,"tx-parse,cross-check",2026-11-11T10:22:21Z
+evm__Defi_Oracle_Meta_Mainnet,Defi Oracle Meta Mainnet,138,mainnet,FAIL:stale:23017s,,,stale:23017s,2026-11-11T10:22:04Z
+evm__Degen_Chain,Degen Chain,666666666,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:03Z
+evm__Dehvo,Dehvo,113,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:04Z
+evm__Denergy_Network,Denergy Network,369369,mainnet,PARTIAL,https://rpc.d.energy/,9004716,"tx-parse,cross-check",2026-11-11T10:22:16Z
+evm__Deviant_Token_Blockchain,Deviant Token Blockchain,52027071,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:04Z
+evm__Dexalot_Subnet,Dexalot Subnet,432204,mainnet,PARTIAL,https://subnets.avax.network/dexalot/mainnet/rpc,78586599,cross-check,2026-11-11T10:22:05Z
+evm__Dexit_Network,Dexit Network,877,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:04Z
+evm__DiamondzChain,DiamondzChain,7791,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:04Z
+evm__Digit_Soul_Smart_Chain,Digit Soul Smart Chain,6363,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:20Z
+evm__Digit_Soul_Smart_Chain_2,Digit Soul Smart Chain 2,363636,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:05Z
+evm__Diode_Prenet,Diode Prenet,15,mainnet,PARTIAL,https://prenet.diode.io:8443/,11813086,cross-check,2026-11-11T10:22:07Z
+evm__DoCoin_Community_Chain,DoCoin Community Chain,526916,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:05Z
+evm__DoKEN_Super_Chain_Mainnet,DoKEN Super Chain Mainnet,61916,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:05Z
+evm__Dodao,Dodao,855456,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:05Z
+evm__Dogcoin_Mainnet,Dogcoin Mainnet,1117,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:05Z
+evm__Dogechain_Mainnet,Dogechain Mainnet,2000,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:08Z
+evm__Dogelayer_Mainnet,Dogelayer Mainnet,9888,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:06Z
+evm__Dogether_Mainnet,Dogether Mainnet,1248,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:06Z
+evm__Dojima,Dojima,187,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:05Z
+evm__Doma,Doma,97477,mainnet,PARTIAL,https://rpc.doma.xyz,18211888,cross-check,2026-11-11T10:22:07Z
+evm__Donatuz,Donatuz,42026,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:06Z
+evm__Doric_Network,Doric Network,1717,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:07Z
+evm__Dorsen_Chain,Dorsen Chain,99110,mainnet,PARTIAL,https://mainnet-rpc.dorsenscan.io,7285576,"tx-parse,cross-check",2026-11-11T10:22:16Z
+evm__Dot_Blox,Dot Blox,7923,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:07Z
+evm__DotOne_Smart_Chain,DotOne Smart Chain,505,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:07Z
+evm__Double-A_Chain_Mainnet,Double-A Chain Mainnet,512,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:23Z
+evm__Dracones_Financial_Services,Dracones Financial Services,8387,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:23Z
+evm__Dragonfly_Mainnet__Hexapod_,Dragonfly Mainnet (Hexapod),78281,mainnet,PARTIAL,https://dragonfly-rpc.phoenix-systems.io,46788155,tx-parse,2026-11-11T10:22:47Z
+evm__Draw_Coin,Draw Coin,7788,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:08Z
+evm__DreyerX_Mainnet,DreyerX Mainnet,23451,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:09Z
+evm__Dubxcoin_network,Dubxcoin network,3269,mainnet,PARTIAL,https://rpcmain.arabianchain.org,6428827,"tx-parse,cross-check",2026-11-11T10:22:15Z
+evm__DucatusX,DucatusX,26483,mainnet,PARTIAL,https://ducx-mainnet-node1.rocknblock.io,875389,tx-parse,2026-11-11T10:22:14Z
+evm__DuckChain_Mainnet,DuckChain Mainnet,5545,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:12Z
+evm__DustBoy_IoT,DustBoy IoT,555888,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:22:18Z
+evm__Dxchain_Mainnet,Dxchain Mainnet,36,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:12Z
+evm__Dymension,Dymension,1100,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:20Z
+evm__E-Dollar,E-Dollar,8087,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:12Z
+evm__EB-Chain,EB-Chain,8721,mainnet,PARTIAL,https://rpc.ebcscan.net,2719088,"tx-parse,cross-check",2026-11-11T10:22:19Z
+evm__EBLA_Mainnet,EBLA Mainnet,60186,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:22:14Z
+evm__EDU_Chain,EDU Chain,41923,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:15Z
+evm__EIOB_Mainnet,EIOB Mainnet,612,mainnet,PARTIAL,https://rpc.eiob.xyz,290424,"tx-parse,cross-check",2026-11-11T10:22:17Z
+evm__EKAASH,EKAASH,205,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:15Z
+evm__ELA-DID-Sidechain_Mainnet,ELA-DID-Sidechain Mainnet,22,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:22:15Z
+evm__ENI_Mainnet,ENI Mainnet,173,mainnet,PARTIAL,https://rpc.eniac.network,43950637,tx-parse,2026-11-11T10:22:20Z
+evm__ENULS_Mainnet,ENULS Mainnet,119,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:16Z
+evm__EOS_EVM_Legacy,EOS EVM Legacy,59,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:17Z
+evm__EOS_EVM_Network,EOS EVM Network,17777,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:18Z
+evm__ERAM_Mainnet,ERAM Mainnet,721529,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:33Z
+evm__ETND_Chain_Mainnets,ETND Chain Mainnets,131419,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:17Z
+evm__ETP_Mainnet,ETP Mainnet,20256789,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:22:18Z
+evm__EVOLVE_Mainnet,EVOLVE Mainnet,3424,mainnet,PARTIAL,https://rpc.evoexplorer.com,20199984,"tx-parse,cross-check",2026-11-11T10:22:22Z
+evm__EZChain_C-Chain_Mainnet,EZChain C-Chain Mainnet,2612,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:18Z
+evm__Ebi_Chain,Ebi Chain,98881,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:18Z
+evm__Ebro_Network,Ebro Network,2306,mainnet,FAIL:stale:178994s,,,stale:178994s,2026-11-11T10:22:20Z
+evm__Echos_Chain,Echos Chain,4321,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:18Z
+evm__Eclat_Mainnet,Eclat Mainnet,165279,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:35Z
+evm__Eclipse_Subnet,Eclipse Subnet,17172,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:19Z
+evm__Ecoball_Mainnet,Ecoball Mainnet,2100,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:19Z
+evm__Ecrox_Chain_Mainnet,Ecrox Chain Mainnet,988207,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:19Z
+evm__Eden,Eden,714,mainnet,PARTIAL,https://rpc.eden.gateway.fm,245826147,"tx-parse,cross-check",2026-11-11T10:22:24Z
+evm__Edge,Edge,3343,mainnet,PARTIAL,https://edge-mainnet.g.alchemy.com/public,855874,cross-check,2026-11-11T10:22:21Z
+evm__Edge_Matrix_Chain,Edge Matrix Chain,6678,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:22:28Z
+evm__Edgeless_Network,Edgeless Network,2026,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:20Z
+evm__Edgeware_EdgeEVM_Mainnet,Edgeware EdgeEVM Mainnet,2021,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:38Z
+evm__Egochain,Egochain,5439,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:21Z
+evm__EgonCoin_Mainnet,EgonCoin Mainnet,271,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:22:29Z
+evm__Ekta,Ekta,1994,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:21Z
+evm__Elastos_Smart_Chain,Elastos Smart Chain,20,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:21Z
+evm__Eleanor,Eleanor,1967,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:22:22Z
+evm__Electra_Network,Electra Network,861,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:21Z
+evm__Electroneum_Mainnet,Electroneum Mainnet,52014,mainnet,PASS,https://rpc.electroneum.com,16856800,,2026-11-11T10:22:23Z
+evm__Ella_the_heart,Ella the heart,7027,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:22Z
+evm__Ellaism,Ellaism,64,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:22Z
+evm__Eluvio_Content_Fabric,Eluvio Content Fabric,955305,mainnet,PASS,https://host-76-74-28-232.contentfabric.io/eth/,47976154,,2026-11-11T10:22:24Z
+evm__Elux_Chain,Elux Chain,2907,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:22Z
+evm__Elysium_Mainnet,Elysium Mainnet,1339,mainnet,PARTIAL,https://rpc.elysiumchain.tech,23072585,"tx-parse,cross-check",2026-11-11T10:22:27Z
+evm__Emeraldz,Emeraldz,789789,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:23Z
+evm__Emoney_Network_Mainnet,Emoney Network Mainnet,4545,mainnet,PARTIAL,https://rpc-publicnode.emoney.io/,11681033,"tx-parse,cross-check",2026-11-11T10:22:35Z
+evm__Empire_Network,Empire Network,3693,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:23Z
+evm__Endurance_Smart_Chain_Mainnet,Endurance Smart Chain Mainnet,648,mainnet,PARTIAL,https://rpc-endurance.fusionist.io/,7046895,cross-check,2026-11-11T10:22:24Z
+evm__Energi_Mainnet,Energi Mainnet,39797,mainnet,PARTIAL,https://nodeapi.energi.network,3507335,cross-check,2026-11-11T10:22:25Z
+evm__Energy_Web_Chain,Energy Web Chain,246,mainnet,PARTIAL,https://rpc.energyweb.org,43589937,"tx-parse,cross-check",2026-11-11T10:22:27Z
+evm__Ennothem_Mainnet_Proterozoic,Ennothem Mainnet Proterozoic,48,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:24Z
+evm__Entangle_Mainnet,Entangle Mainnet,33033,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:29Z
+evm__EnterChain_Mainnet,EnterChain Mainnet,1214,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:25Z
+evm__EraSwap_Mainnet,EraSwap Mainnet,5197,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:25Z
+evm__Erbie_Mainnet,Erbie Mainnet,50888,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:25Z
+evm__Esa,Esa,83278,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:22:25Z
+evm__Espento_Mainnet,Espento Mainnet,9911,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:25Z
+evm__Esports_Chain,Esports Chain,17735,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:25Z
+evm__Eteria_Mainnet,Eteria Mainnet,140,mainnet,FAIL:stale:5938080s,,,stale:5938080s,2026-11-11T10:22:26Z
+evm__EthStorage_L2_Mainnet,EthStorage L2 Mainnet,3332,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:26Z
+evm__EthStorage_Mainnet,EthStorage Mainnet,333,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:42Z
+evm__EthXY,EthXY,969,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:26Z
+evm__EtherGem,EtherGem,1987,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:27Z
+evm__EtherInc,EtherInc,101,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:27Z
+evm__EtherLite_Chain,EtherLite Chain,111,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:27Z
+evm__Ethereum_Classic,Ethereum Classic,61,mainnet,PASS,https://geth-at.etc-network.info,25712726,,2026-11-11T10:22:33Z
+evm__Ethereum_Inscription_Mainnet,Ethereum Inscription Mainnet,1617,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:27Z
+evm__Ethereum_Mainnet,Ethereum Mainnet,1,mainnet,PASS,https://ethereum-rpc.publicnode.com,26391052,,2026-11-11T10:22:30Z
+evm__EthereumFair,EthereumFair,513100,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:27Z
+evm__Etherlink_Mainnet,Etherlink Mainnet,42793,mainnet,PARTIAL,https://node.mainnet.etherlink.com,57710344,cross-check,2026-11-11T10:22:29Z
+evm__Ethernity,Ethernity,183,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:30Z
+evm__Ethernova_Mainnet,Ethernova Mainnet,121525,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:45Z
+evm__Ethersocial_Network,Ethersocial Network,31102,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:45Z
+evm__Ethiq,Ethiq,30303,mainnet,PARTIAL,https://rpc.ethiq.network,14041294,cross-check,2026-11-11T10:22:31Z
+evm__Etho_Protocol,Etho Protocol,1313114,mainnet,PARTIAL,https://rpc.ethoprotocol.com,19640014,"tx-parse,cross-check",2026-11-11T10:22:36Z
+evm__Ethos,Ethos,100000000,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:31Z
+evm__Ethpar_Mainnet,Ethpar Mainnet,1727,mainnet,PARTIAL,https://rpc01.ethpar.net/,26222994,cross-check,2026-11-11T10:22:32Z
+evm__Etica_Mainnet,Etica Mainnet,61803,mainnet,PARTIAL,https://eticamainnet.eticascan.org,11166590,tx-parse,2026-11-11T10:22:39Z
+evm__Eurus_Mainnet,Eurus Mainnet,1008,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:33Z
+evm__Evanesco_Mainnet,Evanesco Mainnet,2213,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:33Z
+evm__Eventum_Mainnet,Eventum Mainnet,161803,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:33Z
+evm__Everclear_Mainnet,Everclear Mainnet,25327,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:33Z
+evm__Evmos,Evmos,9001,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:34Z
+evm__Evoke_Mainnet,Evoke Mainnet,9395,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:33Z
+evm__Evoz_Mainnet,Evoz Mainnet,805,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:22:41Z
+evm__Evrice_Network,Evrice Network,1010,mainnet,FAIL:stale:1622744s,,,stale:1622744s,2026-11-11T10:22:35Z
+evm__Excelon_Mainnet,Excelon Mainnet,22052002,mainnet,PARTIAL,https://edgewallet1.xlon.org/,34150560,cross-check,2026-11-11T10:22:36Z
+evm__Excoincial_Chain_Mainnet,Excoincial Chain Mainnet,27082022,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:35Z
+evm__Exosama_Network,Exosama Network,2109,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:35Z
+evm__Expanse_Network,Expanse Network,2,mainnet,FAIL:no-block,,,no-block,2026-11-11T10:22:44Z
+evm__Exzo_Network_Mainnet,Exzo Network Mainnet,1229,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:35Z
+evm__FAVO_Mainnet,FAVO Mainnet,3838,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:22:43Z
+evm__FNCY,FNCY,73,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:36Z
+evm__Factory_127_Mainnet,Factory 127 Mainnet,127,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:22:36Z
+evm__Fantasia_Chain_Mainnet,Fantasia Chain Mainnet,868,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:37Z
+evm__Fantom_Opera,Fantom Opera,250,mainnet,PARTIAL,https://fantom.drpc.org,124019861,cross-check,2026-11-11T10:22:41Z
+evm__Ferrum_Quantum_Portal_Network,Ferrum Quantum Portal Network,26100,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:37Z
+evm__Fhenix_Helium,Fhenix Helium,8008135,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:37Z
+evm__Fibonacci_Mainnet,Fibonacci Mainnet,12306,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:23:09Z
+evm__Fidesinnova,Fidesinnova,706883,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:37Z
+evm__FileFileGo,FileFileGo,191,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:22:45Z
+evm__Filecoin_-_Mainnet,Filecoin - Mainnet,314,mainnet,PASS,https://api.node.glif.io/,6536204,,2026-11-11T10:22:40Z
+evm__Filenova_Mainnet,Filenova Mainnet,579,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:39Z
+evm__Findora_Forge,Findora Forge,2154,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:39Z
+evm__Findora_Mainnet,Findora Mainnet,2152,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:39Z
+evm__Firechain_Mainnet,Firechain Mainnet,529,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:39Z
+evm__Firechain_Mainnet_Old,Firechain Mainnet Old,5290,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:40Z
+evm__Firechain_zkEVM,Firechain zkEVM,814,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:22:48Z
+evm__Firechain_zkEVM_Ghostrider,Firechain zkEVM Ghostrider,3885,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:22:48Z
+evm__Flachain_Mainnet,Flachain Mainnet,29032022,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:41Z
+evm__Flag_Mainnet,Flag Mainnet,147,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:42Z
+evm__Flame,Flame,253368190,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:41Z
+evm__Flamma_Mainnet,Flamma Mainnet,55614,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:41Z
+evm__Flana,Flana,8135,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:22:41Z
+evm__Flana_Mixnet,Flana Mixnet,81352,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:22:41Z
+evm__Flana_Privnet,Flana Privnet,81353,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:22:41Z
+evm__Flare_Mainnet,Flare Mainnet,14,mainnet,PASS,https://flare-api.flare.network/ext/C/rpc,74276731,,2026-11-11T10:22:43Z
+evm__Flow_EVM_Mainnet,Flow EVM Mainnet,747,mainnet,PARTIAL,https://mainnet.evm.nodes.onflow.org,84754953,cross-check,2026-11-11T10:22:43Z
+evm__Fluence,Fluence,9999999,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:42Z
+evm__Fluence_Stage,Fluence Stage,123420000220,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:42Z
+evm__Fluent,Fluent,25363,mainnet,PARTIAL,https://rpc.fluent.xyz,20622730,cross-check,2026-11-11T10:22:45Z
+evm__Form_Network,Form Network,478,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:43Z
+evm__Forma,Forma,984122,mainnet,FAIL:stale:384070s,,,stale:384070s,2026-11-11T10:22:45Z
+evm__Forma_Sketchpad,Forma Sketchpad,984123,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:43Z
+evm__Formicarium,Formicarium,43521,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:43Z
+evm__Forta_Chain,Forta Chain,80931,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:43Z
+evm__Fraxtal,Fraxtal,252,mainnet,PASS,https://rpc.frax.com,43790927,,2026-11-11T10:22:45Z
+evm__Freight_Trust_Network,Freight Trust Network,211,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:22:43Z
+evm__Frenchain,Frenchain,44444,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:44Z
+evm__Fuga_Develop,Fuga Develop,1734,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:44Z
+evm__Fuga_Mainnet,Fuga Mainnet,1732,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:44Z
+evm__Funki,Funki,33979,mainnet,PARTIAL,https://rpc-mainnet.funkichain.com,36590734,cross-check,2026-11-11T10:22:44Z
+evm__Furtheon,Furtheon,308,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:44Z
+evm__Fuse_Mainnet,Fuse Mainnet,122,mainnet,PASS,https://rpc.fuse.io,45068556,,2026-11-11T10:22:47Z
+evm__Fuse_Sparknet,Fuse Sparknet,123,mainnet,PARTIAL,https://rpc.fusespark.io,30503019,cross-check,2026-11-11T10:22:45Z
+evm__Fushuma,Fushuma,121224,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:45Z
+evm__Fusion_Mainnet,Fusion Mainnet,32659,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:45Z
+evm__G8Chain_Mainnet,G8Chain Mainnet,17171,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:45Z
+evm__GANchain_L1,GANchain L1,4048,mainnet,PARTIAL,https://rpc.gpu.net,10151197,"tx-parse,cross-check",2026-11-11T10:22:51Z
+evm__GDCC_MAINNET,GDCC MAINNET,7774,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:45Z
+evm__GDPR_Mainnet,GDPR Mainnet,12358,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:46Z
+evm__GEB_Mainnet,GEB Mainnet,11501,mainnet,PARTIAL,https://rpc-mainnet-1.geb.network/,14036683,tx-parse,2026-11-11T10:22:49Z
+evm__GEEK_Verse_Mainnet,GEEK Verse Mainnet,75512,mainnet,PARTIAL,https://rpc.geekout-pte.com,15601564,cross-check,2026-11-11T10:22:47Z
+evm__GIWA,GIWA,9134,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:22:45Z
+evm__GLScan,GLScan,10222,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:45Z
+evm__GM_Network_Mainnet,GM Network Mainnet,2777,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:45Z
+evm__GOAT_Network,GOAT Network,2345,mainnet,PARTIAL,https://rpc.goat.network,16768147,"tx-parse,cross-check",2026-11-11T10:22:48Z
+evm__GPT_Mainnet,GPT Mainnet,1511670449,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:46Z
+evm__GRVT_Exchange,GRVT Exchange,325,mainnet,FAIL:stale:51178692s,,,stale:51178692s,2026-11-11T10:22:47Z
+evm__GTCSCAN,GTCSCAN,3490,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:46Z
+evm__GTON_Mainnet,GTON Mainnet,1000,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:46Z
+evm__GUNZ,GUNZ,43419,mainnet,PARTIAL,https://rpc.gunzchain.io/ext/bc/2M47TxWHGnhNtq6pM5zPXdATBtuqubxn5EPFgFmEawCQr9WFML/rpc,26431663,cross-check,2026-11-11T10:22:48Z
+evm__Galactica-Reticulum,Galactica-Reticulum,9302,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:46Z
+evm__Game7,Game7,2187,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:46Z
+evm__Ganache,Ganache,5777,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:46Z
+evm__Garizon_Stage0,Garizon Stage0,90,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:47Z
+evm__Garizon_Stage1,Garizon Stage1,91,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:47Z
+evm__Garizon_Stage2,Garizon Stage2,92,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:47Z
+evm__Garizon_Stage3,Garizon Stage3,93,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:47Z
+evm__GateChain_Mainnet,GateChain Mainnet,86,mainnet,PARTIAL,https://evm.gatenode.cc,22235313,"tx-parse,cross-check",2026-11-11T10:22:51Z
+evm__Gather_Mainnet_Network,Gather Mainnet Network,192837465,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:47Z
+evm__Gauss_Mainnet,Gauss Mainnet,1777,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:47Z
+evm__Gear_Zero_Network_Mainnet,Gear Zero Network Mainnet,516,mainnet,FAIL:stale:37823s,,,stale:37823s,2026-11-11T10:22:48Z
+evm__Geist_Mainnet,Geist Mainnet,63157,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:47Z
+evm__Gelatine_Network,Gelatine Network,61564,mainnet,FAIL:stale:3223363s,,,stale:3223363s,2026-11-11T10:22:51Z
+evm__Gemchain,Gemchain,123321,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:47Z
+evm__GeneChain,GeneChain,80,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:22:48Z
+evm__Genesis_Coin,Genesis Coin,9100,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:22:49Z
+evm__Genesis_L1,Genesis L1,29,mainnet,PARTIAL,https://rpc.genesisl1.org,14008042,"tx-parse,cross-check",2026-11-11T10:22:55Z
+evm__Genesys_Code_Mainnet,Genesys Code Mainnet,59971,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:48Z
+evm__Genesys_Mainnet,Genesys Mainnet,16507,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:04Z
+evm__Gensyn_Mainnet,Gensyn Mainnet,685689,mainnet,PARTIAL,https://gensyn-mainnet.g.alchemy.com/public,17838205,cross-check,2026-11-11T10:22:49Z
+evm__Geo_Genesis,Geo Genesis,80451,mainnet,FAIL:stale:2318453s,,,stale:2318453s,2026-11-11T10:22:49Z
+evm__Geso_Verse,Geso Verse,428,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:48Z
+evm__Giant_Mammoth_Mainnet,Giant Mammoth Mainnet,8989,mainnet,PARTIAL,https://rpc-asia.gmmtchain.io,40516201,"tx-parse,cross-check",2026-11-11T10:23:05Z
+evm__Glide_L1_Protocol_XP,Glide L1 Protocol XP,251,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:49Z
+evm__Glide_L2_Protocol_XP,Glide L2 Protocol XP,253,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:49Z
+evm__Global_Trust_Network,Global Trust Network,101010,mainnet,PARTIAL,https://gtn.stabilityprotocol.com,42377851,"tx-parse,cross-check",2026-11-11T10:22:52Z
+evm__Globel_Chain,Globel Chain,4893,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:49Z
+evm__Glue_Mainnet,Glue Mainnet,1300,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:49Z
+evm__Gnodi_Mainnet,Gnodi Mainnet,46634,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:49Z
+evm__Gnosis,Gnosis,100,mainnet,PASS,https://rpc.gnosischain.com,49222789,,2026-11-11T10:22:52Z
+evm__GoChain,GoChain,60,mainnet,PARTIAL,https://rpc.gochain.io,53486511,"tx-parse,cross-check",2026-11-11T10:22:54Z
+evm__Godwoken_Mainnet,Godwoken Mainnet,71402,mainnet,FAIL:stale:13150129s,,,stale:13150129s,2026-11-11T10:22:51Z
+evm__Gold_Chain,Gold Chain,4653,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:50Z
+evm__Gold_Smart_Chain_Mainnet,Gold Smart Chain Mainnet,6789,mainnet,PARTIAL,https://rpc-mainnet.goldsmartchain.com,40811252,"tx-parse,cross-check",2026-11-11T10:22:53Z
+evm__GoldXChain_Mainnet,GoldXChain Mainnet,42355,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:07Z
+evm__Gon_Chain,Gon Chain,10024,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:54Z
+evm__GoodData_Mainnet,GoodData Mainnet,33,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:51Z
+evm__Gotas_Social,Gotas Social,23232,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:51Z
+evm__Graphite_Mainnet,Graphite Mainnet,440017,mainnet,PARTIAL,https://anon-entrypoint-1.atgraphite.com,14169586,"tx-parse,cross-check",2026-11-11T10:22:56Z
+evm__Graphlinq_Blockchain_Mainnet,Graphlinq Blockchain Mainnet,614,mainnet,PARTIAL,https://glq-dataseed.graphlinq.io,7853635,"tx-parse,cross-check",2026-11-11T10:22:56Z
+evm__Gravity,Gravity,127001,mainnet,PARTIAL,https://mainnet-rpc.gravity.xyz,65600184,cross-check,2026-11-11T10:22:52Z
+evm__Gravity_Alpha_Mainnet,Gravity Alpha Mainnet,1625,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:53Z
+evm__Grok_Chain_Mainnet,Grok Chain Mainnet,72992,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:53Z
+evm__GuapcoinX,GuapcoinX,71111,mainnet,PARTIAL,https://rpc-mainnet.guapcoinx.com/,4861496,tx-parse,2026-11-11T10:23:02Z
+evm__Guru_Network,Guru Network,260,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:53Z
+evm__H2_Chain_Mainnet,H2 Chain Mainnet,2582,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:54Z
+evm__HALO_Mainnet,HALO Mainnet,1280,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:54Z
+evm__HAPchain,HAPchain,8794598,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:23:02Z
+evm__HIPERCAPITAL_FINANCE_Chain,HIPERCAPITAL FINANCE Chain,240884,mainnet,PARTIAL,https://rpc.hipercapitalfinance.com,14420923,"tx-parse,cross-check",2026-11-11T10:23:01Z
+evm__HOME_Verse_Mainnet,HOME Verse Mainnet,19011,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:57Z
+evm__HPP_Mainnet,HPP Mainnet,190415,mainnet,PARTIAL,https://mainnet.hpp.io,1809996,cross-check,2026-11-11T10:22:56Z
+evm__HUMAN_Protocol,HUMAN Protocol,1273227453,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:55Z
+evm__HYCHAIN,HYCHAIN,2911,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:56Z
+evm__Haic,Haic,803,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:56Z
+evm__Ham,Ham,5112,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:56Z
+evm__Hammer_Chain_Mainnet,Hammer Chain Mainnet,25888,mainnet,PARTIAL,https://www.hammerchain.io/rpc,35814244,"tx-parse,cross-check",2026-11-11T10:22:59Z
+evm__Haqq_Network,Haqq Network,11235,mainnet,PARTIAL,https://rpc.eth.haqq.network,23183047,tx-parse,2026-11-11T10:23:01Z
+evm__Harmony_Mainnet_Shard_0,Harmony Mainnet Shard 0,1666600000,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:22:59Z
+evm__Harmony_Mainnet_Shard_1,Harmony Mainnet Shard 1,1666600001,mainnet,FAIL:stale:5340609s,,,stale:5340609s,2026-11-11T10:23:00Z
+evm__Harmony_Mainnet_Shard_2,Harmony Mainnet Shard 2,1666600002,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:57Z
+evm__Harmony_Mainnet_Shard_3,Harmony Mainnet Shard 3,1666600003,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:57Z
+evm__HashBit_Mainnet,HashBit Mainnet,11119,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:22:58Z
+evm__HashKey_Chain,HashKey Chain,177,mainnet,PARTIAL,https://mainnet.hsk.xyz,30022722,cross-check,2026-11-11T10:22:59Z
+evm__Haust_Mainnet,Haust Mainnet,938,mainnet,FAIL:chainid-mismatch:3864,,,chainid-mismatch:3864,2026-11-11T10:23:00Z
+evm__Haven1,Haven1,8811,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:00Z
+evm__Hedera_Mainnet,Hedera Mainnet,295,mainnet,PASS,https://mainnet.hashio.io/api,102205777,,2026-11-11T10:23:08Z
+evm__Heima,Heima,212013,mainnet,PARTIAL,https://rpc.heima-parachain.heima.network,11504914,"tx-parse,cross-check",2026-11-11T10:23:06Z
+evm__Hela_Official_Runtime_Mainnet,Hela Official Runtime Mainnet,8668,mainnet,PARTIAL,https://mainnet-rpc.helachain.com,968287,cross-check,2026-11-11T10:23:02Z
+evm__Helix_Chain,Helix Chain,8088,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:01Z
+evm__Help_The_Homeless,Help The Homeless,7118,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:23:01Z
+evm__Hemi,Hemi,43111,mainnet,PARTIAL,https://rpc.hemi.network/rpc,5710489,cross-check,2026-11-11T10:23:02Z
+evm__Henesys,Henesys,68414,mainnet,PARTIAL,https://henesys-rpc.msu.io,22202816,cross-check,2026-11-11T10:23:02Z
+evm__Henez_Chain_Mainnet,Henez Chain Mainnet,91111,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:01Z
+evm__Hertz_Network_Mainnet,Hertz Network Mainnet,26600,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:01Z
+evm__Hetu_Mainnet,Hetu Mainnet,560000,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:01Z
+evm__High_Performance_Blockchain,High Performance Blockchain,269,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:02Z
+evm__HighOctane_Subnet,HighOctane Subnet,1853,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:02Z
+evm__Highbury,Highbury,710,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:02Z
+evm__Hizoco_mainnet,Hizoco mainnet,80096,mainnet,PARTIAL,https://hizoco.net/rpc,4114042,"tx-parse,cross-check",2026-11-11T10:23:24Z
+evm__Hokum,Hokum,8080808,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:02Z
+evm__HongKong_Mainnet,HongKong Mainnet,852,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:03Z
+evm__Hoo_Smart_Chain,Hoo Smart Chain,70,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:06Z
+evm__Horizen_EON_Mainnet,Horizen EON Mainnet,7332,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:23:02Z
+evm__Horizen_Mainnet,Horizen Mainnet,26514,mainnet,PARTIAL,https://horizen.calderachain.xyz/http,32246246,cross-check,2026-11-11T10:23:03Z
+evm__Htmlcoin_Mainnet,Htmlcoin Mainnet,4444,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:18Z
+evm__Hubble_Exchange,Hubble Exchange,1992,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:03Z
+evm__Huddle01_dRTC_Chain,Huddle01 dRTC Chain,12323,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:03Z
+evm__Humanity_Protocol,Humanity Protocol,6985385,mainnet,PARTIAL,https://humanity-mainnet.g.alchemy.com/public,36529450,cross-check,2026-11-11T10:23:04Z
+evm__Humanode_Mainnet,Humanode Mainnet,5234,mainnet,PARTIAL,https://explorer-rpc-http.mainnet.stages.humanode.io,20643695,"tx-parse,cross-check",2026-11-11T10:23:09Z
+evm__Humans_ai_Mainnet,Humans.ai Mainnet,1089,mainnet,PARTIAL,https://humans-mainnet-evm.itrocket.net,18973955,tx-parse,2026-11-11T10:23:19Z
+evm__Huobi_ECO_Chain_Mainnet,Huobi ECO Chain Mainnet,128,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:04Z
+evm__Hybrid_Chain_Network_Mainnet,Hybrid Chain Network Mainnet,2468,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:04Z
+evm__Hydra_Chain,Hydra Chain,4488,mainnet,PARTIAL,https://rpc-mainnet.hydrachain.org,100902986,"tx-parse,cross-check",2026-11-11T10:23:08Z
+evm__Hydration,Hydration,222222,mainnet,PASS,https://rpc.hydradx.cloud,16882314,,2026-11-11T10:23:08Z
+evm__HyperAGI_Mainnet,HyperAGI Mainnet,2868,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:05Z
+evm__HyperCluster,HyperCluster,838838,mainnet,PARTIAL,https://rpc.hypercluster.org,65629,"tx-parse,cross-check",2026-11-11T10:23:10Z
+evm__HyperX,HyperX,80808,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:06Z
+evm__Hypra_Mainnet,Hypra Mainnet,622277,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:07Z
+evm__ICB_Network,ICB Network,73115,mainnet,PARTIAL,https://rpc1-mainnet.icbnetwork.info/,22262355,tx-parse,2026-11-11T10:23:11Z
+evm__ICPlaza_Mainnet,ICPlaza Mainnet,142857,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:07Z
+evm__IDChain_Mainnet,IDChain Mainnet,74,mainnet,PARTIAL,https://idchain.one/rpc/,40750798,"tx-parse,cross-check",2026-11-11T10:23:14Z
+evm__IDN_Mainnet,IDN Mainnet,215,mainnet,PASS,https://dataseed1.idn-rpc.com,24918878,,2026-11-11T10:23:15Z
+evm__ILITY_Mainnet,ILITY Mainnet,4370,mainnet,PARTIAL,https://rpc.ility.xyz,5779062,"tx-parse,cross-check",2026-11-11T10:23:18Z
+evm__IMPERIUM_MAINNET,IMPERIUM MAINNET,9819,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:08Z
+evm__INSAN,INSAN,89001,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:23:08Z
+evm__IOLite,IOLite,18289463,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:08Z
+evm__IOST_Mainnet,IOST Mainnet,182,mainnet,PARTIAL,https://l2-mainnet.iost.io,157865039,cross-check,2026-11-11T10:23:10Z
+evm__IOTA_EVM,IOTA EVM,8822,mainnet,PARTIAL,https://json-rpc.evm.iotaledger.net,13087872,cross-check,2026-11-11T10:23:11Z
+evm__IPOS_Network,IPOS Network,1122334455,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:11Z
+evm__IRIShub,IRIShub,6688,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:10Z
+evm__ITX_Mainnet,ITX Mainnet,1235,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:10Z
+evm__Igra_Network,Igra Network,38833,mainnet,PARTIAL,https://rpc.igralabs.com:8545,21491643,cross-check,2026-11-11T10:23:14Z
+evm__Immu3_EVM,Immu3 EVM,3100,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:10Z
+evm__Immutable_zkEVM,Immutable zkEVM,13371,mainnet,PASS,https://rpc.immutable.com,46054670,,2026-11-11T10:23:12Z
+evm__Imversed_Mainnet,Imversed Mainnet,5555555,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:43Z
+evm__Inertia_Scan,Inertia Scan,5433,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:11Z
+evm__Infinaeon,Infinaeon,420000,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:12Z
+evm__InitVerse_Mainnet,InitVerse Mainnet,7233,mainnet,PARTIAL,https://rpc-mainnet.inichain.com,4226081,"tx-parse,cross-check",2026-11-11T10:23:15Z
+evm__Injective,Injective,1776,mainnet,PASS,https://sentry.evm-rpc.injective.network,191257637,,2026-11-11T10:23:19Z
+evm__Ink,Ink,57073,mainnet,PASS,https://rpc-gel.inkonchain.com,60894182,,2026-11-11T10:23:14Z
+evm__Innovator_Chain,Innovator Chain,129,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:14Z
+evm__InoAi,InoAi,88559,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:14Z
+evm__Integra,Integra,26217,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:14Z
+evm__Intuition_Mainnet,Intuition Mainnet,1155,mainnet,PARTIAL,https://rpc.intuition.systems,10846198,cross-check,2026-11-11T10:23:15Z
+evm__IoTeX_Network_Mainnet,IoTeX Network Mainnet,4689,mainnet,PARTIAL,https://babel-api.mainnet.iotex.io,54330129,cross-check,2026-11-11T10:23:16Z
+evm__Iora_Chain,Iora Chain,1197,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:15Z
+evm__Irys_Mainnet_Beta,Irys Mainnet Beta,3282,mainnet,PASS,https://mainnet-beta-rpc.irys.xyz/v1/execution-rpc,2855991,,2026-11-11T10:23:17Z
+evm__J2O_Taro,J2O Taro,35011,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:15Z
+evm__JFIN_Chain,JFIN Chain,3501,mainnet,PARTIAL,https://rpc.jfinchain.com,45205711,cross-check,2026-11-11T10:23:16Z
+evm__JFINPOS,JFINPOS,3502,mainnet,FAIL:stale:17020562s,,,stale:17020562s,2026-11-11T10:23:16Z
+evm__JIBCHAIN_L1,JIBCHAIN L1,8899,mainnet,FAIL:stale:5269564s,,,stale:5269564s,2026-11-11T10:23:19Z
+evm__JMDT_Mainnet,JMDT Mainnet,7000700,mainnet,FAIL:stale:6844s,,,stale:6844s,2026-11-11T10:23:18Z
+evm__JaiHo_Chain,JaiHo Chain,1313,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:16Z
+evm__Jamton,Jamton,5589,mainnet,PARTIAL,https://rpc.jamton.network/,4264673,"tx-parse,cross-check",2026-11-11T10:23:23Z
+evm__Janction,Janction,678,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:16Z
+evm__Japan_Open_Chain_Mainnet,Japan Open Chain Mainnet,81,mainnet,PASS,https://rpc-1.japanopenchain.org:8545,26953058,,2026-11-11T10:23:23Z
+evm__JasmyChain,JasmyChain,680,mainnet,FAIL:stale:890556s,,,stale:890556s,2026-11-11T10:23:18Z
+evm__Jellie,Jellie,202624,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:19Z
+evm__JingleX_L2,JingleX L2,9922,mainnet,PARTIAL,https://rpc.jinglex.net,3021174,"tx-parse,cross-check",2026-11-11T10:23:22Z
+evm__Jono11_Subnet,Jono11 Subnet,20765,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:18Z
+evm__Jono12_Subnet,Jono12 Subnet,955081,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:18Z
+evm__Joseon_Mainnet,Joseon Mainnet,1392,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:19Z
+evm__Jouleverse_Mainnet,Jouleverse Mainnet,3666,mainnet,PARTIAL,https://rpc.jnsdao.com,8625566,"tx-parse,cross-check",2026-11-11T10:23:26Z
+evm__Jovay_Mainnet,Jovay Mainnet,5734951,mainnet,PARTIAL,https://rpc.jovay.io,14241305,"tx-parse,cross-check",2026-11-11T10:23:29Z
+evm__Joys_Digital_Mainnet,Joys Digital Mainnet,35855456,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:20Z
+evm__JuChain_Mainnet,JuChain Mainnet,210000,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:20Z
+evm__Jumbochain_Mainnet,Jumbochain Mainnet,1009,mainnet,PASS,https://rpc-datajumbo2.jumbochain.org,363126993,,2026-11-11T10:23:28Z
+evm__JuncaChain,JuncaChain,668,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:37Z
+evm__Juneo_BCH1-Chain,Juneo BCH1-Chain,45013,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:21Z
+evm__Juneo_DAI1-Chain,Juneo DAI1-Chain,45004,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:21Z
+evm__Juneo_DOGE1-Chain,Juneo DOGE1-Chain,45010,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:22Z
+evm__Juneo_EUR1-Chain,Juneo EUR1-Chain,45011,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:22Z
+evm__Juneo_GLD1-Chain,Juneo GLD1-Chain,45008,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:23Z
+evm__Juneo_JUNE-Chain,Juneo JUNE-Chain,45003,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:23Z
+evm__Juneo_LINK1-Chain,Juneo LINK1-Chain,45014,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:23Z
+evm__Juneo_LTC1-Chain,Juneo LTC1-Chain,45009,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:24Z
+evm__Juneo_SGD1-Chain,Juneo SGD1-Chain,45012,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:24Z
+evm__Juneo_USD1-Chain,Juneo USD1-Chain,45006,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:25Z
+evm__Juneo_USDT1-Chain,Juneo USDT1-Chain,45005,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:24Z
+evm__Juneo_mBTC1-Chain,Juneo mBTC1-Chain,45007,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:25Z
+evm__K-LAOS,K-LAOS,2718,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:24Z
+evm__K2_Mainnet,K2 Mainnet,2410,mainnet,FAIL:stale:4775367s,,,stale:4775367s,2026-11-11T10:23:27Z
+evm__KB_Chain,KB Chain,11000,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:24Z
+evm__KCC_Mainnet,KCC Mainnet,321,mainnet,PARTIAL,https://rpc-mainnet.kcc.network,57282311,"tx-parse,cross-check",2026-11-11T10:23:28Z
+evm__KLAOS_Nova,KLAOS Nova,27181,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:24Z
+evm__KLYNTAR,KLYNTAR,7331,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:25Z
+evm__KONET_Mainnet,KONET Mainnet,17217,mainnet,PARTIAL,https://api.kon-wallet.com,8167554,cross-check,2026-11-11T10:23:28Z
+evm__KUB_Mainnet,KUB Mainnet,96,mainnet,PARTIAL,https://rpc.bitkubchain.io,36918086,cross-check,2026-11-11T10:23:28Z
+evm__KWALA,KWALA,1905,mainnet,FAIL:no-block,,,no-block,2026-11-11T10:23:28Z
+evm__KWALA_Stagenet,KWALA Stagenet,1906,mainnet,FAIL:no-block,,,no-block,2026-11-11T10:23:28Z
+evm__KYMTC_Mainnet,KYMTC Mainnet,15430,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:27Z
+evm__KaiChain,KaiChain,61406,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:29Z
+evm__Kaia_Mainnet,Kaia Mainnet,8217,mainnet,PARTIAL,https://public-en.node.kaia.io,232188807,cross-check,2026-11-11T10:23:29Z
+evm__Kalar_Chain,Kalar Chain,1379,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:28Z
+evm__Kalichain,Kalichain,654,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:23:28Z
+evm__KalyChain_Mainnet,KalyChain Mainnet,3888,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:23:36Z
+evm__Kanazawa,Kanazawa,222000222,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:28Z
+evm__KardiaChain_Mainnet,KardiaChain Mainnet,24,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:28Z
+evm__Karura_Network,Karura Network,686,mainnet,PARTIAL,https://eth-rpc-karura.aca-api.network,12836128,"tx-parse,cross-check",2026-11-11T10:23:33Z
+evm__KaspaClassic_Mainnet,KaspaClassic Mainnet,104566,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:28Z
+evm__Katron_AI_Mainnet,Katron AI Mainnet,83592,mainnet,PARTIAL,https://blockchain-rpc1.katronai.com,1009843,"tx-parse,cross-check",2026-11-11T10:23:47Z
+evm__Kava,Kava,2222,mainnet,PARTIAL,https://evm.kava.io,23443578,tx-parse,2026-11-11T10:23:34Z
+evm__Kekchain,Kekchain,420420,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:28Z
+evm__Kerleano,Kerleano,1804,mainnet,PARTIAL,https://rpc1.kerleano.ca-dag.work,30605390,tx-parse,2026-11-11T10:23:36Z
+evm__KiiChain,KiiChain,1783,mainnet,PARTIAL,https://json-rpc.kiivalidator.com,11876789,"tx-parse,cross-check",2026-11-11T10:23:32Z
+evm__Kiln,Kiln,1337802,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:29Z
+evm__King_Of_Legends_Mainnet,King Of Legends Mainnet,2425,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:29Z
+evm__Kingdom_Chain,Kingdom Chain,39916801,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:29Z
+evm__Kinto_Mainnet,Kinto Mainnet,7887,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:29Z
+evm__Kintsugi,Kintsugi,1337702,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:29Z
+evm__KiteAI,KiteAI,2366,mainnet,PARTIAL,https://rpc.gokite.ai,2485323,cross-check,2026-11-11T10:23:30Z
+evm__Kiwi_Subnet,Kiwi Subnet,2037,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:30Z
+evm__Kortho_Mainnet,Kortho Mainnet,2559,mainnet,PARTIAL,https://www.kortho-chain.com,71691836,"tx-parse,cross-check",2026-11-11T10:23:36Z
+evm__Krest_Network,Krest Network,2241,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:39Z
+evm__Kroma,Kroma,255,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:31Z
+evm__Kronobit_Mainnet,Kronobit Mainnet,13600,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:31Z
+evm__Krown_Mainnet,Krown Mainnet,1983,mainnet,PASS,https://mainnet.krown.network,2193968,,2026-11-11T10:23:33Z
+evm__Kusama,Kusama,420420418,mainnet,PARTIAL,https://eth-rpc-kusama.polkadot.io,23679825,"tx-parse,cross-check",2026-11-11T10:23:36Z
+evm__Kyoto,Kyoto,1997,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:33Z
+evm__L2_Protocol_Mainnet,L2 Protocol Mainnet,12216,mainnet,PARTIAL,https://rpc.l2protocol.com,1322155,"tx-parse,cross-check",2026-11-11T10:23:37Z
+evm__L3X_Protocol,L3X Protocol,12324,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:34Z
+evm__LACHAIN_Mainnet,LACHAIN Mainnet,225,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:34Z
+evm__LAGOM_Mainnet,LAGOM Mainnet,986,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:34Z
+evm__LAOS,LAOS,6283,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:34Z
+evm__LAOS_Arrakis,LAOS Arrakis,667,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:23:37Z
+evm__LAVITA_Mainnet,LAVITA Mainnet,360890,mainnet,PARTIAL,https://tsub360890-eth-rpc.thetatoken.org/rpc,53744463,"tx-parse,cross-check",2026-11-11T10:23:37Z
+evm__LBRY_Mainnet,LBRY Mainnet,19600,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:37Z
+evm__LUDAN_Mainnet,LUDAN Mainnet,1688,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:37Z
+evm__LUKSO_Mainnet,LUKSO Mainnet,42,mainnet,PASS,https://42.rpc.thirdweb.com,8760986,,2026-11-11T10:23:55Z
+evm__LaChain,LaChain,274,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:39Z
+evm__LadyChain,LadyChain,589,mainnet,PARTIAL,https://ladyrpc.us/rpc,7224424,cross-check,2026-11-11T10:23:39Z
+evm__Laika_Mainnet,Laika Mainnet,6942,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:37Z
+evm__Lambda_Chain_Mainnet,Lambda Chain Mainnet,56026,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:38Z
+evm__Lamina1,Lamina1,10849,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:37Z
+evm__Lamina1_Identity,Lamina1 Identity,10850,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:37Z
+evm__Landstars,Landstars,495,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:54Z
+evm__Larissa_Chain,Larissa Chain,9898,mainnet,PARTIAL,https://rpc.larissa.network,6910789,"tx-parse,cross-check",2026-11-11T10:23:40Z
+evm__Layer_Edge_Mainnet,Layer Edge Mainnet,4207,mainnet,PARTIAL,https://rpc.layeredge.io,8565998,tx-parse,2026-11-11T10:23:46Z
+evm__LemonChain,LemonChain,1006,mainnet,PARTIAL,https://rpc.lemonchain.io,1798673,cross-check,2026-11-11T10:23:55Z
+evm__Lens,Lens,232,mainnet,PARTIAL,https://rpc.lens.xyz,6485708,cross-check,2026-11-11T10:23:39Z
+evm__Lestnet,Lestnet,21363,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:39Z
+evm__Lif3_Chain,Lif3 Chain,8869,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:23:47Z
+evm__Lightlink_Phoenix_Mainnet,Lightlink Phoenix Mainnet,1890,mainnet,PARTIAL,https://replicator.phoenix.lightlink.io/rpc/v1,237351338,"tx-parse,cross-check",2026-11-11T10:23:44Z
+evm__Lightstreams_Mainnet,Lightstreams Mainnet,163,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:40Z
+evm__Linea,Linea,59144,mainnet,PASS,https://rpc.linea.build,32574419,,2026-11-11T10:23:41Z
+evm__Liquichain,Liquichain,1662,mainnet,FAIL:stale:18357895s,,,stale:18357895s,2026-11-11T10:23:44Z
+evm__LiquidLayer_Mainnet,LiquidLayer Mainnet,25186,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:40Z
+evm__Lisinski,Lisinski,385,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:40Z
+evm__Lisk,Lisk,1135,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:41Z
+evm__Lit_Chain_Mainnet,Lit Chain Mainnet,175200,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:41Z
+evm__LiterMark_Chain,LiterMark Chain,5232,mainnet,FAIL:stale:3889343s,,,stale:3889343s,2026-11-11T10:23:43Z
+evm__Liveplex_OracleEVM,Liveplex OracleEVM,50001,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:41Z
+evm__Living_Assets_Mainnet,Living Assets Mainnet,1440,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:41Z
+evm__LocaChain_Mainnet,LocaChain Mainnet,19180,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:41Z
+evm__LoopNetwork_Mainnet,LoopNetwork Mainnet,15551,mainnet,PARTIAL,https://api.mainnetloop.com,45143238,"tx-parse,cross-check",2026-11-11T10:23:53Z
+evm__Lorenzo,Lorenzo,8329,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:43Z
+evm__Lovely_Network_Mainnet,Lovely Network Mainnet,730,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:23:51Z
+evm__Lucid_Blockchain,Lucid Blockchain,800,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:43Z
+evm__Lumia_Mainnet,Lumia Mainnet,994873017,mainnet,PARTIAL,https://mainnet-rpc.lumia.org,22018942,"tx-parse,cross-check",2026-11-11T10:23:50Z
+evm__Lummio_Network,Lummio Network,12020498,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:23:52Z
+evm__Lumoz_Chain_Mainnet,Lumoz Chain Mainnet,96370,mainnet,PARTIAL,https://rpc.lumoz.org,10996145,"tx-parse,cross-check",2026-11-11T10:23:58Z
+evm__LunaroChain_Mainnet,LunaroChain Mainnet,389,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:46Z
+evm__Lux_Mainnet,Lux Mainnet,96369,mainnet,FAIL:stale:44206125s,,,stale:44206125s,2026-11-11T10:23:47Z
+evm__LuxePorts,LuxePorts,1122,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:56Z
+evm__Lycan_Chain,Lycan Chain,721,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:05Z
+evm__Lydia_Coin,Lydia Coin,1989,mainnet,FAIL:stale:1126638s,,,stale:1126638s,2026-11-11T10:23:49Z
+evm__Lyra_Chain,Lyra Chain,957,mainnet,PARTIAL,https://rpc.lyra.finance,47185508,cross-check,2026-11-11T10:23:52Z
+evm__MAAL_Chain,MAAL Chain,786,mainnet,FAIL:chainid-mismatch:7862,,,chainid-mismatch:7862,2026-11-11T10:23:52Z
+evm__MACos_Chain,MACos Chain,20261,mainnet,PARTIAL,https://rpc1.codeupp.xyz,1894772,"tx-parse,cross-check",2026-11-11T10:23:55Z
+evm__MAI_Chain_Mainnet,MAI Chain Mainnet,1019,mainnet,PASS,https://mainnet-node-0.maichain.org,10169742,,2026-11-11T10:23:56Z
+evm__MAKI_Chain,MAKI Chain,8000008,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:52Z
+evm__MANTRA_Chain,MANTRA Chain,5888,mainnet,PARTIAL,https://evm.mantrachain.io,19581025,"tx-parse,cross-check",2026-11-11T10:23:57Z
+evm__MAP_Protocol,MAP Protocol,22776,mainnet,PARTIAL,https://rpc.maplabs.io,27009316,cross-check,2026-11-11T10:23:56Z
+evm__MAPO_Makalu,MAPO Makalu,212,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:54Z
+evm__MARO_Blockchain_Mainnet,MARO Blockchain Mainnet,8848,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:24:02Z
+evm__MAXI_Chain_Mainnet,MAXI Chain Mainnet,899,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:54Z
+evm__MCH_Verse_Mainnet,MCH Verse Mainnet,29548,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:23:56Z
+evm__MEVerse_Chain_Mainnet,MEVerse Chain Mainnet,7518,mainnet,PARTIAL,https://rpc.meversemainnet.io,297890746,"tx-parse,cross-check",2026-11-11T10:23:58Z
+evm__MFEV_CHAIN_MAINNET,MFEV CHAIN MAINNET,9982,mainnet,PARTIAL,https://rpc.mfevscan.com,12864838,"tx-parse,cross-check",2026-11-11T10:24:00Z
+evm__MFX_Network,MFX Network,2064,mainnet,PARTIAL,https://rpc.mfx.network/rpc,23705663,"tx-parse,cross-check",2026-11-11T10:24:03Z
+evm__MO_Mainnet,MO Mainnet,7924,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:23:56Z
+evm__MOAC_mainnet,MOAC mainnet,1099,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:23:56Z
+evm__MPCQ_Mainnet,MPCQ Mainnet,262144,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:12Z
+evm__MST_Mainnet,MST Mainnet,4646,mainnet,PARTIAL,https://mariorpc.mstblockchain.com,22124771,cross-check,2026-11-11T10:24:01Z
+evm__MTT_Network,MTT Network,6880,mainnet,PARTIAL,https://evm-rpc.mtt.network,22732705,cross-check,2026-11-11T10:24:00Z
+evm__MUD_Chain,MUD Chain,168169,mainnet,PARTIAL,https://rpc.mud.network,10167501,"tx-parse,cross-check",2026-11-11T10:23:59Z
+evm__MXC_zkEVM_Moonchain,MXC zkEVM Moonchain,18686,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:24:05Z
+evm__MaalChain_V2,MaalChain V2,7862,mainnet,PARTIAL,https://node1-mainnet-new.maalscan.io/,13731207,"tx-parse,cross-check",2026-11-11T10:24:02Z
+evm__Magnet_Network,Magnet Network,19527,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:14Z
+evm__MainnetZ_Mainnet,MainnetZ Mainnet,2016,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:00Z
+evm__Mammoth_Mainnet,Mammoth Mainnet,8898,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:00Z
+evm__Mandala_Chain,Mandala Chain,20010,mainnet,FAIL:stale:4214s,,,stale:4214s,2026-11-11T10:24:00Z
+evm__Mande_Network_Mainnet,Mande Network Mainnet,18071918,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:00Z
+evm__Manta_Pacific_Mainnet,Manta Pacific Mainnet,169,mainnet,PASS,https://pacific-rpc.manta.network/http,10016868,,2026-11-11T10:24:01Z
+evm__Mantle,Mantle,5000,mainnet,PASS,https://rpc.mantle.xyz,103131164,,2026-11-11T10:24:02Z
+evm__Markr_Go,Markr Go,431140,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:01Z
+evm__Mars_Credit,Mars Credit,110110,mainnet,PARTIAL,https://rpc.marscredit.xyz:443,6179365,"tx-parse,cross-check",2026-11-11T10:24:04Z
+evm__Mas_Mainnet,Mas Mainnet,220315,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:01Z
+evm__Masa,Masa,13396,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:01Z
+evm__Matchain,Matchain,698,mainnet,PARTIAL,https://rpc.matchain.io,175101383,cross-check,2026-11-11T10:24:03Z
+evm__MathChain,MathChain,1139,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:18Z
+evm__MaxxChain_Mainnet,MaxxChain Mainnet,10201,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:24:05Z
+evm__MegaETH_Mainnet,MegaETH Mainnet,4326,mainnet,PARTIAL,https://mainnet.megaeth.com/rpc,31595632,cross-check,2026-11-11T10:24:03Z
+evm__Mekong,Mekong,7078815900,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:02Z
+evm__Meld,Meld,333000333,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:02Z
+evm__MemeCore,MemeCore,4352,mainnet,PARTIAL,https://rpc.memecore.net,8274810,cross-check,2026-11-11T10:24:06Z
+evm__Memento_Mainnet,Memento Mainnet,51888,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:03Z
+evm__Memo_Smart_Chain_Mainnet,Memo Smart Chain Mainnet,985,mainnet,PARTIAL,https://chain.metamemo.one:8501,29191460,"tx-parse,cross-check",2026-11-11T10:24:09Z
+evm__Merkle_Scan,Merkle Scan,1909,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:03Z
+evm__Merlin_Mainnet,Merlin Mainnet,4200,mainnet,PARTIAL,https://rpc.merlinchain.io,32962997,"tx-parse,cross-check",2026-11-11T10:24:07Z
+evm__Meroneum,Meroneum,3366,mainnet,PARTIAL,https://mainnet-node1.meronscan.ai/,2927050,"tx-parse,cross-check",2026-11-11T10:24:10Z
+evm__Meta_Assets_Chain,Meta Assets Chain,20260131,mainnet,PARTIAL,https://rpc.ma-chain.xyz,2818741,tx-parse,2026-11-11T10:24:08Z
+evm__MetaBenz_CHAIN,MetaBenz CHAIN,97766,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:05Z
+evm__MetaChain_Istanbul,MetaChain Istanbul,1453,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:05Z
+evm__MetaChain_Mainnet,MetaChain Mainnet,571,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:24:06Z
+evm__MetaDAP_Enterprise_Mainnet,MetaDAP Enterprise Mainnet,91120,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:06Z
+evm__MetaDot_Mainnet,MetaDot Mainnet,16000,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:05Z
+evm__MetaLink_Network,MetaLink Network,2004,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:05Z
+evm__MetaNova_Verse,MetaNova Verse,10096,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:21Z
+evm__Metacces_Mainnet,Metacces Mainnet,2071,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:06Z
+evm__Metachain_One_Mainnet,Metachain One Mainnet,112358,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:24:14Z
+evm__Metadium_Mainnet,Metadium Mainnet,11,mainnet,PARTIAL,https://api.metadium.com/prod,121060033,"tx-parse,cross-check",2026-11-11T10:24:22Z
+evm__Metal_C-Chain,Metal C-Chain,381931,mainnet,PARTIAL,https://api.metalblockchain.org/ext/bc/C/rpc,71948,cross-check,2026-11-11T10:24:08Z
+evm__Metal_L2,Metal L2,1750,mainnet,PARTIAL,https://rpc.metall2.com,41414566,cross-check,2026-11-11T10:24:08Z
+evm__Metal_Tahoe_C-Chain,Metal Tahoe C-Chain,381932,mainnet,FAIL:stale:59102s,,,stale:59102s,2026-11-11T10:24:09Z
+evm__Metaplayerone_Mainnet,Metaplayerone Mainnet,2122,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:08Z
+evm__Meter_Mainnet,Meter Mainnet,82,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:08Z
+evm__Metis_Andromeda_Mainnet,Metis Andromeda Mainnet,1088,mainnet,PASS,https://andromeda.metis.io/?owner=1088,23397636,,2026-11-11T10:24:10Z
+evm__Mezo,Mezo,31612,mainnet,PARTIAL,https://mezo-mainnet.boar.network,13152580,tx-parse,2026-11-11T10:24:12Z
+evm__MiYou_Mainnet,MiYou Mainnet,30088,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:20Z
+evm__Miexs_Smartchain,Miexs Smartchain,761412,mainnet,PARTIAL,https://mainnet-rpc.miexs.com,16108969,"tx-parse,cross-check",2026-11-11T10:24:18Z
+evm__Milkomeda_A1_Mainnet,Milkomeda A1 Mainnet,2002,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:10Z
+evm__Milkomeda_C1_Mainnet,Milkomeda C1 Mainnet,2001,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:11Z
+evm__Milvine,Milvine,9322253,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:26Z
+evm__Mind_Network_Mainnet,Mind Network Mainnet,228,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:24:11Z
+evm__Mind_Smart_Chain_Mainnet,Mind Smart Chain Mainnet,9996,mainnet,FAIL:stale:6053435s,,,stale:6053435s,2026-11-11T10:24:17Z
+evm__Mint_Mainnet,Mint Mainnet,185,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:28Z
+evm__MintMe_com_Coin,MintMe.com Coin,24734,mainnet,PARTIAL,https://node1.mintme.com,13233195,"tx-parse,cross-check",2026-11-11T10:24:17Z
+evm__Mintara_Mainnet,Mintara Mainnet,1080,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:12Z
+evm__Miracle_Chain,Miracle Chain,92278,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:12Z
+evm__Mirasmanda,Mirasmanda,1213549903,mainnet,PARTIAL,https://rpc.evm.mirasmanda.uz,2005841,cross-check,2026-11-11T10:24:15Z
+evm__Mix,Mix,76,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:14Z
+evm__Mixin_Virtual_Machine,Mixin Virtual Machine,73927,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:15Z
+evm__Mizana,Mizana,8136,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:14Z
+evm__Mizana_Mixnet,Mizana Mixnet,81362,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:14Z
+evm__Mizana_Privnet,Mizana Privnet,81363,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:14Z
+evm__Mode,Mode,34443,mainnet,PASS,https://mainnet.mode.network,47112536,,2026-11-11T10:24:16Z
+evm__Modularium,Modularium,776877,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:15Z
+evm__Molereum_Network,Molereum Network,6022140761023,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:15Z
+evm__Monad,Monad,143,mainnet,PARTIAL,https://rpc.monad.xyz,121294861,cross-check,2026-11-11T10:24:16Z
+evm__Monolythium,Monolythium,6941,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:15Z
+evm__Monsoon,Monsoon,100610,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:15Z
+evm__Moonbeam,Moonbeam,1284,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:17Z
+evm__Moonriver,Moonriver,1285,mainnet,FAIL:stale:8042188s,,,stale:8042188s,2026-11-11T10:24:18Z
+evm__Moonrock,Moonrock,1288,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:16Z
+evm__Moonrock_old,Moonrock old,1286,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:16Z
+evm__Moonsama_Network,Moonsama Network,2199,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:16Z
+evm__Morph,Morph,2818,mainnet,PASS,https://rpc-bgw.morph.network,29635807,,2026-11-11T10:24:18Z
+evm__Movement_EVM,Movement EVM,3073,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:17Z
+evm__Movement_EVM_Legacy,Movement EVM Legacy,30730,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:17Z
+evm__Movo_Smart_Chain_Mainnet,Movo Smart Chain Mainnet,2049,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:17Z
+evm__MultiVAC_Mainnet,MultiVAC Mainnet,62621,mainnet,PASS,https://rpc.mtv.ac,56541254,,2026-11-11T10:24:21Z
+evm__Musicoin,Musicoin,7762959,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:17Z
+evm__Muster_Mainnet,Muster Mainnet,4078,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:17Z
+evm__MyRx_Network,MyRx Network,8472,mainnet,PARTIAL,https://rpc.myrxwallet.io,2479116,"tx-parse,cross-check",2026-11-11T10:24:21Z
+evm__Mythical_Chain,Mythical Chain,201804,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:17Z
+evm__NEAR_Protocol,NEAR Protocol,397,mainnet,FAIL:no-height:None,,,no-height:None,2026-11-11T10:24:19Z
+evm__NERO_Mainnet,NERO Mainnet,1689,mainnet,PARTIAL,https://rpc.nerochain.io,20932437,"tx-parse,cross-check",2026-11-11T10:24:23Z
+evm__NFB_Chain,NFB Chain,632,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:24:26Z
+evm__NOW_Chain_Mainnet,NOW Chain Mainnet,2488,mainnet,FAIL:stale:540787s,,,stale:540787s,2026-11-11T10:24:19Z
+evm__NV-CHAIN,NV-CHAIN,73790,mainnet,PARTIAL,https://rpc.neurovatic.ai/rpc,2007699,tx-parse,2026-11-11T10:24:25Z
+evm__Nahmii_2_Mainnet,Nahmii 2 Mainnet,5551,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:19Z
+evm__Nahmii_3_Mainnet,Nahmii 3 Mainnet,4061,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:19Z
+evm__Nal_Mainnet,Nal Mainnet,328527,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:19Z
+evm__Namefi_Chain_Mainnet,Namefi Chain Mainnet,132,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:19Z
+evm__Nanon,Nanon,2748,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:24:28Z
+evm__Nativ3_Mainnet,Nativ3 Mainnet,399,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:20Z
+evm__Nautilus_Mainnet,Nautilus Mainnet,22222,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:20Z
+evm__Nautilus_Trition_Chain,Nautilus Trition Chain,91002,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:20Z
+evm__Nebula,Nebula,73285,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:21Z
+evm__Neo_X_Mainnet,Neo X Mainnet,47763,mainnet,PASS,https://mainnet-1.rpc.banelabs.org,8272433,,2026-11-11T10:24:23Z
+evm__Neon_EVM_Mainnet,Neon EVM Mainnet,245022934,mainnet,PARTIAL,https://operator-proxy.neonevm.org,468088792,"tx-parse,cross-check",2026-11-11T10:24:25Z
+evm__Neonlink_Mainnet,Neonlink Mainnet,259,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:21Z
+evm__Nepachain,Nepachain,9770,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:22Z
+evm__Nepal_Blockchain_Network,Nepal Blockchain Network,977,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:21Z
+evm__Netsbo,Netsbo,5333,mainnet,PASS,https://rpc1.netsbo.io,11511835,,2026-11-11T10:24:23Z
+evm__Neura,Neura,266,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:21Z
+evm__NeuroWeb,NeuroWeb,2043,mainnet,PARTIAL,https://astrosat.origintrail.network,15554527,"tx-parse,cross-check",2026-11-11T10:24:28Z
+evm__Neurochain_Mainnet,Neurochain Mainnet,313,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:26Z
+evm__New_Reality_Blockchain,New Reality Blockchain,8569,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:22Z
+evm__Newton,Newton,1012,mainnet,PARTIAL,https://global.rpc.mainnet.newtonproject.org,82814261,"tx-parse,cross-check",2026-11-11T10:24:35Z
+evm__Nexa_Mainnet_Block,Nexa Mainnet Block,9025,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:23Z
+evm__Nexa_MetaNet,Nexa MetaNet,29223,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:24Z
+evm__Nexera_Mainnet,Nexera Mainnet,7208,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:24:32Z
+evm__Nexi_Mainnet,Nexi Mainnet,4242,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:24Z
+evm__Nexi_V2_Mainnet,Nexi V2 Mainnet,4243,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:24Z
+evm__Nexurachain,Nexurachain,24125,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:24Z
+evm__Nibiru_cataclysm-1,Nibiru cataclysm-1,6900,mainnet,PARTIAL,https://evm-rpc.nibiru.fi,49445626,"tx-parse,cross-check",2026-11-11T10:24:30Z
+evm__Nillion_Network,Nillion Network,98875,mainnet,PARTIAL,https://rpc.nillion.network,14240689,cross-check,2026-11-11T10:24:26Z
+evm__NirmalX_Smart_Chain,NirmalX Smart Chain,15526,mainnet,PARTIAL,https://rpc.nirmalxscan.com,1229952,cross-check,2026-11-11T10:24:27Z
+evm__Niza_Chain_Mainnet,Niza Chain Mainnet,20041,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:25Z
+evm__Nomina,Nomina,166,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:26Z
+evm__Nordek_Mainnet,Nordek Mainnet,81041,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:26Z
+evm__Nova_Network,Nova Network,87,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:26Z
+evm__Ntity_Mainnet,Ntity Mainnet,197710212030,mainnet,PARTIAL,https://rpc.ntity.io,15562517,"tx-parse,cross-check",2026-11-11T10:24:32Z
+evm__NumBlock_Chain,NumBlock Chain,5112023,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:26Z
+evm__Numbers_Mainnet,Numbers Mainnet,10507,mainnet,PARTIAL,https://mainnetrpc.num.network,1629884,cross-check,2026-11-11T10:24:27Z
+evm__Nume,Nume,7100,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:26Z
+evm__NutriEmp_Chain,NutriEmp Chain,432,mainnet,PASS,https://rpc.nutriemp-chain.link,4520155,,2026-11-11T10:24:31Z
+evm__Nxy_Area_51,Nxy Area 51,272247,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:24:28Z
+evm__Nxy_Oasis,Nxy Oasis,272520,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:24:28Z
+evm__O_Chain,O Chain,84841,mainnet,FAIL:no-height:rpc-error,,,no-height:rpc-error,2026-11-11T10:24:49Z
+evm__OEV_Network,OEV Network,4913,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:27Z
+evm__OFFICIAL_VASYL,OFFICIAL VASYL,1278060416,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:27Z
+evm__OHO_Mainnet,OHO Mainnet,39815,mainnet,PARTIAL,https://mainnet.oho.ai,11076574,cross-check,2026-11-11T10:24:32Z
+evm__OKXChain_Mainnet,OKXChain Mainnet,66,mainnet,PARTIAL,https://exchainrpc.okex.org,48443982,"tx-parse,cross-check",2026-11-11T10:24:32Z
+evm__OM_Platform_Mainnet,OM Platform Mainnet,1246,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:28Z
+evm__ONFA_Chain_Mainnet,ONFA Chain Mainnet,12082025,mainnet,FAIL:stale:795401s,,,stale:795401s,2026-11-11T10:24:36Z
+evm__ONIGIRI_Subnet,ONIGIRI Subnet,5040,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:28Z
+evm__ONINO_Mainnet,ONINO Mainnet,1425,mainnet,PARTIAL,https://rpc.onino.io,42266108,cross-check,2026-11-11T10:24:30Z
+evm__ONUS_Chain_Mainnet,ONUS Chain Mainnet,1975,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:24:36Z
+evm__OP_Celestia_Raspberry,OP Celestia Raspberry,123420111,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:28Z
+evm__OP_Mainnet,OP Mainnet,10,mainnet,PASS,https://mainnet.optimism.io,159396946,,2026-11-11T10:24:30Z
+evm__OTC,OTC,175,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:38Z
+evm__OX_Chain,OX Chain,6699,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:30Z
+evm__OYchain_Mainnet,OYchain Mainnet,126,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:30Z
+evm__Oasis_Emerald,Oasis Emerald,42262,mainnet,PARTIAL,https://emerald.oasis.io,22380956,"tx-parse,cross-check",2026-11-11T10:24:35Z
+evm__Oasis_Sapphire,Oasis Sapphire,23294,mainnet,PARTIAL,https://sapphire.oasis.io,16590401,"tx-parse,cross-check",2026-11-11T10:24:33Z
+evm__OasisChain_Mainnet,OasisChain Mainnet,26863,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:32Z
+evm__Oasys_Mainnet,Oasys Mainnet,248,mainnet,PARTIAL,https://rpc.mainnet.oasys.games,15385294,cross-check,2026-11-11T10:24:34Z
+evm__OctaSpace,OctaSpace,800001,mainnet,PARTIAL,https://rpc.octa.space,10727203,"tx-parse,cross-check",2026-11-11T10:24:36Z
+evm__Odyssey_Chain_Mainnet,Odyssey Chain Mainnet,153153,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:32Z
+evm__Omax_Mainnet,Omax Mainnet,311,mainnet,PARTIAL,https://mainapi.omaxray.com,12303811,tx-parse,2026-11-11T10:24:40Z
+evm__Omnia_Chain,Omnia Chain,2342,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:32Z
+evm__Onchain_Points,Onchain Points,17071,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:32Z
+evm__One_World_Chain_Mainnet,One World Chain Mainnet,309075,mainnet,PARTIAL,https://mainnet-rpc.oneworldchain.org,27529813,"tx-parse,cross-check",2026-11-11T10:24:43Z
+evm__OneLedger_Mainnet,OneLedger Mainnet,311752642,mainnet,PARTIAL,https://mainnet-rpc.oneledger.network,11714692,"tx-parse,cross-check",2026-11-11T10:24:35Z
+evm__Oneness_Network,Oneness Network,2140,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:24:41Z
+evm__Ontology_Mainnet,Ontology Mainnet,58,mainnet,PARTIAL,https://dappnode1.ont.io:10339,21024105,tx-parse,2026-11-11T10:24:42Z
+evm__Oone_Chain_Mainnet,Oone Chain Mainnet,777888,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:24:43Z
+evm__Oort_Ascraeus,Oort Ascraeus,972,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:35Z
+evm__Oort_Huygens,Oort Huygens,971,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:35Z
+evm__Oort_Mainnet,Oort Mainnet,970,mainnet,PARTIAL,https://mainnet-rpc.oortech.com,82752360,cross-check,2026-11-11T10:24:37Z
+evm__Oort_MainnetDev,Oort MainnetDev,9700,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:24:37Z
+evm__OpTrust_Mainnet,OpTrust Mainnet,537,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:36Z
+evm__OpenChain_Mainnet,OpenChain Mainnet,474142,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:37Z
+evm__OpenGPU_Mainnet,OpenGPU Mainnet,1071,mainnet,PARTIAL,https://mainnet-rpc.ogpuscan.io,26441678,cross-check,2026-11-11T10:24:38Z
+evm__OpenLedger_Mainnet,OpenLedger Mainnet,1612,mainnet,PARTIAL,https://rpc.openledger.xyz,21180108,cross-check,2026-11-11T10:24:37Z
+evm__OpenVessel,OpenVessel,7355310,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:37Z
+evm__Openpiece_Mainnet,Openpiece Mainnet,54,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:37Z
+evm__OptimusZ7_Mainnet,OptimusZ7 Mainnet,9797,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:37Z
+evm__Optopia_Mainnet,Optopia Mainnet,62050,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:38Z
+evm__Oraichain_Mainnet,Oraichain Mainnet,108160679,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:37Z
+evm__Orange_Chain_Mainnet,Orange Chain Mainnet,61022,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:24:39Z
+evm__Orderly_Mainnet,Orderly Mainnet,291,mainnet,PARTIAL,https://rpc.orderly.network,48892226,cross-check,2026-11-11T10:24:38Z
+evm__Orenium_Mainnet_Protocol,Orenium Mainnet Protocol,7778,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:38Z
+evm__Orlando_Chain,Orlando Chain,3031,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:38Z
+evm__OverProtocol_Mainnet,OverProtocol Mainnet,54176,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:41Z
+evm__Owshen_Mainnet,Owshen Mainnet,918273,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:38Z
+evm__Oxin_Chain,Oxin Chain,4457,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:39Z
+evm__Ozone_Chain_Mainnet,Ozone Chain Mainnet,4000,mainnet,PARTIAL,https://node1.ozonechain.io,458292,"tx-parse,cross-check",2026-11-11T10:24:47Z
+evm__P12_Chain,P12 Chain,20736,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:38Z
+evm__PAXB_Mainnet,PAXB Mainnet,6701,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:38Z
+evm__PAYSCAN_CHAIN,PAYSCAN CHAIN,756689,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:39Z
+evm__PDC_Mainnet,PDC Mainnet,666301171999,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:39Z
+evm__PGN__Public_Goods_Network_,PGN (Public Goods Network),424,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:39Z
+evm__PHI_Network_V1,PHI Network V1,4181,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:39Z
+evm__PHI_Network_v2,PHI Network v2,144,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:39Z
+evm__PIN,PIN,123420000558,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:39Z
+evm__PLAYA3ULL_GAMES,PLAYA3ULL GAMES,3011,mainnet,FAIL:stale:28925s,,,stale:28925s,2026-11-11T10:24:40Z
+evm__PLN_Network,PLN Network,411994,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:39Z
+evm__PLYR_PHI,PLYR PHI,16180,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:39Z
+evm__PMON_Chain,PMON Chain,42001,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:55Z
+evm__POA_Network_Core,POA Network Core,99,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:39Z
+evm__POA_Network_Sokol,POA Network Sokol,77,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:39Z
+evm__POTOS_Mainnet,POTOS Mainnet,60603,mainnet,FAIL:stale:92509s,,,stale:92509s,2026-11-11T10:24:42Z
+evm__PRM_Mainnet,PRM Mainnet,39656,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:39Z
+evm__PTCESCAN_Mainnet,PTCESCAN Mainnet,889910246,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:39Z
+evm__Palette_Chain_Mainnet,Palette Chain Mainnet,1718,mainnet,PARTIAL,https://palette-rpc.com:22000,10963003,cross-check,2026-11-11T10:24:45Z
+evm__Palm,Palm,11297108109,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:40Z
+evm__Palm_Smart_Chain,Palm Smart Chain,973,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:40Z
+evm__Panarchy,Panarchy,2013,mainnet,FAIL:stale:59027082s,,,stale:59027082s,2026-11-11T10:24:42Z
+evm__PandaSea_Mainnet,PandaSea Mainnet,7776,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:55Z
+evm__PandoProject_Mainnet,PandoProject Mainnet,3601,mainnet,PARTIAL,https://eth-rpc-api.pandoproject.org/rpc,23168023,"tx-parse,cross-check",2026-11-11T10:24:44Z
+evm__Parallax,Parallax,2110,mainnet,PARTIAL,https://rpc.parallaxprotocol.org,63826,cross-check,2026-11-11T10:24:44Z
+evm__Parex_Mainnet,Parex Mainnet,322202,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:42Z
+evm__Paribu_Net_Mainnet,Paribu Net Mainnet,3400,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:42Z
+evm__PartyChain,PartyChain,1773,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:42Z
+evm__Paseo_PassetHub,Paseo PassetHub,420420422,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:42Z
+evm__Patex,Patex,789,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:42Z
+evm__Pay1_Network,Pay1 Network,98964,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:43Z
+evm__PayNetwork_Mainnet,PayNetwork Mainnet,3969,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:42Z
+evm__Peerpay,Peerpay,6502,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:42Z
+evm__Peeryn,Peeryn,7991,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:42Z
+evm__Pego_Network,Pego Network,20201022,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:43Z
+evm__Pencils_Protocol,Pencils Protocol,339,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:42Z
+evm__Pentagon_Chain,Pentagon Chain,3344,mainnet,PARTIAL,https://rpc.pentagon.games,5246103,"tx-parse,cross-check",2026-11-11T10:24:51Z
+evm__PepChain_Churchill,PepChain Churchill,13371337,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:43Z
+evm__Pepe_Chain_Mainnet,Pepe Chain Mainnet,411,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:43Z
+evm__Pepe_Unchained_V2,Pepe Unchained V2,97741,mainnet,PARTIAL,https://rpc-pepu-v2-mainnet-0.t.conduit.xyz,10560672,cross-check,2026-11-11T10:24:44Z
+evm__PepeNetwork_Mainnet,PepeNetwork Mainnet,9779,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:43Z
+evm__Perennial,Perennial,1424,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:43Z
+evm__Permission,Permission,222,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:43Z
+evm__Phala_Network,Phala Network,2035,mainnet,PARTIAL,https://rpc.phala.network,6000544,cross-check,2026-11-11T10:24:44Z
+evm__Pho_Blockchain_Mainnet,Pho Blockchain Mainnet,2605,mainnet,PARTIAL,https://mainnet.phochain.org,23969497,"tx-parse,cross-check",2026-11-11T10:24:53Z
+evm__Phoenix_Mainnet,Phoenix Mainnet,13381,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:44Z
+evm__Pione_Chain_Mainnet,Pione Chain Mainnet,5090,mainnet,FAIL:chainid-mismatch:739,,,chainid-mismatch:739,2026-11-11T10:24:44Z
+evm__Pione_Trace_Mainnet,Pione Trace Mainnet,3989,mainnet,PARTIAL,https://rpc.pionetrace.com,5534975,"tx-parse,cross-check",2026-11-11T10:24:49Z
+evm__Pione_Zero,Pione Zero,5080,mainnet,PARTIAL,https://rpc.zeroscan.org,18069950,"tx-parse,cross-check",2026-11-11T10:24:49Z
+evm__Pirl,Pirl,3125659152,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:00Z
+evm__Pivotal_Mainnet,Pivotal Mainnet,1648,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:44Z
+evm__Pixie_Chain_Mainnet,Pixie Chain Mainnet,6626,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:46Z
+evm__Planq_Mainnet,Planq Mainnet,7070,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:24:53Z
+evm__Plasma_Mainnet,Plasma Mainnet,9745,mainnet,PARTIAL,https://rpc.plasma.to,37449310,cross-check,2026-11-11T10:24:46Z
+evm__PlasticHero,PlasticHero,250210,mainnet,PARTIAL,https://rpc.plasticherokorea.com,23733165,"tx-parse,cross-check",2026-11-11T10:24:52Z
+evm__PlatON_Mainnet,PlatON Mainnet,210425,mainnet,PARTIAL,https://openapi2.platon.network/rpc,163467221,cross-check,2026-11-11T10:24:54Z
+evm__PlayBlock,PlayBlock,1829,mainnet,PARTIAL,https://rpc.playblock.io,276556536,cross-check,2026-11-11T10:24:49Z
+evm__PlayFi_Mainnet,PlayFi Mainnet,161212,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:49Z
+evm__Playdapp_Network,Playdapp Network,504441,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:49Z
+evm__Plian_Mainnet_Main,Plian Mainnet Main,2099156,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:49Z
+evm__Plian_Mainnet_Subchain_1,Plian Mainnet Subchain 1,8007736,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:49Z
+evm__Plinga_Mainnet,Plinga Mainnet,242,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:57Z
+evm__Plume__Legacy_,Plume (Legacy),98865,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:49Z
+evm__Plume_Mainnet,Plume Mainnet,98866,mainnet,PARTIAL,https://rpc.plume.org,105098840,cross-check,2026-11-11T10:24:50Z
+evm__PoCRNet,PoCRNet,2606,mainnet,PARTIAL,https://rpc2.pocrnet.ca-dag.work,29325879,"tx-parse,cross-check",2026-11-11T10:25:27Z
+evm__PointPay_Mainnet,PointPay Mainnet,5511,mainnet,PARTIAL,https://rpc-mainnet.pointpay.io,15730888,cross-check,2026-11-11T10:24:51Z
+evm__Polis_Mainnet,Polis Mainnet,333999,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:50Z
+evm__Polkadot,Polkadot,420420419,mainnet,PARTIAL,https://eth-rpc.polkadot.io,22990074,"tx-parse,cross-check",2026-11-11T10:24:55Z
+evm__PolySmartChain,PolySmartChain,6999,mainnet,PARTIAL,https://seed0.polysmartchain.com/,21772304,tx-parse,2026-11-11T10:25:01Z
+evm__Polygon_Blackberry,Polygon Blackberry,94204209,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:51Z
+evm__Polygon_Mainnet,Polygon Mainnet,137,mainnet,PASS,https://polygon.drpc.org,97124825,,2026-11-11T10:24:53Z
+evm__Polygon_Supernet_Arianee,Polygon Supernet Arianee,11891,mainnet,PARTIAL,https://rpc.polygonsupernet.public.arianee.net,48402981,cross-check,2026-11-11T10:24:57Z
+evm__Polygon_zkEVM,Polygon zkEVM,1101,mainnet,FAIL:no-block,,,no-block,2026-11-11T10:24:56Z
+evm__Polynomial,Polynomial,8008,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:53Z
+evm__Pontes-Appia_DLT,Pontes-Appia DLT,540,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:53Z
+evm__Poodl_Mainnet,Poodl Mainnet,15259,mainnet,PARTIAL,https://rpc.poodl.org,24858502,cross-check,2026-11-11T10:24:55Z
+evm__Pools_Mainnet,Pools Mainnet,6868,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:54Z
+evm__Popcateum_Mainnet,Popcateum Mainnet,1213,mainnet,FAIL:stale:84304662s,,,stale:84304662s,2026-11-11T10:24:56Z
+evm__Portal_Fantasy_Chain,Portal Fantasy Chain,909,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:24:54Z
+evm__Posichain_Mainnet_Shard_0,Posichain Mainnet Shard 0,900000,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:55Z
+evm__PowerGold,PowerGold,1313161560,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:55Z
+evm__Powerloom_Mainnet,Powerloom Mainnet,7865,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:55Z
+evm__Powerloom_Mainnet_V2,Powerloom Mainnet V2,7869,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:24:55Z
+evm__PremiumBlock,PremiumBlock,23023,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:55Z
+evm__Primea_Network_Mainnet,Primea Network Mainnet,698369,mainnet,FAIL:stale:17165278s,,,stale:17165278s,2026-11-11T10:24:56Z
+evm__PrimusChain_mainnet,PrimusChain mainnet,78,mainnet,PARTIAL,https://ethnode.primusmoney.com/mainnet,11464563,"tx-parse,cross-check",2026-11-11T10:25:02Z
+evm__Privix_Chain_Mainnet,Privix Chain Mainnet,16969696,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:24:56Z
+evm__ProbeChain_Mainnet,ProbeChain Mainnet,8004,mainnet,PARTIAL,https://proscan.pro/chain/rydberg-rpc,997428,"tx-parse,cross-check",2026-11-11T10:25:02Z
+evm__Prom,Prom,227,mainnet,PARTIAL,https://prom-rpc.eu-north-2.gateway.fm,10497516,"tx-parse,cross-check",2026-11-11T10:25:02Z
+evm__Proof_Of_Memes,Proof Of Memes,18159,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:56Z
+evm__Proof_of_Play_-_Apex,Proof of Play - Apex,70700,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:56Z
+evm__Proof_of_Play_-_Boss,Proof of Play - Boss,70701,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:56Z
+evm__PropTech_Mainnet,PropTech Mainnet,88788,mainnet,PARTIAL,https://mainnet.ptekcoin.com,8172604,"tx-parse,cross-check",2026-11-11T10:25:00Z
+evm__Pruv_Mainnet,Pruv Mainnet,7337,mainnet,PARTIAL,https://rpc.pruv.network,17292886,"tx-parse,cross-check",2026-11-11T10:25:01Z
+evm__PulseChain,PulseChain,369,mainnet,PASS,https://rpc.pulsechain.com,28029693,,2026-11-11T10:24:59Z
+evm__Pundi_AIFX_Omnilayer,Pundi AIFX Omnilayer,530,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:44Z
+evm__Puppynet,Puppynet,157,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:24:58Z
+evm__Q_Mainnet,Q Mainnet,35441,mainnet,PARTIAL,https://rpc.q.org,29201369,"tx-parse,cross-check",2026-11-11T10:25:04Z
+evm__QIE_Blockchain,QIE Blockchain,5656,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:15Z
+evm__QL1,QL1,766,mainnet,PARTIAL,https://evm-rpc-ql1.foxxone.one,13452271,"tx-parse,cross-check",2026-11-11T10:25:06Z
+evm__Qitmeer_Network_Mainnet,Qitmeer Network Mainnet,813,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:25:34Z
+evm__Qitmeer_Network_Mixnet,Qitmeer Network Mixnet,8132,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:00Z
+evm__Qitmeer_Network_Privnet,Qitmeer Network Privnet,8133,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:00Z
+evm__Quadrans_Blockchain,Quadrans Blockchain,10946,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:49Z
+evm__Quai_Network_Mainnet,Quai Network Mainnet,9,mainnet,PARTIAL,https://rpc.quai.network/cyprus1,11078788,cross-check,2026-11-11T10:25:02Z
+evm__Quantum_Chain_Mainnet,Quantum Chain Mainnet,81720,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:01Z
+evm__Quantum_Network,Quantum Network,44445,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:01Z
+evm__QuantumBit,QuantumBit,90909,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:13Z
+evm__Quarix,Quarix,8888888,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:02Z
+evm__QuarkChain_L2_Mainnet,QuarkChain L2 Mainnet,100011,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:02Z
+evm__QuarkChain_Mainnet_Root,QuarkChain Mainnet Root,100000,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:02Z
+evm__QuarkChain_Mainnet_Shard_0,QuarkChain Mainnet Shard 0,100001,mainnet,PARTIAL,https://mainnet-s0-ethapi.quarkchain.io,24256625,"tx-parse,cross-check",2026-11-11T10:25:06Z
+evm__QuarkChain_Mainnet_Shard_1,QuarkChain Mainnet Shard 1,100002,mainnet,PARTIAL,https://mainnet-s1-ethapi.quarkchain.io,24152607,"tx-parse,cross-check",2026-11-11T10:25:06Z
+evm__QuarkChain_Mainnet_Shard_2,QuarkChain Mainnet Shard 2,100003,mainnet,PARTIAL,https://mainnet-s2-ethapi.quarkchain.io,24205744,"tx-parse,cross-check",2026-11-11T10:25:06Z
+evm__QuarkChain_Mainnet_Shard_3,QuarkChain Mainnet Shard 3,100004,mainnet,PARTIAL,https://mainnet-s3-ethapi.quarkchain.io,24266108,"tx-parse,cross-check",2026-11-11T10:25:06Z
+evm__QuarkChain_Mainnet_Shard_4,QuarkChain Mainnet Shard 4,100005,mainnet,PARTIAL,https://mainnet-s4-ethapi.quarkchain.io,24334737,"tx-parse,cross-check",2026-11-11T10:25:08Z
+evm__QuarkChain_Mainnet_Shard_5,QuarkChain Mainnet Shard 5,100006,mainnet,PARTIAL,https://mainnet-s5-ethapi.quarkchain.io,24227428,"tx-parse,cross-check",2026-11-11T10:25:10Z
+evm__QuarkChain_Mainnet_Shard_6,QuarkChain Mainnet Shard 6,100007,mainnet,PARTIAL,https://mainnet-s6-ethapi.quarkchain.io,24134350,"tx-parse,cross-check",2026-11-11T10:25:10Z
+evm__QuarkChain_Mainnet_Shard_7,QuarkChain Mainnet Shard 7,100008,mainnet,PARTIAL,https://mainnet-s7-ethapi.quarkchain.io,24243766,"tx-parse,cross-check",2026-11-11T10:25:10Z
+evm__Quartz_by_Unique,Quartz by Unique,8881,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:06Z
+evm__Qubetics_Mainnet,Qubetics Mainnet,9030,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:47Z
+evm__Quokkacoin_Mainnet,Quokkacoin Mainnet,2077,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:07Z
+evm__R0AR_Chain,R0AR Chain,193939,mainnet,PARTIAL,https://rpc-r0ar.io,33053543,cross-check,2026-11-11T10:25:09Z
+evm__R5_Network,R5 Network,337,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:08Z
+evm__RACE_Mainnet,RACE Mainnet,6805,mainnet,FAIL:stale:5987531s,,,stale:5987531s,2026-11-11T10:25:12Z
+evm__RANNTA_X-Chain,RANNTA X-Chain,13113,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:25Z
+evm__RARI_Chain_Mainnet,RARI Chain Mainnet,1380012617,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:10Z
+evm__REI_Chain_Mainnet,REI Chain Mainnet,55555,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:10Z
+evm__REI_Network,REI Network,47805,mainnet,PARTIAL,https://rpc.rei.network,42728806,"tx-parse,cross-check",2026-11-11T10:25:14Z
+evm__REXX_Mainnet,REXX Mainnet,888882,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:10Z
+evm__RISE,RISE,4153,mainnet,PARTIAL,https://rpc.risechain.com/,26786953,cross-check,2026-11-11T10:25:12Z
+evm__RSS3_VSL_Mainnet,RSS3 VSL Mainnet,12553,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:25:10Z
+evm__Raba_Network_Mainnet,Raba Network Mainnet,7484,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:10Z
+evm__Radius_Network,Radius Network,723487,mainnet,PARTIAL,https://rpc.radiustech.xyz,1794392712253,"tx-parse,cross-check",2026-11-11T10:25:14Z
+evm__Rails,Rails,6278,mainnet,PARTIAL,https://mainnet.steamexchange.io,15846640,cross-check,2026-11-11T10:25:14Z
+evm__Ramestta_Mainnet,Ramestta Mainnet,1370,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:30Z
+evm__Rangers_Protocol_Mainnet,Rangers Protocol Mainnet,2025,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:29Z
+evm__RaptorChain,RaptorChain,1380996178,mainnet,FAIL:stale:1794392714s,,,stale:1794392714s,2026-11-11T10:25:15Z
+evm__Rarimo,Rarimo,7368,mainnet,PARTIAL,https://l2.rarimo.com,92397,cross-check,2026-11-11T10:25:15Z
+evm__Razor_Skale_Chain,Razor Skale Chain,278611351,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:25:15Z
+evm__ReDeFi_Layer_1,ReDeFi Layer 1,47803,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:31Z
+evm__ReDeFi_Layer_2,ReDeFi Layer 2,1899,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:31Z
+evm__Reactive_Kopli,Reactive Kopli,5318008,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:15Z
+evm__Reactive_Lasna,Reactive Lasna,5318007,mainnet,PARTIAL,https://lasna-rpc.rnk.dev,8076216,cross-check,2026-11-11T10:25:18Z
+evm__Reactive_Mainnet,Reactive Mainnet,1597,mainnet,PARTIAL,https://mainnet-rpc.rnk.dev,8884116,cross-check,2026-11-11T10:25:18Z
+evm__Realchain_Mainnet,Realchain Mainnet,121,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:18Z
+evm__Realio,Realio,3301,mainnet,PARTIAL,https://json-rpc.realio.network,20516793,tx-parse,2026-11-11T10:25:23Z
+evm__Reapchain_Mainnet,Reapchain Mainnet,221230,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:18Z
+evm__Rebus_Classic_Mainnet,Rebus Classic Mainnet,1011,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:19Z
+evm__Rebus_Mainnet,Rebus Mainnet,9696,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:19Z
+evm__Recall,Recall,24816,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:19Z
+evm__Redbelly_Network_Mainnet,Redbelly Network Mainnet,151,mainnet,PARTIAL,https://governors.mainnet.redbelly.network,3260176,cross-check,2026-11-11T10:25:20Z
+evm__Redbelly_Network_TGE,Redbelly Network TGE,154,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:20Z
+evm__Reddio,Reddio,50342,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:25:21Z
+evm__RedeCoin,RedeCoin,1972,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:25:21Z
+evm__Redlight_Chain_Mainnet,Redlight Chain Mainnet,2611,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:25:23Z
+evm__Redmansion_Chain,Redmansion Chain,192,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:25:31Z
+evm__Redstone,Redstone,690,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:23Z
+evm__ResinCoin_Mainnet,ResinCoin Mainnet,75000,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:23Z
+evm__Reya_Cronos,Reya Cronos,89346162,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:24Z
+evm__Reya_Network,Reya Network,1729,mainnet,PARTIAL,https://rpc.reya.network,251588897,cross-check,2026-11-11T10:25:26Z
+evm__Rikeza_Network_Mainnet,Rikeza Network Mainnet,1433,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:26Z
+evm__Rinia,Rinia,917,mainnet,PARTIAL,https://rpc-rinia.firestation.io,2083589,"tx-parse,cross-check",2026-11-11T10:25:30Z
+evm__Rivalz,Rivalz,753,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:26Z
+evm__River,River,550,mainnet,PASS,https://mainnet.rpc.river.build,39127328,,2026-11-11T10:25:27Z
+evm__Rivool,Rivool,28540,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:27Z
+evm__Robinhood_Chain,Robinhood Chain,4663,mainnet,PASS,https://rpc.mainnet.chain.robinhood.com,111630091,,2026-11-11T10:25:28Z
+evm__Roburna_Mainnet,Roburna Mainnet,158,mainnet,PARTIAL,https://dataseed.roburna.com,8567408,"tx-parse,cross-check",2026-11-11T10:25:34Z
+evm__Rogue_Chain,Rogue Chain,560013,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:45Z
+evm__Rollux_Mainnet,Rollux Mainnet,570,mainnet,PARTIAL,https://rpc.rollux.com,53513744,cross-check,2026-11-11T10:25:30Z
+evm__Rome_Mainnet_0_Aventine,Rome Mainnet 0 Aventine,7532,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:30Z
+evm__Rome_Palatine,Rome Palatine,7531,mainnet,PARTIAL,https://rubicon.mainnet.romeprotocol.xyz,468089118,"tx-parse,cross-check",2026-11-11T10:25:37Z
+evm__Ronin_Mainnet,Ronin Mainnet,2020,mainnet,PARTIAL,https://api.roninchain.com/rpc,63461971,cross-check,2026-11-11T10:25:31Z
+evm__Rootstock_Mainnet,Rootstock Mainnet,30,mainnet,PASS,https://public-node.rsk.co,9402704,,2026-11-11T10:25:32Z
+evm__Ruby_Smart_Chain_MAINNET,Ruby Smart Chain MAINNET,1821,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:31Z
+evm__Rufus,Rufus,2420,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:31Z
+evm__Rupaya,Rupaya,499,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:31Z
+evm__SATUCHAIN_Mainnet,SATUCHAIN Mainnet,10111945,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:25:37Z
+evm__SEC_Mainnet,SEC Mainnet,19516,mainnet,PARTIAL,https://rpc.secexplorer.io,22208613,"tx-parse,cross-check",2026-11-11T10:25:34Z
+evm__SG_Verse_Mainnet,SG Verse Mainnet,812397,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:31Z
+evm__SJATSH,SJATSH,10086,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:31Z
+evm__SKALE_Base,SKALE Base,1187947933,mainnet,PARTIAL,https://skale-base.skalenodes.com/v1/base,3321252,cross-check,2026-11-11T10:25:32Z
+evm__SKALE_Calypso_Hub,SKALE Calypso Hub,1564830818,mainnet,PARTIAL,https://mainnet.skalenodes.com/v1/honorable-steel-rasalhague,54926787,cross-check,2026-11-11T10:25:35Z
+evm__SKALE_Europa_Hub,SKALE Europa Hub,2046399126,mainnet,PARTIAL,https://mainnet.skalenodes.com/v1/elated-tan-skat,28427375,cross-check,2026-11-11T10:25:33Z
+evm__SKALE_Nebula_Hub,SKALE Nebula Hub,1482601649,mainnet,PARTIAL,https://mainnet.skalenodes.com/v1/green-giddy-denebola,54102946,cross-check,2026-11-11T10:25:34Z
+evm__SKALE_Titan_Hub,SKALE Titan Hub,1350216234,mainnet,PARTIAL,https://mainnet.skalenodes.com/v1/parallel-stormy-spica,10914444,"tx-parse,cross-check",2026-11-11T10:25:39Z
+evm__SOMA_Network_Mainnet,SOMA Network Mainnet,2332,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:34Z
+evm__SPS,SPS,13000,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:34Z
+evm__SRICHAIN,SRICHAIN,95432,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:25:42Z
+evm__STO_Chain,STO Chain,1306,mainnet,PARTIAL,https://evm-stoc-mainnet.stochainscan.io,7991783,"tx-parse,cross-check",2026-11-11T10:25:42Z
+evm__SUR_Blockchain_Network,SUR Blockchain Network,262,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:25:42Z
+evm__SX_Network_Mainnet,SX Network Mainnet,416,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:25:34Z
+evm__SX_Rollup,SX Rollup,4162,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:35Z
+evm__SX_Toronto_Rollup,SX Toronto Rollup,79479957,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:35Z
+evm__Saakuru_Mainnet,Saakuru Mainnet,7225878,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:25:36Z
+evm__Safe_AnWang__Mainnet,Safe(AnWang) Mainnet,6666665,mainnet,PARTIAL,https://safe4.anwang.com/rpc,1623149,cross-check,2026-11-11T10:25:38Z
+evm__SagaEVM,SagaEVM,5464,mainnet,PARTIAL,https://sagaevm.jsonrpc.sagarpc.io,10838665,cross-check,2026-11-11T10:25:39Z
+evm__Sahara_AI,Sahara AI,3132023,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:37Z
+evm__SaitaBlockChain_SBC_,SaitaBlockChain(SBC),1209,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:37Z
+evm__Sakura,Sakura,1022,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:37Z
+evm__Sanko,Sanko,1996,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:37Z
+evm__Santiment_Intelligence_Network,Santiment Intelligence Network,32382,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:25:45Z
+evm__Sapphire_by_Unique,Sapphire by Unique,8883,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:38Z
+evm__Sardis_Mainnet,Sardis Mainnet,51712,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:25:46Z
+evm__SatoshIE,SatoshIE,1985,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:38Z
+evm__SatoshiChain_Mainnet,SatoshiChain Mainnet,12009,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:38Z
+evm__SatoshiVM_Alpha_Mainnet,SatoshiVM Alpha Mainnet,3109,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:38Z
+evm__SatsChain,SatsChain,11521,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:39Z
+evm__Scalind,Scalind,1911,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:25:47Z
+evm__Scenium,Scenium,335700,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:39Z
+evm__Scolcoin_Mainnet,Scolcoin Mainnet,65450,mainnet,PARTIAL,https://mainnet-rpc.scolcoin.com,7063816,"tx-parse,cross-check",2026-11-11T10:25:45Z
+evm__Scroll,Scroll,534352,mainnet,PASS,https://rpc.scroll.io,35682969,,2026-11-11T10:25:41Z
+evm__SecureChain_Mainnet,SecureChain Mainnet,34,mainnet,PARTIAL,https://mainnet-rpc.scai.network,44475985,"tx-parse,cross-check",2026-11-11T10:25:47Z
+evm__Seele_Mainnet,Seele Mainnet,186,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:42Z
+evm__Sei_Network,Sei Network,1329,mainnet,PARTIAL,https://evm-rpc.sei-apis.com,242723410,cross-check,2026-11-11T10:25:44Z
+evm__Selendra_Network_Mainnet,Selendra Network Mainnet,1961,mainnet,PARTIAL,https://rpc.selendra.org,46533397,"tx-parse,cross-check",2026-11-11T10:25:51Z
+evm__SenjePowers_Mainnet,SenjePowers Mainnet,3699,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:42Z
+evm__Sentrix_Chain,Sentrix Chain,7119,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:25:43Z
+evm__Setheum,Setheum,258,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:43Z
+evm__Settlus,Settlus,5371,mainnet,PARTIAL,https://settlus-mainnet.g.alchemy.com/public,54221170,cross-check,2026-11-11T10:25:44Z
+evm__Seven_Chain,Seven Chain,70007,mainnet,PARTIAL,https://theseven.meme/api/seven-chain/jsonrpc,3397,"tx-parse,cross-check",2026-11-11T10:25:47Z
+evm__Shape,Shape,360,mainnet,PASS,https://mainnet.shape.network,36324137,,2026-11-11T10:25:46Z
+evm__Shardeum,Shardeum,8118,mainnet,PARTIAL,https://api.shardeum.org/,8376754,"tx-parse,cross-check",2026-11-11T10:25:50Z
+evm__Shardeum_Liberty_1_X,Shardeum Liberty 1.X,8080,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:45Z
+evm__Shardeum_Liberty_2_X,Shardeum Liberty 2.X,8081,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:45Z
+evm__Shardeum_Sphinx_1_X,Shardeum Sphinx 1.X,8082,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:45Z
+evm__Sharecle_Mainnet,Sharecle Mainnet,1234567,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:01Z
+evm__Sherpax_Mainnet,Sherpax Mainnet,1506,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:45Z
+evm__ShibaChain,ShibaChain,27,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:45Z
+evm__Shibarium,Shibarium,109,mainnet,PARTIAL,https://rpc.shibarium.shib.io,19818989,"tx-parse,cross-check",2026-11-11T10:25:50Z
+evm__Shiden,Shiden,336,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:46Z
+evm__Shido_Network,Shido Network,9008,mainnet,PARTIAL,https://shido-mainnet-archive-lb-nw5es9.zeeve.net/USjg7xqUmCZ4wCsqEOOE/rpc,47560830,tx-parse,2026-11-11T10:25:53Z
+evm__ShimmerEVM,ShimmerEVM,148,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:25:47Z
+evm__Shinarium_Mainnet,Shinarium Mainnet,214,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:46Z
+evm__Shine_Chain,Shine Chain,11221,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:46Z
+evm__Shrapnel_Subnet,Shrapnel Subnet,2044,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:25:47Z
+evm__Shyft_Mainnet,Shyft Mainnet,7341,mainnet,PARTIAL,https://rpc.shyft.network/,21695564,"tx-parse,cross-check",2026-11-11T10:25:56Z
+evm__Siberium_Network,Siberium Network,111111,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:59Z
+evm__Sidra_Chain,Sidra Chain,97453,mainnet,PARTIAL,https://node.sidrachain.com,37355282,cross-check,2026-11-11T10:25:49Z
+evm__Silent_Data_Mainnet,Silent Data Mainnet,380929,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:47Z
+evm__Silicon_zkEVM,Silicon zkEVM,2355,mainnet,PARTIAL,https://rpc.silicon.network,22188792,tx-parse,2026-11-11T10:25:52Z
+evm__Singularity_ZERO_Mainnet,Singularity ZERO Mainnet,12052,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:48Z
+evm__SiriusNet,SiriusNet,67390,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:47Z
+evm__SiriusNet_V2,SiriusNet V2,217,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:25:48Z
+evm__Six_Protocol,Six Protocol,98,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:25:48Z
+evm__Skate_Mainnet,Skate Mainnet,5050,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:48Z
+evm__Skynet,Skynet,619,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:48Z
+evm__SlerfChain_Mainnet,SlerfChain Mainnet,918,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:06Z
+evm__SlingShot,SlingShot,33401,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:49Z
+evm__Smart_Bitcoin_Cash,Smart Bitcoin Cash,10000,mainnet,PARTIAL,https://smartbch.greyh.at,24299429,"tx-parse,cross-check",2026-11-11T10:26:07Z
+evm__Smart_Layer_Network,Smart Layer Network,5169,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:49Z
+evm__Smart_Mainnet,Smart Mainnet,661898459,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:49Z
+evm__Smart_Trade_Networks,Smart Trade Networks,18122,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:49Z
+evm__SmartMesh_Mainnet,SmartMesh Mainnet,20180430,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:25:52Z
+evm__SmartPay_Mobile_Money,SmartPay Mobile Money,666301179999,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:50Z
+evm__SnaxChain,SnaxChain,2192,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:50Z
+evm__Social_Smart_Chain_Mainnet,Social Smart Chain Mainnet,281121,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:07Z
+evm__Socotra_JUNE-Chain,Socotra JUNE-Chain,101003,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:50Z
+evm__Somnia_Mainnet,Somnia Mainnet,5031,mainnet,PARTIAL,https://api.infra.mainnet.somnia.network,462382775,cross-check,2026-11-11T10:25:51Z
+evm__Soneium,Soneium,1868,mainnet,PARTIAL,https://rpc.soneium.org,30628999,cross-check,2026-11-11T10:25:51Z
+evm__Sonic_Mainnet,Sonic Mainnet,146,mainnet,PASS,https://rpc.soniclabs.com,82390763,,2026-11-11T10:25:53Z
+evm__Sophon,Sophon,50104,mainnet,PARTIAL,https://rpc.sophon.xyz,29683740,cross-check,2026-11-11T10:25:53Z
+evm__Sorian,Sorian,210209,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:51Z
+evm__SoterOne_Mainnet,SoterOne Mainnet,68,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:52Z
+evm__SoterOne_Mainnet_old,SoterOne Mainnet old,218,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:53Z
+evm__Sova,Sova,100021,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:52Z
+evm__Soverun_Mainnet,Soverun Mainnet,10101010,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:25:54Z
+evm__Space_Subnet,Space Subnet,8227,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:25:52Z
+evm__Splendor_Mainnet,Splendor Mainnet,2691,mainnet,FAIL:stale:41234s,,,stale:41234s,2026-11-11T10:25:54Z
+evm__Sports_Chain_Network,Sports Chain Network,1904,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:53Z
+evm__Spotlight,Spotlight,10058111,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:53Z
+evm__Stable_Mainnet,Stable Mainnet,988,mainnet,PARTIAL,https://rpc.stable.xyz,46449535,cross-check,2026-11-11T10:25:55Z
+evm__StableNet_Mainnet,StableNet Mainnet,8282,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:53Z
+evm__Standard_Mainnet,Standard Mainnet,486,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:53Z
+evm__StarCHAIN,StarCHAIN,1578,mainnet,PARTIAL,https://rpc.starworksglobal.com,45276223,"tx-parse,cross-check",2026-11-11T10:25:59Z
+evm__StateMesh,StateMesh,1134,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:10Z
+evm__Status_Network,Status Network,373,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:53Z
+evm__Stenix_Mainnet,Stenix Mainnet,425,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:54Z
+evm__Step_Network,Step Network,1234,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:54Z
+evm__Storagechain_Mainnet,Storagechain Mainnet,8726,mainnet,PARTIAL,https://mainnet-validator.storagechain.io,15951974,"tx-parse,cross-check",2026-11-11T10:25:58Z
+evm__Storchain,Storchain,6667,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:54Z
+evm__Story,Story,1514,mainnet,PARTIAL,https://mainnet.datarpc.io,24446256,cross-check,2026-11-11T10:25:55Z
+evm__Stratos,Stratos,2048,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:54Z
+evm__StreamChain,StreamChain,250611,mainnet,PARTIAL,https://rpc.strmchain.com,22124482,cross-check,2026-11-11T10:25:57Z
+evm__StreamuX_Blockchain,StreamuX Blockchain,8098,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:25:55Z
+evm__StreetDog_Chain,StreetDog Chain,77778,mainnet,PARTIAL,https://rpc.chain.streetdog.me,4490518,"tx-parse,cross-check",2026-11-11T10:26:01Z
+evm__Structx_Mainnet,Structx Mainnet,208,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:55Z
+evm__Studio_Blockchain_Mainnet,Studio Blockchain Mainnet,240241,mainnet,PARTIAL,https://mainnet.studio-blockchain.com,5543388,tx-parse,2026-11-11T10:26:39Z
+evm__Subtensor_EVM,Subtensor EVM,964,mainnet,PARTIAL,https://lite.chain.opentensor.ai,9482417,cross-check,2026-11-11T10:25:59Z
+evm__Super_Smart_Chain_Mainnet,Super Smart Chain Mainnet,1970,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:58Z
+evm__SuperAIChain_Mainnet,SuperAIChain Mainnet,19998,mainnet,PARTIAL,https://rpc.superaichain.ai,15201137,"tx-parse,cross-check",2026-11-11T10:26:02Z
+evm__SuperLumio,SuperLumio,8866,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:58Z
+evm__Superposition,Superposition,55244,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:58Z
+evm__Superseed,Superseed,5330,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:58Z
+evm__Susono,Susono,13812,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:25:58Z
+evm__Swamps_L2,Swamps L2,45454,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:26:07Z
+evm__Swan_Chain_Mainnet,Swan Chain Mainnet,254,mainnet,PASS,https://mainnet-rpc.swanchain.org,15150509,,2026-11-11T10:26:00Z
+evm__SwapDEX,SwapDEX,230,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:00Z
+evm__Swellchain,Swellchain,1923,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:00Z
+evm__SwissDLT,SwissDLT,94,mainnet,PARTIAL,https://rpc.swissdlt.ch,27399190,"tx-parse,cross-check",2026-11-11T10:26:06Z
+evm__Swisstronik_Mainnet,Swisstronik Mainnet,1848,mainnet,PARTIAL,https://json-rpc.mainnet.swisstronik.com/unencrypted/,3352226,"tx-parse,cross-check",2026-11-11T10:26:05Z
+evm__Symbiosis,Symbiosis,13863860,mainnet,PARTIAL,https://symbiosis.calderachain.xyz/http,454574,cross-check,2026-11-11T10:26:01Z
+evm__Symplexia_Smart_Chain,Symplexia Smart Chain,1149,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:01Z
+evm__Syndicate_Frame_Chain,Syndicate Frame Chain,5101,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:01Z
+evm__Syndicate_Mainnet,Syndicate Mainnet,510,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:01Z
+evm__Syndr_L3,Syndr L3,404,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:02Z
+evm__Syscoin_Mainnet,Syscoin Mainnet,57,mainnet,PARTIAL,https://rpc.syscoin.org,1023517,tx-parse,2026-11-11T10:26:08Z
+evm__T-EKTA,T-EKTA,1004,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:02Z
+evm__T_E_A_M_Blockchain,T.E.A.M Blockchain,88888888,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:03Z
+evm__TAC_Mainnet,TAC Mainnet,239,mainnet,PARTIAL,https://rpc-public.tac.build,28522942,"tx-parse,cross-check",2026-11-11T10:26:05Z
+evm__TAC_Saint_Petersburg,TAC Saint Petersburg,2391,mainnet,PARTIAL,https://rpc-public-spb.tac.build,27929292,"tx-parse,cross-check",2026-11-11T10:26:07Z
+evm__TAC_Turin,TAC Turin,2390,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:04Z
+evm__TAO_EVM_Mainnet,TAO EVM Mainnet,10321,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:26:04Z
+evm__TAPROOT_Mainnet,TAPROOT Mainnet,911,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:04Z
+evm__TBSI_Mainnet,TBSI Mainnet,1707,mainnet,PARTIAL,https://rpc.blockchain.or.th,12776772,cross-check,2026-11-11T10:26:10Z
+evm__TBWG_Chain,TBWG Chain,35,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:05Z
+evm__TCG_Verse_Mainnet,TCG Verse Mainnet,2400,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:05Z
+evm__THAT_Mainnet,THAT Mainnet,8428,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:06Z
+evm__TLChain_Network_Mainnet,TLChain Network Mainnet,5177,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:06Z
+evm__TMY_Chain,TMY Chain,8768,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:06Z
+evm__TOOL_Global_Mainnet,TOOL Global Mainnet,8723,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:06Z
+evm__TOP_Mainnet,TOP Mainnet,989,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:26:06Z
+evm__TOP_Mainnet_EVM,TOP Mainnet EVM,980,mainnet,FAIL:no-height:HTTPError,,,no-height:HTTPError,2026-11-11T10:26:06Z
+evm__TPIX_Chain,TPIX Chain,4289,mainnet,PARTIAL,https://rpc.tpix.online,4099803,"tx-parse,cross-check",2026-11-11T10:26:11Z
+evm__TRUMPCHAIN,TRUMPCHAIN,4547,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:06Z
+evm__TSC_Mainnet,TSC Mainnet,345,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:06Z
+evm__TTL_Coin,TTL Coin,7777,mainnet,PARTIAL,https://rpc.ttl1.top,2890831,cross-check,2026-11-11T10:26:08Z
+evm__TTcoin_Smart_Chain_Mainnet,TTcoin Smart Chain Mainnet,330844,mainnet,PARTIAL,https://mainnet-rpc.tscscan.com,22712953,cross-check,2026-11-11T10:26:13Z
+evm__Taf_ECO_Chain_Mainnet,Taf ECO Chain Mainnet,224168,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:06Z
+evm__Taiko,Taiko,167000,mainnet,PASS,https://rpc.mainnet.taiko.xyz,13874385,,2026-11-11T10:26:08Z
+evm__Taiko_Eldfell_L3,Taiko Eldfell L3,167006,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:07Z
+evm__Taiko_Grimsvotn_L2,Taiko Grimsvotn L2,167005,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:07Z
+evm__Taiko_Jolnir_L2,Taiko Jolnir L2,167007,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:07Z
+evm__Taiko_Katla_L2,Taiko Katla L2,167008,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:26:07Z
+evm__Taker_Chain_Mainnet,Taker Chain Mainnet,1125,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:07Z
+evm__Tangle,Tangle,5845,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:07Z
+evm__Tao_Network,Tao Network,558,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:08Z
+evm__Taraxa_Mainnet,Taraxa Mainnet,841,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:11Z
+evm__Taycan,Taycan,22023,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:08Z
+evm__Tea_Mainnet,Tea Mainnet,6122,mainnet,PASS,https://rpc.tea.xyz,7313723,,2026-11-11T10:26:11Z
+evm__TechPay_Mainnet,TechPay Mainnet,2569,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:08Z
+evm__Tectum_Emission_Token,Tectum Emission Token,1003,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:09Z
+evm__Teleport,Teleport,8000,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:08Z
+evm__Telos_EVM_Mainnet,Telos EVM Mainnet,40,mainnet,PARTIAL,https://rpc.telos.net,498733190,tx-parse,2026-11-11T10:26:12Z
+evm__Tempo_Mainnet_Presto,Tempo Mainnet Presto,4217,mainnet,PARTIAL,https://rpc.mainnet.tempo.xyz,48492867,cross-check,2026-11-11T10:26:09Z
+evm__Tenet,Tenet,1559,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:17Z
+evm__Ternoa,Ternoa,752025,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:09Z
+evm__Teslafunds,Teslafunds,1856,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:09Z
+evm__Tetron_Smart_Chain,Tetron Smart Chain,97055,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:09Z
+evm__ThaiChain,ThaiChain,7,mainnet,FAIL:stale:2418905s,,,stale:2418905s,2026-11-11T10:26:12Z
+evm__ThaiChain_2_0_ThaiFi,ThaiChain 2.0 ThaiFi,17,mainnet,PARTIAL,https://rpc.thaifi.com,21055866,"tx-parse,cross-check",2026-11-11T10:26:13Z
+evm__The_Root_Network_-_Mainnet,The Root Network - Mainnet,7668,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:26:17Z
+evm__The_Widows_Mite,The Widows Mite,426,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:10Z
+evm__Theta_Mainnet,Theta Mainnet,361,mainnet,PARTIAL,https://eth-rpc-api.thetatoken.org/rpc,36650806,"tx-parse,cross-check",2026-11-11T10:26:14Z
+evm__Thinkium_Mainnet_Chain_0,Thinkium Mainnet Chain 0,70000,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:11Z
+evm__Thinkium_Mainnet_Chain_1,Thinkium Mainnet Chain 1,70001,mainnet,PARTIAL,https://proxy1.thinkiumrpc.net/,78455209,"tx-parse,cross-check",2026-11-11T10:26:20Z
+evm__Thinkium_Mainnet_Chain_103,Thinkium Mainnet Chain 103,70103,mainnet,PARTIAL,https://proxy103.thinkiumrpc.net/,73035661,"tx-parse,cross-check",2026-11-11T10:26:21Z
+evm__Thinkium_Mainnet_Chain_2,Thinkium Mainnet Chain 2,70002,mainnet,PARTIAL,https://proxy2.thinkiumrpc.net/,73017121,"tx-parse,cross-check",2026-11-11T10:26:21Z
+evm__ThunderCore_Mainnet,ThunderCore Mainnet,108,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:12Z
+evm__Tiltyard_Mainnet_Subnet,Tiltyard Mainnet Subnet,710420,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:12Z
+evm__Tiltyard_Subnet,Tiltyard Subnet,1127469,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:12Z
+evm__Tipboxcoin_Mainnet,Tipboxcoin Mainnet,404040,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:12Z
+evm__Titan,Titan,55004,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:12Z
+evm__Titan__TKX_,Titan (TKX),18888,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:12Z
+evm__TokClaw_Blockchain,TokClaw Blockchain,7447,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:26:20Z
+evm__Toki_Network,Toki Network,8654,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:12Z
+evm__Tomb_Chain_Mainnet,Tomb Chain Mainnet,6969,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:28Z
+evm__Toronet_Mainnet,Toronet Mainnet,77777,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:13Z
+evm__Torus_Mainnet,Torus Mainnet,8192,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:13Z
+evm__Tranched_Mainnet,Tranched Mainnet,743,mainnet,PARTIAL,https://tranched-mainnet.calderachain.xyz/http,209069,cross-check,2026-11-11T10:26:14Z
+evm__Transparency_Solution,Transparency Solution,179170,mainnet,PARTIAL,https://rpc-api.transparency.solutions,704223,"tx-parse,cross-check",2026-11-11T10:26:18Z
+evm__Treasure,Treasure,61166,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:14Z
+evm__Treasure_Ruby,Treasure Ruby,978657,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:26:14Z
+evm__Treasure_Topaz,Treasure Topaz,978658,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:14Z
+evm__Treasurenet_Mainnet_Alpha,Treasurenet Mainnet Alpha,5002,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:26:23Z
+evm__Tres_Mainnet,Tres Mainnet,6066,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:30Z
+evm__Trexx,Trexx,13766,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:14Z
+evm__Tron_Mainnet,Tron Mainnet,728126428,mainnet,PARTIAL,https://api.trongrid.io/jsonrpc,87906320,cross-check,2026-11-11T10:26:16Z
+evm__Tron_Shasta,Tron Shasta,2494104990,mainnet,PARTIAL,https://api.shasta.trongrid.io/jsonrpc,70025627,cross-check,2026-11-11T10:26:19Z
+evm__TrustBitcoin_Mainnet,TrustBitcoin Mainnet,10791,mainnet,PARTIAL,https://rpc.trustbitcoin.io,6941810,cross-check,2026-11-11T10:26:18Z
+evm__Tucana,Tucana,711,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:17Z
+evm__Turbo,Turbo,1313161567,mainnet,PARTIAL,https://rpc-0x4e45415f.aurora-cloud.dev,224052635,"tx-parse,cross-check",2026-11-11T10:26:22Z
+evm__TurkChain,TurkChain,1919,mainnet,PARTIAL,https://rpc.turkscan.com,3093645,"tx-parse,cross-check",2026-11-11T10:26:23Z
+evm__Tuxappcoin,Tuxappcoin,1313161573,mainnet,PARTIAL,https://rpc-0x4e454165.aurora-cloud.dev,224052637,"tx-parse,cross-check",2026-11-11T10:26:23Z
+evm__Tycooncoin,Tycooncoin,3630,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:26:27Z
+evm__U2U_Solaris_Mainnet,U2U Solaris Mainnet,39,mainnet,PARTIAL,https://rpc-mainnet.u2u.xyz,69913487,cross-check,2026-11-11T10:26:35Z
+evm__UB_Smart_Chain,UB Smart Chain,99999,mainnet,PARTIAL,https://rpc.ab.testnet.adifoundation.ai/,1294018,cross-check,2026-11-11T10:26:23Z
+evm__UBIT_SMARTCHAIN_MAINNET,UBIT SMARTCHAIN MAINNET,90002,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:26:29Z
+evm__UCHAIN_Mainnet,UCHAIN Mainnet,2112,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:21Z
+evm__UPTN,UPTN,6119,mainnet,FAIL:stale:4867798s,,,stale:4867798s,2026-11-11T10:26:27Z
+evm__UPchain_Mainnet,UPchain Mainnet,336666,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:22Z
+evm__UXLINK_ONE_Mainnet,UXLINK ONE Mainnet,718,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:22Z
+evm__Ubiq,Ubiq,8,mainnet,PASS,https://rpc.c8ntinuum.com,1621380,,2026-11-11T10:26:27Z
+evm__Ultima_Mainnet,Ultima Mainnet,3416255149,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:26:23Z
+evm__Ultra_EVM_Network,Ultra EVM Network,19991,mainnet,PARTIAL,https://evm.ultra.eosusa.io,56763911,"tx-parse,cross-check",2026-11-11T10:26:27Z
+evm__Ultra_Pro_Mainnet,Ultra Pro Mainnet,473861,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:23Z
+evm__Ultron_Mainnet,Ultron Mainnet,1231,mainnet,PARTIAL,https://ultron-rpc.net,56272690,cross-check,2026-11-11T10:26:26Z
+evm__Unichain,Unichain,130,mainnet,PASS,https://mainnet.unichain.org,63644425,,2026-11-11T10:26:25Z
+evm__Unique,Unique,8880,mainnet,PARTIAL,https://rpc.unique.network,13460266,tx-parse,2026-11-11T10:26:29Z
+evm__Unit_Zero_Mainnet,Unit Zero Mainnet,88811,mainnet,PARTIAL,https://rpc.unit0.dev,15703593,"tx-parse,cross-check",2026-11-11T10:26:31Z
+evm__Unit_Zero_Stagenet,Unit Zero Stagenet,88819,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:30Z
+evm__Unite,Unite,88899,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:27Z
+evm__Unitsky_String_Technologies,Unitsky String Technologies,778889,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:27Z
+evm__Uptick_Mainnet,Uptick Mainnet,117,mainnet,PARTIAL,https://json-rpc.uptick.network,20082903,"tx-parse,cross-check",2026-11-11T10:26:35Z
+evm__Uzmi_Network_Mainnet,Uzmi Network Mainnet,5315,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:27Z
+evm__VALYGO_NFT,VALYGO NFT,7773777,mainnet,FAIL:stale:967037s,,,stale:967037s,2026-11-11T10:26:30Z
+evm__VALYGO_Smartchain,VALYGO Smartchain,7771777,mainnet,FAIL:stale:19176s,,,stale:19176s,2026-11-11T10:26:31Z
+evm__VChain_Mainnet,VChain Mainnet,2223,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:28Z
+evm__VELO_Labs_Mainnet,VELO Labs Mainnet,56789,mainnet,PARTIAL,https://nova.velo.org,1080466,cross-check,2026-11-11T10:26:29Z
+evm__VEMP_Horizon,VEMP Horizon,82614,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:28Z
+evm__VERY_Mainnet,VERY Mainnet,4613,mainnet,PARTIAL,https://rpc.verylabs.io,6397834,"tx-parse,cross-check",2026-11-11T10:26:41Z
+evm__Validium_Network,Validium Network,567,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:30Z
+evm__Valorbit,Valorbit,38,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:29Z
+evm__Vana,Vana,1480,mainnet,PARTIAL,https://rpc.vana.org/,10963018,cross-check,2026-11-11T10:26:30Z
+evm__Vanar_Mainnet,Vanar Mainnet,2040,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:29Z
+evm__Vanguard,Vanguard,78600,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:29Z
+evm__Vcitychain_Mainnet,Vcitychain Mainnet,20250825,mainnet,PARTIAL,https://mainnet-rpc.vcity.app,20173364,cross-check,2026-11-11T10:26:31Z
+evm__VeChain,VeChain,100009,mainnet,PARTIAL,https://rpc-mainnet.vechain.energy,26386010,cross-check,2026-11-11T10:26:32Z
+evm__Vecno_Mainnet,Vecno Mainnet,65357,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:30Z
+evm__Vector_Smart_Chain,Vector Smart Chain,420042,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:26:38Z
+evm__Vela1_Chain_Mainnet,Vela1 Chain Mainnet,555,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:30Z
+evm__Velas_EVM_Mainnet,Velas EVM Mainnet,106,mainnet,PASS,https://evmexplorer.velas.com/rpc,70417597,,2026-11-11T10:26:34Z
+evm__Venidium_Mainnet,Venidium Mainnet,4919,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:30Z
+evm__Vention_Smart_Chain_Mainnet,Vention Smart Chain Mainnet,77612,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:30Z
+evm__Viction,Viction,88,mainnet,PARTIAL,https://rpc.viction.xyz,116151271,cross-check,2026-11-11T10:26:32Z
+evm__VinuChain_Network,VinuChain Network,207,mainnet,PARTIAL,https://rpc.vinuchain.org,15334340,cross-check,2026-11-11T10:26:31Z
+evm__VirBiCoin,VirBiCoin,329,mainnet,PARTIAL,https://rpc.digitalregion.jp,3333962,"tx-parse,cross-check",2026-11-11T10:26:36Z
+evm__Viridis_Mainnet,Viridis Mainnet,422,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:31Z
+evm__Vision_-_Mainnet,Vision - Mainnet,888888,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:31Z
+evm__Vitruveo_Mainnet,Vitruveo Mainnet,1490,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:31Z
+evm__Vizing_Mainnet,Vizing Mainnet,28518,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:31Z
+evm__Volcano_Chain_Mainnet,Volcano Chain Mainnet,10085,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:31Z
+evm__Volley_Mainnet,Volley Mainnet,9981,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:31Z
+evm__Vrcscan_Mainnet,Vrcscan Mainnet,713,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:31Z
+evm__Vyvo_Smart_Chain,Vyvo Smart Chain,8889,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:31Z
+evm__WABA_Chain_Mainnet,WABA Chain Mainnet,327126,mainnet,PARTIAL,https://rpc.wabaworld.com,6742264,"tx-parse,cross-check",2026-11-11T10:26:36Z
+evm__WAGMI,WAGMI,11111,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:31Z
+evm__WEMIX3_0_Mainnet,WEMIX3.0 Mainnet,1111,mainnet,PARTIAL,https://api.wemix.com,128159083,"tx-parse,cross-check",2026-11-11T10:26:37Z
+evm__WITNESS_CHAIN,WITNESS CHAIN,1702448187,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:32Z
+evm__Wadzchain_Mainnet,Wadzchain Mainnet,171717,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:32Z
+evm__Wanchain,Wanchain,888,mainnet,PARTIAL,https://gwan-ssl.wandevs.org:56891/,47232598,cross-check,2026-11-11T10:26:33Z
+evm__Waterfall_Network,Waterfall Network,181,mainnet,FAIL:stale:57914s,,,stale:57914s,2026-11-11T10:26:34Z
+evm__Web3Q_Galileo,Web3Q Galileo,3334,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:33Z
+evm__WebChain_ETK,WebChain ETK,1000001,mainnet,PARTIAL,https://rpc.webchain.e-talk.xyz,14313,"tx-parse,cross-check",2026-11-11T10:26:42Z
+evm__Webchain,Webchain,24484,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:26:33Z
+evm__Weber_Governance_Mainnet,Weber Governance Mainnet,881,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:37Z
+evm__Wegochain_Rubidium_Mainnet,Wegochain Rubidium Mainnet,5869,mainnet,PARTIAL,https://proxy.wegochain.io,206273466,"tx-parse,cross-check",2026-11-11T10:26:38Z
+evm__Westend_Asset_Hub,Westend Asset Hub,420420421,mainnet,PARTIAL,https://westend-asset-hub-eth-rpc.polkadot.io,19254522,"tx-parse,cross-check",2026-11-11T10:26:38Z
+evm__Whitechain,Whitechain,1875,mainnet,PARTIAL,https://rpc.whitechain.io,52370324,cross-check,2026-11-11T10:26:37Z
+evm__Winr_Protocol_Mainnet,Winr Protocol Mainnet,777777,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:35Z
+evm__Wirex_Pay_Mainnet,Wirex Pay Mainnet,31415,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:36Z
+evm__Won_Network,Won Network,686868,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:36Z
+evm__WoopChain_Mainnet,WoopChain Mainnet,139,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:36Z
+evm__World_Chain,World Chain,480,mainnet,PASS,https://worldchain-mainnet.g.alchemy.com/public,37528579,,2026-11-11T10:26:37Z
+evm__World_Trade_Technical_Chain_Mainnet,World Trade Technical Chain Mainnet,1202,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:36Z
+evm__WorldEcoMoney,WorldEcoMoney,315,mainnet,PARTIAL,https://rpc.wemblockchain.com,8987910,"tx-parse,cross-check",2026-11-11T10:26:39Z
+evm__WorldLand_Mainnet,WorldLand Mainnet,103,mainnet,PARTIAL,https://seoul.worldland.foundation,10353172,"tx-parse,cross-check",2026-11-11T10:26:48Z
+evm__WorldMobileChain-Mainnet,WorldMobileChain-Mainnet,869,mainnet,PARTIAL,https://worldmobilechain-mainnet.g.alchemy.com/public,37219727,cross-check,2026-11-11T10:26:38Z
+evm__Worlds_Caldera,Worlds Caldera,4281033,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:37Z
+evm__WowChain_Mainnet,WowChain Mainnet,203,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:37Z
+evm__X_Layer_Mainnet,X Layer Mainnet,196,mainnet,PASS,https://rpc.xlayer.tech,75623763,,2026-11-11T10:26:40Z
+evm__X1_Fastnet,X1 Fastnet,4003,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:38Z
+evm__X1_Network,X1 Network,204005,mainnet,FAIL:no-handshake:rpc-error,,,no-handshake:rpc-error,2026-11-11T10:26:38Z
+evm__XANAChain,XANAChain,8888,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:39Z
+evm__XCAP,XCAP,9322252,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:54Z
+evm__XCHAIN,XCHAIN,94524,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:38Z
+evm__XCOIN,XCOIN,158345,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:38Z
+evm__XDC_Apothem_Network,XDC Apothem Network,51,mainnet,PARTIAL,https://rpc.apothem.network,85242987,tx-parse,2026-11-11T10:26:43Z
+evm__XDC_Network,XDC Network,50,mainnet,PASS,https://erpc.xinfin.network,109289947,,2026-11-11T10:26:40Z
+evm__XGR_Mainnet,XGR Mainnet,1643,mainnet,PARTIAL,https://rpc.xgr.network,12830178,tx-parse,2026-11-11T10:26:47Z
+evm__XMTP,XMTP,24132016,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:26:38Z
+evm__XO_Market,XO Market,3223,mainnet,PARTIAL,https://rpc-mainnet-2.xo.market/,13930071,cross-check,2026-11-11T10:26:40Z
+evm__XODEX,XODEX,2415,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:40Z
+evm__XPLA_Verse,XPLA Verse,7300,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:55Z
+evm__XProtocol,XProtocol,8386,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:26:39Z
+evm__XR_One,XR One,273,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:39Z
+evm__XRPL_EVM_Sidechain,XRPL EVM Sidechain,1440000,mainnet,PARTIAL,https://rpc.xrplevm.org,8557202,"tx-parse,cross-check",2026-11-11T10:26:44Z
+evm__XT_Smart_Chain_Mainnet,XT Smart Chain Mainnet,520,mainnet,PARTIAL,https://datarpc1.xsc.pub,50904710,tx-parse,2026-11-11T10:26:45Z
+evm__XUSD_ONE_StableChain_Mainnet,XUSD ONE StableChain Mainnet,20441,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:26:41Z
+evm__Xai_Mainnet,Xai Mainnet,660279,mainnet,PARTIAL,https://xai-chain.net/rpc,138509754,cross-check,2026-11-11T10:26:41Z
+evm__Xenea_Ubusuna,Xenea Ubusuna,1096,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:42Z
+evm__Xerom,Xerom,1313500,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:41Z
+evm__Xertra_Mainnet,Xertra Mainnet,105105,mainnet,PARTIAL,https://rpc.xertra.com,5504312,cross-check,2026-11-11T10:26:43Z
+evm__XferChain_Mainnet,XferChain Mainnet,28125,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:42Z
+evm__Xitcoin,Xitcoin,101088,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:26:41Z
+evm__Xone_Mainnet,Xone Mainnet,3721,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:42Z
+evm__Xphere_Mainnet,Xphere Mainnet,20250217,mainnet,PARTIAL,https://en-bkk.x-phere.com,53557760,cross-check,2026-11-11T10:26:44Z
+evm__Xterio_Chain__ETH_,Xterio Chain (ETH),2702128,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:42Z
+evm__Yidark_Chain_Mainnet,Yidark Chain Mainnet,927,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:42Z
+evm__Yominet,Yominet,428962654539583,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:43Z
+evm__Yooldo_Verse_Mainnet,Yooldo Verse Mainnet,50005,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:43Z
+evm__YuanChain_Mainnet,YuanChain Mainnet,3999,mainnet,PARTIAL,https://mainnet.yuan.org/eth,154636109,cross-check,2026-11-11T10:26:48Z
+evm__Z_Chain,Z Chain,9369,mainnet,PARTIAL,https://rpc.zchain.org,39350747,cross-check,2026-11-11T10:26:49Z
+evm__ZEDXION,ZEDXION,83872,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:59Z
+evm__ZERO_Network,ZERO Network,543210,mainnet,FAIL:no-handshake:rpc-error,,,no-handshake:rpc-error,2026-11-11T10:26:44Z
+evm__ZEUS_Mainnet,ZEUS Mainnet,34504,mainnet,PARTIAL,https://mainnet-rpc.zeuschainscan.io,24160986,"tx-parse,cross-check",2026-11-11T10:26:53Z
+evm__ZIGChain,ZIGChain,944,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:26:44Z
+evm__ZKAmoeba_Mainnet,ZKAmoeba Mainnet,381,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:44Z
+evm__ZKBase_Mainnet,ZKBase Mainnet,1456,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:26:52Z
+evm__ZKFair_Mainnet,ZKFair Mainnet,42766,mainnet,FAIL:stale:36035s,,,stale:36035s,2026-11-11T10:26:45Z
+evm__ZKSats_Mainnet,ZKSats Mainnet,305,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:44Z
+evm__ZKasino_Mainnet,ZKasino Mainnet,88800,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:53Z
+evm__ZKcandy_Mainnet,ZKcandy Mainnet,320,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:56Z
+evm__Zafirium_Mainnet,Zafirium Mainnet,1369,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:46Z
+evm__Zchains,Zchains,168168,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:46Z
+evm__Zebro_Smart_Chain,Zebro Smart Chain,786786,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:46Z
+evm__Zeeth_Chain,Zeeth Chain,427,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:46Z
+evm__ZenChain,ZenChain,8108,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:26:46Z
+evm__Zeniq,Zeniq,383414847825,mainnet,PARTIAL,https://api.zeniq.network,41265392,cross-check,2026-11-11T10:26:48Z
+evm__Zenith_Mainnet,Zenith Mainnet,79,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:47Z
+evm__Zeroth_Mainnet,Zeroth Mainnet,4088,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:48Z
+evm__ZetaChain_Mainnet,ZetaChain Mainnet,7000,mainnet,PASS,https://zetachain-evm.blockpi.network/v1/rpc/public,20113354,,2026-11-11T10:26:50Z
+evm__Zether_Mainnet,Zether Mainnet,715131,mainnet,FAIL:no-handshake:JSONDecodeError,,,no-handshake:JSONDecodeError,2026-11-11T10:26:50Z
+evm__Zhejiang,Zhejiang,1337803,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:48Z
+evm__Zilliqa_2,Zilliqa 2,32769,mainnet,PARTIAL,https://api.zilliqa.com,40153016,"tx-parse,cross-check",2026-11-11T10:26:58Z
+evm__Zilliqa_2_EVM_proto-mainnet,Zilliqa 2 EVM proto-mainnet,32770,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:49Z
+evm__Zilliqa_EVM_Isolated_Server,Zilliqa EVM Isolated Server,32990,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:49Z
+evm__Zircuit_Mainnet,Zircuit Mainnet,48900,mainnet,PARTIAL,https://mainnet.zircuit.com,37228297,cross-check,2026-11-11T10:26:49Z
+evm__Zoo_Mainnet,Zoo Mainnet,200200,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:50Z
+evm__Zora,Zora,7777777,mainnet,PARTIAL,https://rpc.zora.energy/,53849486,cross-check,2026-11-11T10:26:50Z
+evm__Ztc_Mainnet,Ztc Mainnet,9998,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:50Z
+evm__Zytron_Linea_Mainnet,Zytron Linea Mainnet,9901,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:50Z
+evm__Zyx_Mainnet,Zyx Mainnet,55,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:50Z
+evm__arena-z,arena-z,7897,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:50Z
+evm__bloxberg,bloxberg,8995,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:26:59Z
+evm__bokuto,bokuto,737373,mainnet,PARTIAL,https://rpc-bokuto.katanarpc.com,45981639,cross-check,2026-11-11T10:26:51Z
+evm__cheapETH,cheapETH,777,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:50Z
+evm__citronus-citro,citronus-citro,34949059,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:50Z
+evm__eGold_Chain,eGold Chain,11451,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:26:59Z
+evm__eLiberty_Mainnet,eLiberty Mainnet,990,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:50Z
+evm__eSync_Network_Mainnet,eSync Network Mainnet,63000,mainnet,PARTIAL,https://rpc.esync.network,33110871,tx-parse,2026-11-11T10:26:55Z
+evm__edeXa_Mainnet,edeXa Mainnet,5424,mainnet,PARTIAL,https://rpc.edexa.network,10321957,tx-parse,2026-11-11T10:27:02Z
+evm__exSat_Mainnet,exSat Mainnet,7200,mainnet,PARTIAL,https://evm.exsat.network,65932333,"tx-parse,cross-check",2026-11-11T10:26:56Z
+evm__firachain,firachain,194,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:53Z
+evm__iChain_Network,iChain Network,3639,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:53Z
+evm__iExec_Sidechain,iExec Sidechain,134,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:26:53Z
+evm__iSunCoin_Mainnet,iSunCoin Mainnet,8017,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:27:01Z
+evm__inEVM_Mainnet,inEVM Mainnet,2525,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:54Z
+evm__katana,katana,747474,mainnet,PASS,https://rpc.katana.network,47650004,,2026-11-11T10:26:56Z
+evm__mfenx,mfenx,177155,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:54Z
+evm__omChain_Mainnet,omChain Mainnet,21816,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:27:03Z
+evm__opBNB_Mainnet,opBNB Mainnet,204,mainnet,PASS,https://opbnb-mainnet-rpc.bnbchain.org,205103542,,2026-11-11T10:26:57Z
+evm__peaq,peaq,3338,mainnet,PASS,https://quicknode1.peaq.xyz,12338096,,2026-11-11T10:26:57Z
+evm__pegglecoin,pegglecoin,42069,mainnet,NO_ENDPOINT,,,none in chainid.network,2026-11-11T10:26:56Z
+evm__pointledger,pointledger,9889,mainnet,FAIL:no-handshake:TimeoutError,,,no-handshake:TimeoutError,2026-11-11T10:27:04Z
+evm__qChain_Mainnet,qChain Mainnet,30000,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:58Z
+evm__quarkblockchain,quarkblockchain,20181205,mainnet,PASS,https://rpc1.qkirpc.org,38227623,,2026-11-11T10:27:00Z
+evm__re_al,re.al,111188,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:59Z
+evm__unreal,unreal,18233,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:59Z
+evm__unreal-old,unreal-old,18231,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:59Z
+evm__volmex,volmex,123420000588,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:58Z
+evm__xFair_AI_Mainnet,xFair.AI Mainnet,278,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:58Z
+evm__zKatana,zKatana,1261120,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:59Z
+evm__zeroone_Mainnet_Subnet,zeroone Mainnet Subnet,27827,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:59Z
+evm__zkLink_Nova_Mainnet,zkLink Nova Mainnet,810180,mainnet,FAIL:no-handshake:HTTPError,,,no-handshake:HTTPError,2026-11-11T10:26:59Z
+evm__zkSync_Mainnet,zkSync Mainnet,324,mainnet,PASS,https://mainnet.era.zksync.io,72864483,,2026-11-11T10:27:00Z
+evm__zkXPLA_Mainnet,zkXPLA Mainnet,375,mainnet,FAIL:no-handshake:URLError,,,no-handshake:URLError,2026-11-11T10:26:59Z
