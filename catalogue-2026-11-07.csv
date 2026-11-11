@@ -23,7 +23,6 @@ directed_acyclic_graph__Fantom_Sonic_Mainnet,directed_acyclic_graph,Fantom Sonic
 directed_acyclic_graph__Hedera_Mainnet,directed_acyclic_graph,Hedera Mainnet,0.0.1,mainnet,active,Medium,mesh-nodes/directed_acyclic_graph/hederamainnet/node-config.json
 directed_acyclic_graph__Kaspa_Mainnet,directed_acyclic_graph,Kaspa Mainnet,kaspa,mainnet,active,Medium,mesh-nodes/directed_acyclic_graph/kaspamainnet/node-config.json
 elrond_multiversx__MultiversX_Mainnet,elrond_multiversx,MultiversX Mainnet,1,mainnet,active,Medium,mesh-nodes/elrond_multiversx/multiversxmainnet/node-config.json
-evm__,evm,,56,mainnet,active,Medium,mesh-nodes/evm/node-config.json
 evm__0G_Mainnet,evm,0G Mainnet,16661,mainnet,active,Medium,mesh-nodes/evm/0gmainnet/node-config.json
 evm__0XL3,evm,0XL3,7117,mainnet,active,Medium,mesh-nodes/evm/0xl3/node-config.json
 evm__0XTade,evm,0XTade,10248,mainnet,active,Medium,mesh-nodes/evm/0xtade/node-config.json
